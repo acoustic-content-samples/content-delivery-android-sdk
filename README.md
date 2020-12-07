@@ -1,8 +1,16 @@
-# Acoustic Content Delivery SDK
+# Acoustic Content Delivery Android SDK
 
-Acoustic Content Delivery SDK is lightweight library that provides ability to get content from Acoustic Content Hub via delivery search API.
+Android SDK for the Acoustic Content Delivery API.
 
-## Adding Acoustic Content Delivery SDK to the project
+## Motivation
+
+This SDK is designed to help utilize the content hosted in Acoustic Content libraries in mobile applications (headlessly).
+
+## Getting started
+
+Acoustic Content Delivery SDK is a lightweight library that provides the ability to get content from Acoustic Content Hub via the delivery search API.
+
+## Adding Acoustic Content Delivery SDK to your project
 
 In order to start using Acoustic Content Delivery SDK perform following steps:
 
