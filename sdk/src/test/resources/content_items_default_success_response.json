@@ -1,0 +1,1172 @@
+{"numFound":41,"documents":[{
+  "systemModified" : "2020-03-20T15:15:21.638Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-21aba0e24d8e2848951f0492491f39e5",
+    "thumbnail" : {
+      "id" : "99391ff8-7f5b-4101-ba80-e0cf4a7c321e",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.476Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Gallery Image",
+    "locale" : "en",
+    "tags" : [ "travel site sample", "Nature" ],
+    "elements" : {
+      "ImageTitle" : {
+        "elementType" : "text",
+        "value" : "Sakura Blossom in Japan"
+      },
+      "galleryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+        "renditions" : {
+          "squareCard" : {
+            "source" : "/delivery/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?resize=377px:250px&crop=250:250;64,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.19654,
+              "crop" : {
+                "x" : 64,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/4f61/4f613ed2-9367-4dd3-acae-8d1ad021f7e9.png?resize=377px%3A250px&crop=250%3A250%3B64%2C0"
+          },
+          "rectangleCard" : {
+            "source" : "/delivery/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?resize=1920px:1272px&crop=1920:562;0,355",
+            "width" : 1920,
+            "height" : 562,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 355,
+                "width" : 1920,
+                "height" : 562
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/4f61/4f613ed2-9367-4dd3-acae-8d1ad021f7e9.png?resize=1920px%3A1272px&crop=1920%3A562%3B0%2C355"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9",
+            "height" : 1272,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/4f61/4f613ed2-9367-4dd3-acae-8d1ad021f7e9.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Japan-Gallery.png",
+          "altText" : "Sakura blossom in Japan.",
+          "fileSize" : 912460,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "99391ff8-7f5b-4101-ba80-e0cf4a7c321e",
+          "resourceUri" : "/delivery/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9",
+          "height" : 1272
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/4f61/4f613ed2-9367-4dd3-acae-8d1ad021f7e9.png"
+      },
+      "imageDescription" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>In Japan, the appearance of cherry blossoms <em>(sakura)</em> indicates the beginning of spring. The best place to enjoy blossoms is to visit the main parks of Hokkaido: Hakodate, Sapporo, Furano, Otaru, and Asahikawa.</p>\n"
+      },
+      "imageCountryValue" : {
+        "categoryIds" : [ "afff9e99-d059-42c2-84e3-ac59e1ea371a" ],
+        "categories" : [ "Locations/Asia/Japan" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Japan Gallery Image",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/15cc8fce-5b04-49e1-a7f1-f5d09d918a55/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/15cc8fce-5b04-49e1-a7f1-f5d09d918a55/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/15cc8fce-5b04-49e1-a7f1-f5d09d918a55"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/37e98cc9-dbb5-4e3d-ba4a-ce06b046599f"
+      }
+    },
+    "id" : "15cc8fce-5b04-49e1-a7f1-f5d09d918a55",
+    "lastModified" : "2020-03-20T15:15:21.476Z",
+    "systemModified" : "2020-03-20T15:15:21.638Z",
+    "status" : "ready"
+  },
+  "text" : [ "ImageTitle Sakura Blossom in Japan", "galleryImage", "imageDescription In Japan, the appearance of cherry blossoms (sakura) indicates the beginning of spring. The best place to enjoy blossoms is to visit the main parks of Hokkaido: Hakodate, Sapporo, Furano, Otaru, and Asahikawa.", "imageCountryValue" ],
+  "text_en" : [ "ImageTitle Sakura Blossom in Japan", "galleryImage", "imageDescription In Japan, the appearance of cherry blossoms (sakura) indicates the beginning of spring. The best place to enjoy blossoms is to visit the main parks of Hokkaido: Hakodate, Sapporo, Furano, Otaru, and Asahikawa.", "imageCountryValue" ],
+  "type" : "Gallery Image",
+  "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "systemTags" : [ "rev:5-21aba0e24d8e2848951f0492491f39e5" ],
+  "tags" : [ "travel site sample", "Nature" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.476Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.476Z",
+  "classification" : "content",
+  "name" : "Japan Gallery Image",
+  "id" : "15cc8fce-5b04-49e1-a7f1-f5d09d918a55",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string3" : [ "Sakura Blossom in Japan" ],
+  "categories" : [ "Locations/Asia/Japan" ],
+  "categoryLeaves" : [ "Japan" ]
+},{
+  "systemModified" : "2020-03-20T15:15:21.635Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-94d5b4689b1cfdcec8cebed560c614c6",
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.492Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Region",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "regionTitle" : {
+        "elementType" : "text",
+        "value" : "Europe"
+      },
+      "countryList" : {
+        "categoryIds" : [ "cf94dc14-5057-4b61-b19e-55915aa5a56b", "07e62dc8-e25c-49e4-9253-ac4f76717142" ],
+        "categories" : [ "Locations/Europe/Croatia", "Locations/Europe/Italy" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Europe",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+    "links" : {
+      "createDraft" : {
+        "href" : "/authoring/v1/content/335d7e10-1c7f-4a5d-a39a-d6c0ceca8a86/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/335d7e10-1c7f-4a5d-a39a-d6c0ceca8a86/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/335d7e10-1c7f-4a5d-a39a-d6c0ceca8a86"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/9f077e72-352d-41a3-b2bb-b3857e6bc783"
+      }
+    },
+    "id" : "335d7e10-1c7f-4a5d-a39a-d6c0ceca8a86",
+    "lastModified" : "2020-03-20T15:15:21.492Z",
+    "systemModified" : "2020-03-20T15:15:21.635Z",
+    "status" : "ready"
+  },
+  "text" : [ "regionTitle Europe", "countryList" ],
+  "text_en" : [ "regionTitle Europe", "countryList" ],
+  "type" : "Region",
+  "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "systemTags" : [ "rev:5-94d5b4689b1cfdcec8cebed560c614c6" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.492Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.492Z",
+  "classification" : "content",
+  "name" : "Europe",
+  "id" : "335d7e10-1c7f-4a5d-a39a-d6c0ceca8a86",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/Europe/Croatia", "Locations/Europe/Italy" ],
+  "categoryLeaves" : [ "Croatia", "Italy" ]
+},{
+  "systemModified" : "2020-03-20T15:15:22.165Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle Top 3 Destinations in Croatia", "travelArticleImage", "articleAuthor John Smith", "travelArticleText What do George Lucas, George Martin, and Shakespeare have in common? The fact that the places of Croatia were used as a setting for a play or as filming locations. As these stunning places attract not only writers and producers, we will share with you 3 most popular destinations for travelers. Dubrovnik Located about 50 km from Montenegro, Dubrovnik is the southernmost town in Croatia that was listed as UNESCO World Heritage Site in 1979. The best time to visit Dubrovnik is from April to mid-June, and mid-September to mid-October. The most visited place in Dubrovnik is the old town, available only to pedestrians and surrounded by ancient walls. The old part of Dubrovnik is very well saved and filled with astonishing Renaissance, Gothic, and Baroque buildings, churches, and monasteries. After visiting the old town, explore Dubrovnik museums, among which Ethnographic museum Rupe, Dominican Monastery, tower Gornji Ugao, and Red History Museum. To grasp the whole beauty of the old town and enjoy it from the bird's view, you are welcomed to take a cable car ride, and it will take you from downtown about 800 meters up to the mount Srd. Besides the historical old town tour, you can enjoy taking the 'Game of Thrones' tour, where you will be guided through the filming locations of popular TV series. Zagreb The capital of Croatia, Zagreb, is also the largest city in the country. It originally existed as two different city centers: Kaptol, where mainly clerics resided, and Gradec, inhabited mainly by farmers and traders. In 1851, the Ban of Croatia (noble title) merged two cities in one under the name of Zagreb with the main city square named after Josip Jelačić. The best time to visit Zagreb is in spring and early summer. In early to mid-August, the temperature can be quite high and many locals take their holidays at this time, therefore you may find some of the local merchants’ shops and bars closed in this period. Spending your vacation in Zagreb, make sure to: Explore the Upper town - the oldest part of Zagreb that houses its top attractions: the Lotrscak tower, Stone gate, St. Marc Church, Stross promenade, the Mestrovic Atelier, and the Klovicevi Dvori gallery; Visit Downtown, filled with countless shops,  bars, and restaurants, located on Jelacic Square, Tkalciceva Street, Bogoviceva Street, and Cvjetni Trg (Flower’s Square); Attend museum of Broken relationships, where all featured items are relics of broken relationships; Come to the Technical Museum. Its main floor is dedicated to transport with a display of old cars, trains, planes, trams, as well as models of different ships and boats; Hike in Medvednica Mountain, located north of Zagreb. The most popular hike is up to the Puntijarka mountain house, located at the elevation of 957 m. Hvar Hvar is perhaps the most famous of all Croatian islands. It is located in central Dalmatia and between islands of Brac, Vis, Korcula, and Peljesac peninsula. The island is over 68 km long from northwest to southeast and is the longest Croatian island. The main tourist season starts in late June and lasts to early September, peaking at the end of July till the middle of August. On the island, plan an unhurried vacation to admire its beauty, visit the Stari Grad Hvar (the Old Town), and, of course, taste local wines. Stari Grad Hvar is the oldest settlement on the island. The old town consists of traditional stone buildings, stone-paved roads, and countless churches. One of the most fascinating places in town is Tvrdalj Castle, a palace from the 16th century. Plan a full-day wine tour while on the island of Hvar. Popular wine-producers are Zlatan Otok, Tomić Wines, PZ Svirce, Plancic Brothers, and others. Popular wine grape varieties include red plavac mali and white pošip." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle Top 3 Destinations in Croatia", "travelArticleImage", "articleAuthor John Smith", "travelArticleText What do George Lucas, George Martin, and Shakespeare have in common? The fact that the places of Croatia were used as a setting for a play or as filming locations. As these stunning places attract not only writers and producers, we will share with you 3 most popular destinations for travelers. Dubrovnik Located about 50 km from Montenegro, Dubrovnik is the southernmost town in Croatia that was listed as UNESCO World Heritage Site in 1979. The best time to visit Dubrovnik is from April to mid-June, and mid-September to mid-October. The most visited place in Dubrovnik is the old town, available only to pedestrians and surrounded by ancient walls. The old part of Dubrovnik is very well saved and filled with astonishing Renaissance, Gothic, and Baroque buildings, churches, and monasteries. After visiting the old town, explore Dubrovnik museums, among which Ethnographic museum Rupe, Dominican Monastery, tower Gornji Ugao, and Red History Museum. To grasp the whole beauty of the old town and enjoy it from the bird's view, you are welcomed to take a cable car ride, and it will take you from downtown about 800 meters up to the mount Srd. Besides the historical old town tour, you can enjoy taking the 'Game of Thrones' tour, where you will be guided through the filming locations of popular TV series. Zagreb The capital of Croatia, Zagreb, is also the largest city in the country. It originally existed as two different city centers: Kaptol, where mainly clerics resided, and Gradec, inhabited mainly by farmers and traders. In 1851, the Ban of Croatia (noble title) merged two cities in one under the name of Zagreb with the main city square named after Josip Jelačić. The best time to visit Zagreb is in spring and early summer. In early to mid-August, the temperature can be quite high and many locals take their holidays at this time, therefore you may find some of the local merchants’ shops and bars closed in this period. Spending your vacation in Zagreb, make sure to: Explore the Upper town - the oldest part of Zagreb that houses its top attractions: the Lotrscak tower, Stone gate, St. Marc Church, Stross promenade, the Mestrovic Atelier, and the Klovicevi Dvori gallery; Visit Downtown, filled with countless shops,  bars, and restaurants, located on Jelacic Square, Tkalciceva Street, Bogoviceva Street, and Cvjetni Trg (Flower’s Square); Attend museum of Broken relationships, where all featured items are relics of broken relationships; Come to the Technical Museum. Its main floor is dedicated to transport with a display of old cars, trains, planes, trams, as well as models of different ships and boats; Hike in Medvednica Mountain, located north of Zagreb. The most popular hike is up to the Puntijarka mountain house, located at the elevation of 957 m. Hvar Hvar is perhaps the most famous of all Croatian islands. It is located in central Dalmatia and between islands of Brac, Vis, Korcula, and Peljesac peninsula. The island is over 68 km long from northwest to southeast and is the longest Croatian island. The main tourist season starts in late June and lasts to early September, peaking at the end of July till the middle of August. On the island, plan an unhurried vacation to admire its beauty, visit the Stari Grad Hvar (the Old Town), and, of course, taste local wines. Stari Grad Hvar is the oldest settlement on the island. The old town consists of traditional stone buildings, stone-paved roads, and countless churches. One of the most fascinating places in town is Tvrdalj Castle, a palace from the 16th century. Plan a full-day wine tour while on the island of Hvar. Popular wine-producers are Zlatan Otok, Tomić Wines, PZ Svirce, Plancic Brothers, and others. Popular wine grape varieties include red plavac mali and white pošip." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-455b11bfffdf5925f8b341f22e62137c" ],
+  "tags" : [ "travel site sample", "hiking", "sights" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.981Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.981Z",
+  "classification" : "content",
+  "name" : "Croatia Travel Article",
+  "id" : "36bb714a-bc0d-4672-ad3f-5ac5331b5574",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "Top 3 Destinations in Croatia" ],
+  "categories" : [ "Locations/Europe/Croatia" ],
+  "categoryLeaves" : [ "Croatia" ],
+  "document" : {
+    "rev" : "5-455b11bfffdf5925f8b341f22e62137c",
+    "thumbnail" : {
+      "id" : "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.981Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "travel site sample", "hiking", "sights" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "cf94dc14-5057-4b61-b19e-55915aa5a56b" ],
+        "categories" : [ "Locations/Europe/Croatia" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "Top 3 Destinations in Croatia"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?resize=830px:250px&crop=250:250;290,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252,
+              "crop" : {
+                "x" : 290,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e4c5/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png?resize=830px%3A250px&crop=250%3A250%3B290%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e4c5/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Croatia-Lead-Image.png",
+          "altText" : "The landscape of Croatia with famous red-roof buildings, hilly terrain, covered with forests, and small bays.",
+          "fileSize" : 677551,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+          "resourceUri" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e4c5/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>What do George Lucas, George Martin,&nbsp;and Shakespeare have in common? The fact that the places of Croatia were used as a setting for a play or as&nbsp;filming locations. As these stunning places attract not only writers and producers, we will share with you 3 most popular destinations for travelers.</em></p> \n<h2>Dubrovnik</h2> \n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\">\n <img data-wch-asset-id=\"6739800e-807e-442d-b929-c31b3654d047\" height=\"422\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/4813/4813c51d-a8ae-4508-ad3d-2ecbacfec01f.png\" width=\"750\">\n</div> \n<p>Located about&nbsp;50 km from Montenegro,&nbsp;Dubrovnik is the southernmost town in Croatia that&nbsp;was listed as UNESCO World Heritage Site in 1979.</p> \n<p>The&nbsp;best time to visit Dubrovnik&nbsp;is from April to mid-June, and mid-September to mid-October.</p> \n<p>The most visited place in Dubrovnik is the old town,&nbsp;available only to pedestrians and surrounded by ancient walls. The old part of Dubrovnik&nbsp;is very well saved and filled with astonishing Renaissance, Gothic, and Baroque buildings, churches, and monasteries.</p> \n<p>After visiting the old town, explore&nbsp;Dubrovnik museums, among which&nbsp;Ethnographic museum Rupe,&nbsp;Dominican Monastery, tower&nbsp;Gornji Ugao, and&nbsp;Red History Museum.</p> \n<p>To grasp the whole beauty of the old town and enjoy it from the bird's view, you are welcomed to take a cable car ride, and it will take you from downtown about 800 meters up to the mount Srd.</p> \n<p>Besides the historical old town tour, you can enjoy taking the 'Game of Thrones' tour, where you will be guided through the filming locations of popular TV series.</p> \n<h2>Zagreb</h2> \n<p><img data-wch-asset-id=\"8ad4934d-b5a8-49cf-9d9c-8038d4d965ac\" height=\"500\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/ddd5/ddd57b6a-262a-4a9c-b758-48eab3904029.png\" style=\"float:left;padding:0px 20px 0px 0px\" width=\"400\"></p> \n<p>The capital of&nbsp;Croatia, Zagreb, is also the largest city in the country. It originally existed as two different city centers:&nbsp;Kaptol, where mainly&nbsp;clerics resided,&nbsp;and&nbsp;Gradec, inhabited mainly by farmers and traders.</p> \n<p>In 1851, the Ban of Croatia (<em>noble title</em>) merged two cities in one under the name of Zagreb with the main city square named after Josip Jelačić.</p> \n<p>The best time to visit Zagreb is in&nbsp;spring and early summer.&nbsp;In early to mid-August, the temperature can be quite high and many locals take their holidays at this time, therefore you may find some of the local merchants’ shops and bars closed in this period.</p> \n<p>Spending your vacation in Zagreb, make sure to:</p> \n<ul>\n <li> <p>Explore the Upper town - the oldest part of Zagreb that houses its&nbsp;top attractions: the Lotrscak tower, Stone gate, St. Marc Church, Stross promenade, the Mestrovic Atelier, and the Klovicevi Dvori gallery;</p> </li>\n <li> <p>Visit Downtown,&nbsp;filled with countless shops,&nbsp; bars, and restaurants, located on Jelacic Square,&nbsp;Tkalciceva Street,&nbsp;Bogoviceva Street, and Cvjetni Trg (Flower’s Square);</p> </li>\n <li> <p>Attend museum of Broken relationships, where&nbsp;all featured items are relics of broken relationships;</p> </li>\n <li> <p>Come to the Technical&nbsp;Museum. Its main floor is dedicated to transport with a display of old cars, trains, planes, trams, as well as models of different ships and boats;</p> </li>\n <li> <p>Hike in Medvednica Mountain,&nbsp;located north of Zagreb.&nbsp;The most popular hike is up to the&nbsp;Puntijarka&nbsp;mountain house, located at the elevation of 957 m.</p> </li>\n</ul> \n<h2>Hvar</h2> \n<p><img data-wch-asset-id=\"8c4204e9-71fb-4861-87d1-65ef5b0aa4e6\" height=\"300\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0d20/0d20d531-c12e-44f4-a8e8-fff292547e88.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"450\">Hvar is perhaps&nbsp;the most famous of all Croatian islands. It is located in central Dalmatia and between islands of Brac, Vis, Korcula, and Peljesac peninsula.</p> \n<p>The island is over 68 km long from northwest to southeast and is&nbsp;the longest Croatian island.</p> \n<p>The main tourist season starts in&nbsp;late June and lasts to early September, peaking at the end of July till the middle of&nbsp;August.</p> \n<p>On the island, plan an unhurried vacation to admire its beauty, visit the Stari Grad Hvar (the Old Town), and, of course, taste local wines.</p> \n<p><em>Stari Grad&nbsp;Hvar</em>&nbsp;is the oldest settlement on the island. The old town consists of traditional stone buildings, stone-paved roads, and countless churches. One of the most fascinating places in town is Tvrdalj Castle, a palace from the 16th&nbsp;century.</p> \n<p>Plan a full-day <em>wine tour</em> while on the island of Hvar.&nbsp;Popular wine-producers are Zlatan Otok, Tomić Wines, PZ Svirce, Plancic Brothers, and others.&nbsp;Popular wine grape varieties include red&nbsp;<em>plavac mali</em>&nbsp;and white <em>pošip</em>.</p>"
+      }
+    },
+    "name" : "Croatia Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/36bb714a-bc0d-4672-ad3f-5ac5331b5574/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/36bb714a-bc0d-4672-ad3f-5ac5331b5574/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/36bb714a-bc0d-4672-ad3f-5ac5331b5574"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "36bb714a-bc0d-4672-ad3f-5ac5331b5574",
+    "lastModified" : "2020-03-20T15:15:21.981Z",
+    "systemModified" : "2020-03-20T15:15:22.165Z",
+    "status" : "ready"
+  }
+},{
+  "systemModified" : "2020-03-20T15:15:22.201Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle The Green City of Singapore", "travelArticleImage", "articleAuthor John Smith", "travelArticleText The city-state of Singapore is the greenest city in Asia, according to the Green City Index. Green buildings, developed to utilize resources in a more frugal way and be less harmful to the natural environment, have been acclaimed as a way to deal with climate change. The Building Construction Authority of Singapore aims for 80% of buildings to be certified as green ones under the national Green Mark certification by 2030. The most recent and - no doubts - most impressing green constructions of Singapore are Gardens by the Bay and Jewel of Changi Airport. Gardens by the Bay Gardens by the Bay is an urban outdoor recreation space and park that covers 101 hectares of land near the Marina Reservoir in the Central Region of Singapore. In 2018, Gardens had visitorship achieving a record high and exceeding 12 million. Since its inception, this national icon of Singapore has been visited over 56.2 million times (as of 31 March 2019). The park comprises three waterfront gardens: Bay South Garden, the largest of the three gardens, that was opened to the public on 29 June 2012, spans over 54 hectares and displays a big variety of tropical plants and garden artistry. Bay East Garden, spanning 32 hectares of land and designed as a group of tropical leaf-shaped gardens, offers a relaxing break from the busy city and amazing views of the city, parks, and gardens. Bay Central Garden is the garden that is currently under construction and will be a linkage between Bay South to Bay East with a waterfront boardwalk. Jewel of Changi Airport In April 2019, Changi Airport opened Jewel, a lifestyle place between the control tower and Terminal 1 of the airport. This ten-story construction comprises almost three hundred shops and restaurants. State-of-art dome of Jewel, made of glass and steel, required 4 years and US$1.25 billion to be built. The dome was designed by architect Moshe Safdie, whose previous works include one of the most famous hotels - Marina Bay Sands. Inside you can find an IMAX cinema, a full-sized supermarket, a hotel, and the Rain Vortex, the highest indoor waterfall in the world." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle The Green City of Singapore", "travelArticleImage", "articleAuthor John Smith", "travelArticleText The city-state of Singapore is the greenest city in Asia, according to the Green City Index. Green buildings, developed to utilize resources in a more frugal way and be less harmful to the natural environment, have been acclaimed as a way to deal with climate change. The Building Construction Authority of Singapore aims for 80% of buildings to be certified as green ones under the national Green Mark certification by 2030. The most recent and - no doubts - most impressing green constructions of Singapore are Gardens by the Bay and Jewel of Changi Airport. Gardens by the Bay Gardens by the Bay is an urban outdoor recreation space and park that covers 101 hectares of land near the Marina Reservoir in the Central Region of Singapore. In 2018, Gardens had visitorship achieving a record high and exceeding 12 million. Since its inception, this national icon of Singapore has been visited over 56.2 million times (as of 31 March 2019). The park comprises three waterfront gardens: Bay South Garden, the largest of the three gardens, that was opened to the public on 29 June 2012, spans over 54 hectares and displays a big variety of tropical plants and garden artistry. Bay East Garden, spanning 32 hectares of land and designed as a group of tropical leaf-shaped gardens, offers a relaxing break from the busy city and amazing views of the city, parks, and gardens. Bay Central Garden is the garden that is currently under construction and will be a linkage between Bay South to Bay East with a waterfront boardwalk. Jewel of Changi Airport In April 2019, Changi Airport opened Jewel, a lifestyle place between the control tower and Terminal 1 of the airport. This ten-story construction comprises almost three hundred shops and restaurants. State-of-art dome of Jewel, made of glass and steel, required 4 years and US$1.25 billion to be built. The dome was designed by architect Moshe Safdie, whose previous works include one of the most famous hotels - Marina Bay Sands. Inside you can find an IMAX cinema, a full-sized supermarket, a hotel, and the Rain Vortex, the highest indoor waterfall in the world." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-5f7ca2529b24bd884c2162880899aac5" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22Z",
+  "classification" : "content",
+  "name" : "Singapore Travel Article",
+  "id" : "37e78332-1982-481f-a3df-db572a7e208c",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "The Green City of Singapore" ],
+  "categories" : [ "Locations/Asia/Singapore" ],
+  "categoryLeaves" : [ "Singapore" ],
+  "document" : {
+    "rev" : "5-5f7ca2529b24bd884c2162880899aac5",
+    "thumbnail" : {
+      "id" : "cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:22Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "62bc29c6-3b62-4820-b322-20072f1d606e" ],
+        "categories" : [ "Locations/Asia/Singapore" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "The Green City of Singapore"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?resize=830px:250px&crop=250:250;290,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252,
+              "crop" : {
+                "x" : 290,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/dd93/dd93f8e7-4a91-4e33-bacc-01d89699502b.png?resize=830px%3A250px&crop=250%3A250%3B290%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/dd93/dd93f8e7-4a91-4e33-bacc-01d89699502b.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Singapore-Lead-Image.png",
+          "altText" : "Colonial-style colorful buildings in Singapore.",
+          "fileSize" : 450232,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49",
+          "resourceUri" : "/delivery/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/dd93/dd93f8e7-4a91-4e33-bacc-01d89699502b.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>The city-state of Singapore&nbsp;is the greenest city in Asia, according to the&nbsp;Green City Index. Green buildings, developed to utilize resources in a more frugal way and be less harmful to the natural environment, have been acclaimed as a way to deal with climate change.</em></p> \n<p><em>The Building Construction Authority of Singapore aims for&nbsp;80% of buildings to be certified as&nbsp;green ones under the national Green Mark certification by 2030. The most recent and - no doubts - most impressing green constructions of Singapore are Gardens by the Bay and Jewel of Changi Airport.</em></p> \n<h2>Gardens by the Bay</h2> \n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\">\n <img data-wch-asset-id=\"11b91ef2-a94b-4889-bef0-7b8913216d96\" height=\"383\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/d721/d7214db9-6753-4f35-9375-757fc6ba1b0d.png\" width=\"750\">\n</div> \n<p>Gardens by the Bay&nbsp;is an&nbsp;urban outdoor recreation space and park&nbsp;that covers 101 hectares&nbsp;of land near the&nbsp;Marina Reservoir in the&nbsp;Central Region of Singapore.</p> \n<p>In 2018, Gardens had visitorship achieving a record high and exceeding 12 million. Since its inception, this national icon of Singapore has been visited over 56.2 million times (as of 31 March 2019).</p> \n<p>The park comprises three waterfront gardens:</p> \n<p><strong>Bay South Garden</strong>,&nbsp;the largest of the three gardens, that was opened to the public on 29 June 2012,&nbsp;spans over 54 hectares and displays a big variety of tropical plants and garden artistry.</p> \n<p><strong>Bay East Garden</strong>, spanning 32 hectares of land and designed as a group of tropical leaf-shaped gardens, offers a relaxing break from the busy city and amazing views of the city, parks, and gardens.</p> \n<p><strong>Bay Central Garden</strong>&nbsp;is the garden that is currently under construction and will be a linkage between Bay South to Bay East with a waterfront boardwalk.</p> \n<h2>Jewel of Changi Airport</h2> \n<p><img data-wch-asset-id=\"2256b285-b712-4f6f-bf64-3a974cd84bd1\" height=\"300\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/8591/8591e603-ed71-4ee6-8322-7eaf45257644.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"400\"></p> \n<p>In April 2019, Changi Airport opened Jewel, a lifestyle place between the control tower and Terminal 1 of the airport. This ten-story construction comprises&nbsp;almost three hundred shops and restaurants.</p> \n<p>State-of-art dome of Jewel, made of glass and steel, required 4 years and&nbsp;US$1.25 billion to be built. The dome was designed by architect Moshe Safdie, whose previous works include one of the most famous hotels - Marina Bay Sands.</p> \n<p>Inside you can find an IMAX cinema, a full-sized supermarket, a hotel, and the Rain Vortex, the highest indoor waterfall in the world.</p>"
+      }
+    },
+    "name" : "Singapore Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/37e78332-1982-481f-a3df-db572a7e208c/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/37e78332-1982-481f-a3df-db572a7e208c/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/37e78332-1982-481f-a3df-db572a7e208c"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "37e78332-1982-481f-a3df-db572a7e208c",
+    "lastModified" : "2020-03-20T15:15:22Z",
+    "systemModified" : "2020-03-20T15:15:22.201Z",
+    "status" : "ready"
+  }
+},{
+  "systemModified" : "2020-03-20T15:15:22.279Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-18cf1b6d66829217aa4f88a56cdeffec",
+    "thumbnail" : {
+      "id" : "291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:22.047Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Gallery Image",
+    "locale" : "en",
+    "tags" : [ "Travel Site Sample", "Nature", "Hiking" ],
+    "elements" : {
+      "ImageTitle" : {
+        "elementType" : "text",
+        "value" : "The Inca Trail of Machu Picchu"
+      },
+      "galleryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+        "renditions" : {
+          "squareCard" : {
+            "source" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?resize=375px:250px&crop=250:250;62,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.19531,
+              "crop" : {
+                "x" : 62,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e349/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+          },
+          "rectangleCard" : {
+            "source" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?resize=1920px:1280px&crop=1920:562;0,359",
+            "width" : 1920,
+            "height" : 562,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 359,
+                "width" : 1920,
+                "height" : 562
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e349/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5",
+            "height" : 1280,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e349/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Peru-Gallery.png",
+          "altText" : "A trail in the mountains of Peru.",
+          "fileSize" : 1352315,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+          "resourceUri" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5",
+          "height" : 1280
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e349/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png"
+      },
+      "imageDescription" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>The most popular trek to Machu Picchu is the Inca Trail, which exactly repeats original pathways that Inca took from the Sacred Valley to Machu Picchu. This track is limited to 500 trekkers a day (300 of which are reserved for guides), as the government has concerns over the impact of tourism on the Historic Sanctuary of Machu Picchu.</p>\n"
+      },
+      "imageCountryValue" : {
+        "categoryIds" : [ "a26366ee-c584-4c2f-9147-3b92664792b0" ],
+        "categories" : [ "Locations/South America/Peru" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Peru Gallery Image",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/6107f44c-c5b6-47e4-9530-285658ba2ac0/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/6107f44c-c5b6-47e4-9530-285658ba2ac0/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/6107f44c-c5b6-47e4-9530-285658ba2ac0"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/37e98cc9-dbb5-4e3d-ba4a-ce06b046599f"
+      }
+    },
+    "id" : "6107f44c-c5b6-47e4-9530-285658ba2ac0",
+    "lastModified" : "2020-03-20T15:15:22.047Z",
+    "systemModified" : "2020-03-20T15:15:22.279Z",
+    "status" : "ready"
+  },
+  "text" : [ "ImageTitle The Inca Trail of Machu Picchu", "galleryImage", "imageDescription The most popular trek to Machu Picchu is the Inca Trail, which exactly repeats original pathways that Inca took from the Sacred Valley to Machu Picchu. This track is limited to 500 trekkers a day (300 of which are reserved for guides), as the government has concerns over the impact of tourism on the Historic Sanctuary of Machu Picchu.", "imageCountryValue" ],
+  "text_en" : [ "ImageTitle The Inca Trail of Machu Picchu", "galleryImage", "imageDescription The most popular trek to Machu Picchu is the Inca Trail, which exactly repeats original pathways that Inca took from the Sacred Valley to Machu Picchu. This track is limited to 500 trekkers a day (300 of which are reserved for guides), as the government has concerns over the impact of tourism on the Historic Sanctuary of Machu Picchu.", "imageCountryValue" ],
+  "type" : "Gallery Image",
+  "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "systemTags" : [ "rev:5-18cf1b6d66829217aa4f88a56cdeffec" ],
+  "tags" : [ "Travel Site Sample", "Nature", "Hiking" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.047Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.047Z",
+  "classification" : "content",
+  "name" : "Peru Gallery Image",
+  "id" : "6107f44c-c5b6-47e4-9530-285658ba2ac0",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string3" : [ "The Inca Trail of Machu Picchu" ],
+  "categories" : [ "Locations/South America/Peru" ],
+  "categoryLeaves" : [ "Peru" ]
+},{
+  "systemModified" : "2020-03-20T15:15:22.279Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-7dfadbd18f2b435f235dfe4108877312",
+    "thumbnail" : {
+      "id" : "ae34bca1-82e5-47f2-a8b7-394fc5eb9891",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:22.071Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Gallery Image",
+    "locale" : "en",
+    "tags" : [ "travel site sample", "Nature" ],
+    "elements" : {
+      "ImageTitle" : {
+        "elementType" : "text",
+        "value" : "Penguins of South Africa"
+      },
+      "galleryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+        "renditions" : {
+          "squareCard" : {
+            "source" : "/delivery/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587?resize=375px:250px&crop=250:250;62,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.19531,
+              "crop" : {
+                "x" : 62,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9953/99533fa7-3b73-46f8-9421-4f4082203587.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+          },
+          "rectangleCard" : {
+            "source" : "/delivery/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587?resize=1920px:1280px&crop=1920:562;0,359",
+            "width" : 1920,
+            "height" : 562,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 359,
+                "width" : 1920,
+                "height" : 562
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9953/99533fa7-3b73-46f8-9421-4f4082203587.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587",
+            "height" : 1280,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9953/99533fa7-3b73-46f8-9421-4f4082203587.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "South-Africa-Gallery.png",
+          "altText" : "Penguins ashore in South Africa.",
+          "fileSize" : 937600,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "ae34bca1-82e5-47f2-a8b7-394fc5eb9891",
+          "resourceUri" : "/delivery/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587",
+          "height" : 1280
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9953/99533fa7-3b73-46f8-9421-4f4082203587.png"
+      },
+      "imageDescription" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>Although it is commonly believed that penguins live only in distant and cold places as Antarctica, there are also penguins on the African continent.</p>\n\n<p>The African penguin, also known as the <em>Cape penguin</em>, is a species that can be found on the south-western coast of Africa, with the first penguin colonies established near Cape Town, South Africa.</p>\n"
+      },
+      "imageCountryValue" : {
+        "categoryIds" : [ "e7585579-d9cd-4837-a089-5a8dd8779a52" ],
+        "categories" : [ "Locations/Africa/South Africa" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "South Africa Gallery Image",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/99533fa7-3b73-46f8-9421-4f4082203587?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/46dd4f41-0daf-4465-9e68-9bd0cfe09a18/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/46dd4f41-0daf-4465-9e68-9bd0cfe09a18/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/46dd4f41-0daf-4465-9e68-9bd0cfe09a18"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/37e98cc9-dbb5-4e3d-ba4a-ce06b046599f"
+      }
+    },
+    "id" : "46dd4f41-0daf-4465-9e68-9bd0cfe09a18",
+    "lastModified" : "2020-03-20T15:15:22.071Z",
+    "systemModified" : "2020-03-20T15:15:22.279Z",
+    "status" : "ready"
+  },
+  "text" : [ "ImageTitle Penguins of South Africa", "galleryImage", "imageDescription Although it is commonly believed that penguins live only in distant and cold places as Antarctica, there are also penguins on the African continent. The African penguin, also known as the Cape penguin, is a species that can be found on the south-western coast of Africa, with the first penguin colonies established near Cape Town, South Africa.", "imageCountryValue" ],
+  "text_en" : [ "ImageTitle Penguins of South Africa", "galleryImage", "imageDescription Although it is commonly believed that penguins live only in distant and cold places as Antarctica, there are also penguins on the African continent. The African penguin, also known as the Cape penguin, is a species that can be found on the south-western coast of Africa, with the first penguin colonies established near Cape Town, South Africa.", "imageCountryValue" ],
+  "type" : "Gallery Image",
+  "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "systemTags" : [ "rev:5-7dfadbd18f2b435f235dfe4108877312" ],
+  "tags" : [ "travel site sample", "Nature" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.071Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.071Z",
+  "classification" : "content",
+  "name" : "South Africa Gallery Image",
+  "id" : "46dd4f41-0daf-4465-9e68-9bd0cfe09a18",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string3" : [ "Penguins of South Africa" ],
+  "categories" : [ "Locations/Africa/South Africa" ],
+  "categoryLeaves" : [ "South Africa" ]
+},{
+  "systemModified" : "2020-03-20T15:15:21.643Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle The Wilderness of Kenya", "travelArticleImage", "articleAuthor John Smith", "travelArticleText Kenya is a unique combination of the untouched culture of dozens of tribes, wildlife and the vibrant nightlife of cities. And if the nightlife is about the same in different cities across the globe, the nature of this country is what you have to come here for. Explore Kenya With a Remarkable Safari Kenya is considered the place where safari initially appeared. Vast magnificent national parks and conservancies are at your disposal to explore the wildlife of this country. It is one of the best places in Africa to see the \"Big Five\": lion, leopard, buffalo, elephant, and rhino. Perfect places for safari would be Masai Mara and Lake Nakuru. Other destinations, where you can see most of the \"Big Five\" include Tsavo East, Tsavo West, Amboseli, Laikipia Plateau, Samburu-Buffalo Springs-Shaba, Meru, and Shimba Hills.  See The Wilderness Beneath the Surface Another popular activity in Kenya is diving - an 'underwater safari' that provides a rare experience of exploring a large area of wild nature hidden beneath the surface of the Indian Ocean. Diving in Kenya is mostly fine throughout the year, although visibility decreases in July and August due to silting. The weather is almost always warm and sunny, with excellent water temperature, which creates ideal conditions for diving. Several first-class diving places that worth visiting include: Sites of the coast North of Mombasa, with the best ones in the Watamu Marine National Park; Dive site in the Canyon - a long sandy channel, bordered on each side by deep drop-offs; Sites at Mtwapa and Barracuda Reef, where you can see large shoals of angel and butterfly fish, and the world’s largest shark - the impressive Whale Shark. Climb Africa’s Second-highest Mountain Mount Kenya is the highest mountain in Kenya (5,199 m) and second-highest in Africa, after Kilimanjaro (5,895 m). The main thing one has to remember about it is that the whole country of Kenya was named after this mountain. There are 12 slowly melting glaciers on the mountain and 4 secondary peaks that are at the head of the glacial valleys. With its glacier peaks and forested slopes, Mount Kenya is one of the most stunning sceneries in East Africa." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle The Wilderness of Kenya", "travelArticleImage", "articleAuthor John Smith", "travelArticleText Kenya is a unique combination of the untouched culture of dozens of tribes, wildlife and the vibrant nightlife of cities. And if the nightlife is about the same in different cities across the globe, the nature of this country is what you have to come here for. Explore Kenya With a Remarkable Safari Kenya is considered the place where safari initially appeared. Vast magnificent national parks and conservancies are at your disposal to explore the wildlife of this country. It is one of the best places in Africa to see the \"Big Five\": lion, leopard, buffalo, elephant, and rhino. Perfect places for safari would be Masai Mara and Lake Nakuru. Other destinations, where you can see most of the \"Big Five\" include Tsavo East, Tsavo West, Amboseli, Laikipia Plateau, Samburu-Buffalo Springs-Shaba, Meru, and Shimba Hills.  See The Wilderness Beneath the Surface Another popular activity in Kenya is diving - an 'underwater safari' that provides a rare experience of exploring a large area of wild nature hidden beneath the surface of the Indian Ocean. Diving in Kenya is mostly fine throughout the year, although visibility decreases in July and August due to silting. The weather is almost always warm and sunny, with excellent water temperature, which creates ideal conditions for diving. Several first-class diving places that worth visiting include: Sites of the coast North of Mombasa, with the best ones in the Watamu Marine National Park; Dive site in the Canyon - a long sandy channel, bordered on each side by deep drop-offs; Sites at Mtwapa and Barracuda Reef, where you can see large shoals of angel and butterfly fish, and the world’s largest shark - the impressive Whale Shark. Climb Africa’s Second-highest Mountain Mount Kenya is the highest mountain in Kenya (5,199 m) and second-highest in Africa, after Kilimanjaro (5,895 m). The main thing one has to remember about it is that the whole country of Kenya was named after this mountain. There are 12 slowly melting glaciers on the mountain and 4 secondary peaks that are at the head of the glacial valleys. With its glacier peaks and forested slopes, Mount Kenya is one of the most stunning sceneries in East Africa." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-30955d3765111f2f409b4568153d2eb2" ],
+  "tags" : [ "Travel Site Sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.485Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.485Z",
+  "classification" : "content",
+  "name" : "Kenya Travel Article",
+  "id" : "341fcd0e-e9aa-4069-a01d-ad1d91d2d88d",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "The Wilderness of Kenya" ],
+  "categories" : [ "Locations/Africa/Kenya" ],
+  "categoryLeaves" : [ "Kenya" ],
+  "document" : {
+    "rev" : "5-30955d3765111f2f409b4568153d2eb2",
+    "thumbnail" : {
+      "id" : "e5da3c02-9149-4cc4-aed8-6e554a0ab0ad",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.485Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "Travel Site Sample" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "f47689e6-66aa-48d9-971a-fc9abdab26ce" ],
+        "categories" : [ "Locations/Africa/Kenya" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "The Wilderness of Kenya"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?resize=830px:250px&crop=250:250;290,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252,
+              "crop" : {
+                "x" : 290,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/6d5f/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a.png?resize=830px%3A250px&crop=250%3A250%3B290%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/6d5f/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Kenya-Lead-Image.png",
+          "altText" : "A herd of elephants in the jungle.",
+          "fileSize" : 833010,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "e5da3c02-9149-4cc4-aed8-6e554a0ab0ad",
+          "resourceUri" : "/delivery/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/6d5f/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>Kenya is a unique combination of the untouched culture of dozens of tribes, wildlife and the vibrant nightlife of cities.&nbsp;And if the nightlife is about the same in different cities across&nbsp;the globe, the nature of this country&nbsp;is what you have to come here for.</em></p> \n<h3>Explore Kenya With a Remarkable Safari</h3> \n<p>Kenya is considered the place where safari initially appeared. Vast magnificent national parks and&nbsp;conservancies are at your disposal to explore the wildlife of this country.&nbsp;It is one of the best places in Africa to see the \"Big Five\": lion, leopard, buffalo, elephant, and rhino.</p> \n<p>Perfect places for safari would be <em>Masai Mara</em> and <em>Lake Nakuru</em>. Other destinations, where you can see&nbsp;most of the \"Big Five\" include Tsavo East, Tsavo West, Amboseli, Laikipia Plateau, Samburu-Buffalo Springs-Shaba, Meru, and Shimba Hills.</p> \n<div style=\"text-align:center;clear:both\">\n <img data-wch-asset-id=\"d2282eb0-f2ae-452c-aa20-e4e245f2cf0c\" height=\"513\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/cd43/cd436d62-e746-43eb-8be6-a3578d0b4bed.png\" width=\"750\">\n</div> \n<h3>&nbsp;See The Wilderness Beneath the Surface</h3> \n<p><img data-wch-asset-id=\"afe7d555-229f-47cd-8ba0-4513cb844ec2\" height=\"334\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a085/a085189d-418b-4696-9c81-29403381b20e.png\" style=\"float:left;padding:5px 20px 0px 0px\" width=\"300\">Another popular activity in Kenya is diving - an 'underwater safari' that provides a rare experience of exploring a large&nbsp;area of wild nature hidden beneath the surface of the Indian Ocean.</p> \n<p>Diving in Kenya is mostly fine throughout the year, although visibility decreases in July and August due to silting. The weather is almost always warm and sunny, with excellent water temperature, which creates ideal conditions for diving.</p> \n<p>Several first-class diving places that worth visiting include:</p> \n<ul>\n <li>Sites of the coast <em>North of Mombasa</em>, with the best ones in the Watamu Marine National Park;</li>\n <li>Dive site in the <em>Canyon</em> - a long sandy channel, bordered on each side by deep drop-offs;</li>\n <li>Sites at <em>Mtwapa</em> and <em>Barracuda Reef</em>, where you can see large shoals of angel and butterfly fish, and the world’s largest shark - the impressive Whale Shark.</li>\n</ul> \n<h3>Climb Africa’s Second-highest Mountain</h3> \n<p><img data-wch-asset-id=\"0985d53b-861f-4968-8c05-81788128d3db\" height=\"230\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/25b7/25b7401b-96fa-4512-971f-4a4c318522dd.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"345\">Mount Kenya is the highest mountain in Kenya (5,199 m)&nbsp;and second-highest in Africa, after Kilimanjaro (5,895 m).</p> \n<p>The main thing one has to remember about it is that the whole country of Kenya was named after this mountain.</p> \n<p>There are 12 slowly melting glaciers on the mountain&nbsp;and 4 secondary peaks that are at the head of the glacial valleys. With its glacier peaks and forested slopes, Mount Kenya is one of the most stunning sceneries in East Africa.</p>"
+      }
+    },
+    "name" : "Kenya Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/341fcd0e-e9aa-4069-a01d-ad1d91d2d88d/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/341fcd0e-e9aa-4069-a01d-ad1d91d2d88d/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/341fcd0e-e9aa-4069-a01d-ad1d91d2d88d"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "341fcd0e-e9aa-4069-a01d-ad1d91d2d88d",
+    "lastModified" : "2020-03-20T15:15:21.485Z",
+    "systemModified" : "2020-03-20T15:15:21.643Z",
+    "status" : "ready"
+  }
+},{
+  "systemModified" : "2020-03-20T15:15:21.693Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-a2de18bfa3a12ea271ab520150384a1d",
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.496Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Region",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "regionTitle" : {
+        "elementType" : "text",
+        "value" : "North America"
+      },
+      "countryList" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff", "ed7ce7fa-2f75-4864-87cc-3c2199bcee31" ],
+        "categories" : [ "Locations/North America/Canada", "Locations/North America/United States" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "North America",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+    "links" : {
+      "createDraft" : {
+        "href" : "/authoring/v1/content/11835ab0-f789-4b33-8122-52dff15f5399/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/11835ab0-f789-4b33-8122-52dff15f5399/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/11835ab0-f789-4b33-8122-52dff15f5399"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/9f077e72-352d-41a3-b2bb-b3857e6bc783"
+      }
+    },
+    "id" : "11835ab0-f789-4b33-8122-52dff15f5399",
+    "lastModified" : "2020-03-20T15:15:21.496Z",
+    "systemModified" : "2020-03-20T15:15:21.693Z",
+    "status" : "ready"
+  },
+  "text" : [ "regionTitle North America", "countryList" ],
+  "text_en" : [ "regionTitle North America", "countryList" ],
+  "type" : "Region",
+  "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "systemTags" : [ "rev:5-a2de18bfa3a12ea271ab520150384a1d" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.496Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.496Z",
+  "classification" : "content",
+  "name" : "North America",
+  "id" : "11835ab0-f789-4b33-8122-52dff15f5399",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/North America/Canada", "Locations/North America/United States" ],
+  "categoryLeaves" : [ "Canada", "United States" ]
+},{
+  "systemModified" : "2020-03-20T15:15:21.675Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/cdfd6cb5-f0a3-43b1-919b-c4975a210519?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle The Heritage and Nature of South Africa", "travelArticleImage", "articleAuthor John Smith", "travelArticleText Believed by some to be a cradle of humankind, South Africa houses a dozen historical places listed as World Heritage Sites by UNESCO. A wealth of sites, museums and galleries will be appreciated by a cultural traveler, but the country is also homeland to famous hiking routes in the mountains. Visit a World Heritage Site World Heritage Committee of UNESCO determined 10 heritage sites in South Africa, among which six are of cultural type, three are of natural type, and one is of a mixed (both cultural and natural) type. Be sure to visit the most important and famous places: The Fossil Hominid Sites, known as the Cradle of Humankind, is the place with the richest concentration of hominid fossils in the world, that shed light on the evolution of human over the past 3.5 million years. Robben Island is a symbol of democracy and victory over injustice, after Nelson Mandela, the first democratically elected president of South Africa, was kept in prison on the island for 18 years. Vredefort Dome is the area, where two billion years ago a meteorite ten kilometers in diameter hit the ground, creating a huge crater. Hike Amidst Stunning Scenery Blessed with a wide variety of natural environments, South Africa offers a jaw-dropping experience on any hiking trail you choose. There are many hiking routes to investigate, some of which take you along the picturesque shore, while others show you an amazing view of the country from the top of the mountains. Among the most famous routes are the Oystercatcher trail on the Garden Route coast, the Diamond Coast trail in Namaqualand, and the Num Num Trail in Mpumalanga." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle The Heritage and Nature of South Africa", "travelArticleImage", "articleAuthor John Smith", "travelArticleText Believed by some to be a cradle of humankind, South Africa houses a dozen historical places listed as World Heritage Sites by UNESCO. A wealth of sites, museums and galleries will be appreciated by a cultural traveler, but the country is also homeland to famous hiking routes in the mountains. Visit a World Heritage Site World Heritage Committee of UNESCO determined 10 heritage sites in South Africa, among which six are of cultural type, three are of natural type, and one is of a mixed (both cultural and natural) type. Be sure to visit the most important and famous places: The Fossil Hominid Sites, known as the Cradle of Humankind, is the place with the richest concentration of hominid fossils in the world, that shed light on the evolution of human over the past 3.5 million years. Robben Island is a symbol of democracy and victory over injustice, after Nelson Mandela, the first democratically elected president of South Africa, was kept in prison on the island for 18 years. Vredefort Dome is the area, where two billion years ago a meteorite ten kilometers in diameter hit the ground, creating a huge crater. Hike Amidst Stunning Scenery Blessed with a wide variety of natural environments, South Africa offers a jaw-dropping experience on any hiking trail you choose. There are many hiking routes to investigate, some of which take you along the picturesque shore, while others show you an amazing view of the country from the top of the mountains. Among the most famous routes are the Oystercatcher trail on the Garden Route coast, the Diamond Coast trail in Namaqualand, and the Num Num Trail in Mpumalanga." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-8b60e9d0b347255560f5318ebcb690f5" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.506Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.506Z",
+  "classification" : "content",
+  "name" : "South Africa Travel Article",
+  "id" : "02472779-bc4d-4118-abd2-80698197375e",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "The Heritage and Nature of South Africa" ],
+  "categories" : [ "Locations/Africa/South Africa" ],
+  "categoryLeaves" : [ "South Africa" ],
+  "document" : {
+    "rev" : "5-8b60e9d0b347255560f5318ebcb690f5",
+    "thumbnail" : {
+      "id" : "811f414f-364b-4b00-b7d7-b11af9baaa71",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/cdfd6cb5-f0a3-43b1-919b-c4975a210519?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.506Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "e7585579-d9cd-4837-a089-5a8dd8779a52" ],
+        "categories" : [ "Locations/Africa/South Africa" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "The Heritage and Nature of South Africa"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/cdfd6cb5-f0a3-43b1-919b-c4975a210519?resize=830px:250px&crop=250:250;290,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252,
+              "crop" : {
+                "x" : 290,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/cdfd/cdfd6cb5-f0a3-43b1-919b-c4975a210519.png?resize=830px%3A250px&crop=250%3A250%3B290%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/cdfd6cb5-f0a3-43b1-919b-c4975a210519",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/cdfd/cdfd6cb5-f0a3-43b1-919b-c4975a210519.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "South-Africa-Lead-Image.png",
+          "altText" : "A tree on the prairies of South Africa.",
+          "fileSize" : 516165,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "811f414f-364b-4b00-b7d7-b11af9baaa71",
+          "resourceUri" : "/delivery/v1/resources/cdfd6cb5-f0a3-43b1-919b-c4975a210519",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/cdfd/cdfd6cb5-f0a3-43b1-919b-c4975a210519.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>Believed by some to be a cradle of humankind, South Africa houses a dozen historical places listed as&nbsp;World Heritage Sites by UNESCO.&nbsp;A wealth of sites, museums and galleries will be appreciated by a cultural traveler, but the country is also homeland to famous hiking routes in the mountains.</em></p> \n<h3>Visit a World Heritage Site</h3> \n<p>World Heritage Committee of UNESCO determined 10 heritage sites in South Africa, among which six are of cultural type, three are of natural type, and one is of a mixed (both cultural and natural) type. Be sure to visit the most important and famous places:</p> \n<ul>\n <li>The Fossil Hominid Sites, known as <strong>the Cradle of Humankind</strong>, is the place with the richest concentration of hominid fossils in the world, that shed light&nbsp;on the evolution of human over the past 3.5&nbsp;million years.</li>\n <li><strong>Robben Island</strong>&nbsp;is a symbol of&nbsp;democracy and victory&nbsp;over injustice, after Nelson Mandela, the first democratically elected president of South Africa, was kept in prison&nbsp;on the island for 18 years.</li>\n <li><strong>Vredefort Dome</strong>&nbsp;is the area, where two billion years ago a meteorite ten kilometers in diameter hit the ground, creating a huge&nbsp;crater.</li>\n</ul> \n<div style=\"text-align:center;clear:both\">\n <img data-wch-asset-id=\"acb9f3f8-4a3f-4862-a509-571a8e3e18ab\" height=\"421\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9396/9396d83e-3281-409b-b930-beed28b98ead.png\" width=\"750\">\n</div> \n<h3>Hike Amidst Stunning Scenery</h3> \n<p><img data-wch-asset-id=\"299ef284-5467-4d02-8637-c2ade4446ce2\" height=\"267\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9400/9400ce98-be49-45f8-95da-073e508ec3e2.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"400\">Blessed with a wide variety of natural environments, South Africa offers a jaw-dropping experience on any hiking trail you choose.</p> \n<p>There are many hiking routes to investigate, some of which take you along the picturesque shore, while others show you an amazing view of the country from the top of the mountains.</p> \n<p>Among the most famous&nbsp;routes are the&nbsp;Oystercatcher&nbsp;trail&nbsp;on the Garden Route coast, the&nbsp;Diamond Coast trail in Namaqualand, and the Num Num Trail in Mpumalanga.</p>"
+      }
+    },
+    "name" : "South Africa Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/cdfd6cb5-f0a3-43b1-919b-c4975a210519?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/02472779-bc4d-4118-abd2-80698197375e/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/02472779-bc4d-4118-abd2-80698197375e/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/02472779-bc4d-4118-abd2-80698197375e"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "02472779-bc4d-4118-abd2-80698197375e",
+    "lastModified" : "2020-03-20T15:15:21.506Z",
+    "systemModified" : "2020-03-20T15:15:21.675Z",
+    "status" : "ready"
+  }
+},{
+  "systemModified" : "2020-03-20T15:15:21.787Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle The Overlooked Places of Peru", "travelArticleImage", "articleAuthor John Smith", "travelArticleText Known primarily for Machu Picchu, Peru has many more secret and unusual places that can amaze even an experienced traveler. These hidden gems have one undoubtful advantage over the well-known Machu Picchu – there are a lot fewer tourists. Visiting Peru, make sure that you dedicate some time to ancient Sacsayhuamán, Moray, and Ollantaytambo. Sacsayhuamán Thought to be constructed by Inca in the 13th century, Sacsayhuamán is an astonishing Inca fortress on the outskirts of Cusco, the historic capital of the Inca Empire. It is believed that more than twenty thousand men mined the stones from the quarries and carried them for 20 kilometers to the hill of Cusco. Only 40 percent of the Sacsayhuaman building's initial structure is retained. Even so, the fortress still has structures of more than 120 tons of weight and offers an amazing view of Cusco. Moray Moray is the name of the Incan ruins near the Maras city, located 600 meters above the Sacred Valley of the Incas. These ruins are widely believed to be the crop laboratory of Inca that was likely used to cultivate resistant breeds of crops high in the Andes. Seeds cultivated at this laboratory were presumably sent throughout the Inca empire to increase crop yield in the tough conditions of the Andes. Today Moray is a series of circular agricultural terraces on plateaus 400 meters above the valley bottom. Ollantaytambo Located at the northern end of the Sacred Valley, Ollantaytambo was a major Inca city and entry point to the Antisuyo, the Amazon corner of the Inca Empire. Ollantaytambo served as the last fortress for the Inca resistance during the Spanish invasion. Significant historical places of Ollantaytambo that must be seen by anyone who visits Peru include: The Inca Fortress and Temple, The Inca Granaries of Pinkulluna, Inca Bridge and Valley Hike, Ancient Streets of Ollantaytambo." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle The Overlooked Places of Peru", "travelArticleImage", "articleAuthor John Smith", "travelArticleText Known primarily for Machu Picchu, Peru has many more secret and unusual places that can amaze even an experienced traveler. These hidden gems have one undoubtful advantage over the well-known Machu Picchu – there are a lot fewer tourists. Visiting Peru, make sure that you dedicate some time to ancient Sacsayhuamán, Moray, and Ollantaytambo. Sacsayhuamán Thought to be constructed by Inca in the 13th century, Sacsayhuamán is an astonishing Inca fortress on the outskirts of Cusco, the historic capital of the Inca Empire. It is believed that more than twenty thousand men mined the stones from the quarries and carried them for 20 kilometers to the hill of Cusco. Only 40 percent of the Sacsayhuaman building's initial structure is retained. Even so, the fortress still has structures of more than 120 tons of weight and offers an amazing view of Cusco. Moray Moray is the name of the Incan ruins near the Maras city, located 600 meters above the Sacred Valley of the Incas. These ruins are widely believed to be the crop laboratory of Inca that was likely used to cultivate resistant breeds of crops high in the Andes. Seeds cultivated at this laboratory were presumably sent throughout the Inca empire to increase crop yield in the tough conditions of the Andes. Today Moray is a series of circular agricultural terraces on plateaus 400 meters above the valley bottom. Ollantaytambo Located at the northern end of the Sacred Valley, Ollantaytambo was a major Inca city and entry point to the Antisuyo, the Amazon corner of the Inca Empire. Ollantaytambo served as the last fortress for the Inca resistance during the Spanish invasion. Significant historical places of Ollantaytambo that must be seen by anyone who visits Peru include: The Inca Fortress and Temple, The Inca Granaries of Pinkulluna, Inca Bridge and Valley Hike, Ancient Streets of Ollantaytambo." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-db8433927b7b245066dcf1ebfdb3b7bc" ],
+  "tags" : [ "travel site sample", "hiking" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.557Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.557Z",
+  "classification" : "content",
+  "name" : "Peru Travel Article",
+  "id" : "279ba19d-226f-4d51-a980-50f2387c96f6",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "The Overlooked Places of Peru" ],
+  "categories" : [ "Locations/South America/Peru" ],
+  "categoryLeaves" : [ "Peru" ],
+  "document" : {
+    "rev" : "5-db8433927b7b245066dcf1ebfdb3b7bc",
+    "thumbnail" : {
+      "id" : "3a835c8d-eaa7-4dde-88e2-34b7980a3f43",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.557Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "travel site sample", "hiking" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "a26366ee-c584-4c2f-9147-3b92664792b0" ],
+        "categories" : [ "Locations/South America/Peru" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "The Overlooked Places of Peru"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?resize=830px:250px&crop=250:250;290,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252,
+              "crop" : {
+                "x" : 290,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/474e/474ec64c-4b62-4e96-abd1-abf85b10891e.png?resize=830px%3A250px&crop=250%3A250%3B290%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/474e/474ec64c-4b62-4e96-abd1-abf85b10891e.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Peru-Lead-Image.png",
+          "altText" : "Historic landmarks on the mountain in Peru.",
+          "fileSize" : 770538,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "3a835c8d-eaa7-4dde-88e2-34b7980a3f43",
+          "resourceUri" : "/delivery/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/474e/474ec64c-4b62-4e96-abd1-abf85b10891e.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>Known primarily for Machu Picchu, Peru has many more secret&nbsp;and unusual places that can amaze even an experienced traveler.&nbsp;These hidden gems have one undoubtful advantage over the well-known Machu Picchu – there are a lot fewer tourists. Visiting Peru, make sure that you dedicate some time to ancient&nbsp;Sacsayhuamán, Moray, and&nbsp;Ollantaytambo.</em></p> \n<h2>Sacsayhuamán</h2> \n<p>Thought to be constructed by Inca in the 13th century, Sacsayhuamán is an astonishing Inca fortress on the outskirts of Cusco, the historic capital of the&nbsp;Inca Empire. It is believed that more than twenty thousand men mined the stones from the&nbsp;quarries and carried them for 20 kilometers to the hill of Cusco.</p> \n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\">\n <img data-wch-asset-id=\"d8a9d62c-07d5-4e4b-b264-05163244d579\" height=\"306\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/16a0/16a09411-0147-4dce-88fc-0dbe94d36fc4.png\" width=\"750\">\n</div> \n<p>Only&nbsp;40 percent of the Sacsayhuaman building's&nbsp;initial structure is retained. Even so, the fortress still has structures of more than 120 tons of weight and offers&nbsp;an amazing view of Cusco.</p> \n<h2>Moray</h2> \n<p><img data-wch-asset-id=\"3d3ba77d-b4f4-4e23-8c0f-c6aa35026009\" height=\"267\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/4f8a/4f8af1bf-aac0-4160-be74-650bf7728db1.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"400\">Moray&nbsp;is the name of the Incan ruins near the Maras city, located 600 meters above the&nbsp;Sacred Valley of the Incas.</p> \n<p>These ruins are widely believed to be&nbsp;the crop laboratory of Inca that was likely used to cultivate resistant breeds of crops high in the Andes.</p> \n<p>Seeds cultivated at this laboratory were presumably sent throughout the Inca empire to increase crop yield in the tough conditions of the Andes.</p> \n<p>Today Moray is a series of circular agricultural terraces on plateaus 400 meters above the valley bottom.</p> \n<h2>Ollantaytambo</h2> \n<p><img data-wch-asset-id=\"42a258ed-6031-4c7d-9505-aa8cf63f6c9c\" height=\"308\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0c4f/0c4f82f5-9cf7-4466-a452-391dcafdbaa0.png\" style=\"float:left;padding:0px 20px 0px 0px\" width=\"375\">Located&nbsp;at the northern end of the Sacred Valley,&nbsp;Ollantaytambo was a major Inca city and entry point to the Antisuyo, the Amazon corner of the Inca Empire.</p> \n<p>Ollantaytambo served as the&nbsp;last fortress&nbsp;for the Inca resistance during the Spanish&nbsp;invasion.</p> \n<p>Significant historical places of Ollantaytambo that must be seen by anyone who visits Peru include:</p> \n<ul>\n <li>The Inca Fortress and Temple,</li>\n <li>The Inca Granaries of Pinkulluna,</li>\n <li>Inca Bridge and Valley Hike,</li>\n <li>Ancient Streets of&nbsp;Ollantaytambo.</li>\n</ul>"
+      }
+    },
+    "name" : "Peru Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/279ba19d-226f-4d51-a980-50f2387c96f6/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/279ba19d-226f-4d51-a980-50f2387c96f6/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/279ba19d-226f-4d51-a980-50f2387c96f6"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "279ba19d-226f-4d51-a980-50f2387c96f6",
+    "lastModified" : "2020-03-20T15:15:21.557Z",
+    "systemModified" : "2020-03-20T15:15:21.787Z",
+    "status" : "ready"
+  }
+}]}

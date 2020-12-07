@@ -1,0 +1,1142 @@
+{"numFound":63,"documents":[{
+  "id" : "0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+  "name" : "Combined Shape.svg",
+  "lastModified" : "2020-03-19T19:54:52.653Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:52.643Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "Travel Site Sample" ],
+  "systemTags" : [ "rev:3-7e3a79d6183d03e4155ae470924f619e", "rpi:310742df-70e5-43ba-8ed1-252520ec0189" ],
+  "mediaType" : "image/svg+xml",
+  "path" : "/dxdam/0d/0dbd4e99-b073-4472-bb89-21becb8ff9f2/Combined Shape.svg",
+  "fileSize" : 1747,
+  "location" : "/dxdam/0d/0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+  "locationPaths" : "/dxdam/0d/0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+  "assetType" : "image",
+  "resource" : "de23909a-f437-4675-b13a-e054dbf07a5b",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/0d/0dbd4e99-b073-4472-bb89-21becb8ff9f2/Combined%20Shape.svg",
+  "document" : {
+    "fileName" : "Combined Shape.svg",
+    "metadata" : { },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "310742df-70e5-43ba-8ed1-252520ec0189",
+    "path" : "/dxdam/0d/0dbd4e99-b073-4472-bb89-21becb8ff9f2/Combined Shape.svg",
+    "digest" : "X47eQpLZHac6ZNVwCVfdnQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=de23909a-f437-4675-b13a-e054dbf07a5b&a=0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+        "source" : "/delivery/v1/resources/de23909a-f437-4675-b13a-e054dbf07a5b"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/de23909a-f437-4675-b13a-e054dbf07a5b.svg"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/de23909a-f437-4675-b13a-e054dbf07a5b"
+      }
+    },
+    "id" : "0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:52.784Z",
+    "rev" : "3-7e3a79d6183d03e4155ae470924f619e",
+    "altText" : "",
+    "resource" : "de23909a-f437-4675-b13a-e054dbf07a5b",
+    "created" : "2020-03-19T19:54:52.643Z",
+    "mediaType" : "image/svg+xml",
+    "tags" : {
+      "declined" : [ ],
+      "values" : [ "user:Travel Site Sample" ],
+      "analysis" : "none"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "status" : "none"
+    },
+    "fileSize" : 1747,
+    "name" : "Combined Shape.svg",
+    "lastModified" : "2020-03-19T19:54:52.653Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/de23909a-f437-4675-b13a-e054dbf07a5b.svg",
+  "thumbnail" : "/delivery/v1/resources/de23909a-f437-4675-b13a-e054dbf07a5b",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:52.784Z"
+},{
+  "id" : "299ef284-5467-4d02-8637-c2ade4446ce2",
+  "name" : "South-Africa-Article-Image",
+  "lastModified" : "2020-03-19T19:54:53.703Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:52.711Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:5-568194064a2eb06c39bf0102ab5c2191", "rpi:9d79851d-c08b-4aa4-8bf1-985da9211765" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/07/07181a9c-5626-41f5-86eb-a8f2c9cf1216/image.png",
+  "fileSize" : 417175,
+  "location" : "/dxdam/07/07181a9c-5626-41f5-86eb-a8f2c9cf1216",
+  "locationPaths" : "/dxdam/07/07181a9c-5626-41f5-86eb-a8f2c9cf1216",
+  "assetType" : "image",
+  "resource" : "9400ce98-be49-45f8-95da-073e508ec3e2",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/07/07181a9c-5626-41f5-86eb-a8f2c9cf1216/image.png",
+  "height" : 700,
+  "width" : 1050,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1050,
+      "height" : 700
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "9d79851d-c08b-4aa4-8bf1-985da9211765",
+    "path" : "/dxdam/07/07181a9c-5626-41f5-86eb-a8f2c9cf1216/image.png",
+    "digest" : "k2TJkIbPLVRBd+b0PbA+/A==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=9400ce98-be49-45f8-95da-073e508ec3e2&a=299ef284-5467-4d02-8637-c2ade4446ce2",
+        "source" : "/delivery/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2?fit=inside%7C220:145"
+      }
+    },
+    "id" : "299ef284-5467-4d02-8637-c2ade4446ce2",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:53.734Z",
+    "rev" : "5-568194064a2eb06c39bf0102ab5c2191",
+    "altText" : "A person stands on a plain between the mountains in South Africa.",
+    "resource" : "9400ce98-be49-45f8-95da-073e508ec3e2",
+    "created" : "2020-03-19T19:54:52.711Z",
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:valley", "classification:nature", "classification:alp", "classification:hill", "classification:hollow", "classification:ridge", "classification:hillside", "classification:slope", "classification:natural elevation", "classification:greenishness color", "classification:green color" ],
+      "declined" : [ "classification:valley", "classification:nature", "classification:alp", "classification:hollow", "classification:ridge", "classification:hill", "classification:hillside", "classification:slope", "classification:natural elevation", "classification:greenishness color", "classification:green color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "valley", "nature", "alp", "hill", "hollow", "ridge", "hillside", "slope", "natural elevation", "greenishness color", "green color" ],
+      "colors" : {
+        "vibrant" : "#cba52a",
+        "muted" : "#848961",
+        "darkVibrant" : "#6b720e",
+        "darkMuted" : "#3c5434",
+        "lightVibrant" : "#8bc4fc",
+        "lightMuted" : "#b6c4ac"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 417175,
+    "name" : "South-Africa-Article-Image",
+    "lastModified" : "2020-03-19T19:54:53.703Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2.png",
+  "thumbnail" : "/delivery/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:53.734Z",
+  "dominantColor_0_d" : 0.40859985,
+  "dominantColor_1_d" : 0.4039917,
+  "dominantColor_2_d" : 0.06137085,
+  "dominantColor" : "0.40859985,0.4039917,0.06137085"
+},{
+  "id" : "0aabc094-382c-460a-900a-a70d6ba2122e",
+  "name" : "Argentina-Country.png",
+  "lastModified" : "2020-03-19T19:54:53.435Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:52.708Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "Wildfire", "Sunset", "dust storm", "nature", "toetoe", "herb", "plant", "desert plant", "tree", "Indian red color", "reddish orange color" ],
+  "systemTags" : [ "rev:5-3d9f29e4062ba2f746bac1694ca7e7a5", "rpi:a744d490-9e73-408b-9c54-780e16c59b92" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e/Argentina-Country.png",
+  "fileSize" : 141872,
+  "location" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e",
+  "locationPaths" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e",
+  "assetType" : "image",
+  "resource" : "43fd30f5-73e2-41ad-80e1-d1c32f28d6e7",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e/Argentina-Country.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "Argentina-Country.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "a744d490-9e73-408b-9c54-780e16c59b92",
+    "path" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e/Argentina-Country.png",
+    "digest" : "YaZva1famm4YBFxaTt7PQg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=43fd30f5-73e2-41ad-80e1-d1c32f28d6e7&a=0aabc094-382c-460a-900a-a70d6ba2122e",
+        "source" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145"
+      }
+    },
+    "id" : "0aabc094-382c-460a-900a-a70d6ba2122e",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:53.463Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 129,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?resize=1570px:275px&crop=1570:105;0,129",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C129"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 243,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?resize=1570px:275px&crop=370:275;243,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png?resize=1570px%3A275px&crop=370%3A275%3B243%2C0"
+    } ],
+    "rev" : "5-3d9f29e4062ba2f746bac1694ca7e7a5",
+    "altText" : "The landscape of Argentina.",
+    "resource" : "43fd30f5-73e2-41ad-80e1-d1c32f28d6e7",
+    "created" : "2020-03-19T19:54:52.708Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:Wildfire", "classification:Sunset", "classification:dust storm", "classification:nature", "classification:toetoe", "classification:herb", "classification:plant", "classification:desert plant", "classification:tree", "classification:Indian red color", "classification:reddish orange color" ],
+      "declined" : [ ],
+      "values" : [ "user:travel site sample", "classification:Wildfire", "classification:Sunset", "classification:dust storm", "classification:nature", "classification:toetoe", "classification:herb", "classification:plant", "classification:desert plant", "classification:tree", "classification:Indian red color", "classification:reddish orange color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "Wildfire", "Sunset", "dust storm", "nature", "toetoe", "herb", "plant", "desert plant", "tree", "Indian red color", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#fa6f04",
+        "muted" : "#964202",
+        "darkVibrant" : "#7e260c",
+        "darkMuted" : "#1e1214",
+        "lightVibrant" : "#f4942c",
+        "lightMuted" : "#914f07"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 141872,
+    "name" : "Argentina-Country.png",
+    "lastModified" : "2020-03-19T19:54:53.435Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png",
+  "thumbnail" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:53.463Z",
+  "dominantColor_0_d" : 0.47808838,
+  "dominantColor_1_d" : 0.32662964,
+  "dominantColor_2_d" : 0.02960205,
+  "dominantColor" : "0.47808838,0.32662964,0.02960205"
+},{
+  "id" : "002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+  "name" : "South-Africa-Country-Image.png",
+  "lastModified" : "2020-03-19T19:54:53.697Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:52.666Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:5-4419cc9dadfb1ec5e553339e8ea1d335", "rpi:f9531ad4-5125-4b6c-b195-0900573ec1d1" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/00/002b441b-5c5f-4a85-8d8b-c39c7fd33f57/South-Africa-Country-Image.png",
+  "fileSize" : 157928,
+  "location" : "/dxdam/00/002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+  "locationPaths" : "/dxdam/00/002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+  "assetType" : "image",
+  "resource" : "d05c6a76-819a-4b94-98b4-d7b40334c904",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/00/002b441b-5c5f-4a85-8d8b-c39c7fd33f57/South-Africa-Country-Image.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "South-Africa-Country-Image.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "f9531ad4-5125-4b6c-b195-0900573ec1d1",
+    "path" : "/dxdam/00/002b441b-5c5f-4a85-8d8b-c39c7fd33f57/South-Africa-Country-Image.png",
+    "digest" : "m3oT4pemWdsScZb6Lt8Ldg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=d05c6a76-819a-4b94-98b4-d7b40334c904&a=002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+        "source" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904?fit=inside%7C220:145"
+      }
+    },
+    "id" : "002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:53.738Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 135,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904?resize=1570px:275px&crop=1570:105;0,135",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/d05c/d05c6a76-819a-4b94-98b4-d7b40334c904.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C135"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 1200,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904?resize=1570px:275px&crop=370:275;1200,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/d05c/d05c6a76-819a-4b94-98b4-d7b40334c904.png?resize=1570px%3A275px&crop=370%3A275%3B1200%2C0"
+    } ],
+    "rev" : "5-4419cc9dadfb1ec5e553339e8ea1d335",
+    "altText" : "Dawn on the beach in South Africa.",
+    "resource" : "d05c6a76-819a-4b94-98b4-d7b40334c904",
+    "created" : "2020-03-19T19:54:52.666Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:Golden Gate Bridge", "classification:bridge", "classification:seaside", "classification:seashore", "classification:shore", "classification:nature", "classification:beach", "classification:suspension bridge", "classification:strand", "classification:natural elevation", "classification:reddish orange color", "classification:blue color" ],
+      "declined" : [ "classification:Golden Gate Bridge", "classification:bridge", "classification:seaside", "classification:seashore", "classification:shore", "classification:nature", "classification:beach", "classification:suspension bridge", "classification:strand", "classification:natural elevation", "classification:reddish orange color", "classification:blue color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "Golden Gate Bridge", "bridge", "seaside", "seashore", "shore", "nature", "beach", "suspension bridge", "strand", "natural elevation", "reddish orange color", "blue color" ],
+      "colors" : {
+        "vibrant" : "#e56d65",
+        "muted" : "#ab847e",
+        "darkVibrant" : "#711913",
+        "darkMuted" : "#546474",
+        "lightVibrant" : "#ed8767",
+        "lightMuted" : "#cebcac"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 157928,
+    "name" : "South-Africa-Country-Image.png",
+    "lastModified" : "2020-03-19T19:54:53.697Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904.png",
+  "thumbnail" : "/delivery/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:53.738Z",
+  "dominantColor_0_d" : 0.41903687,
+  "dominantColor_1_d" : 0.29177856,
+  "dominantColor_2_d" : 0.118652344,
+  "dominantColor" : "0.41903687,0.29177856,0.118652344"
+},{
+  "id" : "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+  "name" : "Croatia-Lead-Image.png",
+  "lastModified" : "2020-03-19T19:54:53.818Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:52.748Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:5-7fc691b22400c5c51603939916c3dc32", "rpi:9c9a9d0d-0258-44c1-af9f-c5fb6e79ad71" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9/Croatia-Lead-Image.png",
+  "fileSize" : 677551,
+  "location" : "/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+  "locationPaths" : "/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+  "assetType" : "image",
+  "resource" : "e4c51ad0-46ff-471a-b309-2c505cbdbb39",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9/Croatia-Lead-Image.png",
+  "height" : 578,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Croatia-Lead-Image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 578
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "9c9a9d0d-0258-44c1-af9f-c5fb6e79ad71",
+    "path" : "/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9/Croatia-Lead-Image.png",
+    "digest" : "qHwGxusrgLHV+/L+yf58qw==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=e4c51ad0-46ff-471a-b309-2c505cbdbb39&a=0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+        "source" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?fit=inside%7C220:145"
+      }
+    },
+    "id" : "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:53.847Z",
+    "profileRenditions" : [ {
+      "profileId" : "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName" : "Travel Article Image Profile",
+      "key" : "card",
+      "label" : "Card",
+      "transform" : {
+        "scale" : 0.43252,
+        "crop" : {
+          "x" : 290,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?resize=830px:250px&crop=250:250;290,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e4c5/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png?resize=830px%3A250px&crop=250%3A250%3B290%2C0"
+    } ],
+    "rev" : "5-7fc691b22400c5c51603939916c3dc32",
+    "altText" : "The landscape of Croatia with famous red-roof buildings, hilly terrain, covered with forests, and small bays.",
+    "resource" : "e4c51ad0-46ff-471a-b309-2c505cbdbb39",
+    "created" : "2020-03-19T19:54:52.748Z",
+    "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:stronghold", "classification:defensive structure", "classification:shore", "classification:nature", "classification:kasbah (old quarters)", "classification:building", "classification:seashore", "classification:fortress", "classification:waterside", "classification:slope", "classification:natural elevation", "classification:light brown color", "classification:blue color" ],
+      "declined" : [ "classification:stronghold", "classification:defensive structure", "classification:shore", "classification:nature", "classification:kasbah (old quarters)", "classification:building", "classification:seashore", "classification:fortress", "classification:waterside", "classification:slope", "classification:natural elevation", "classification:light brown color", "classification:blue color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "stronghold", "defensive structure", "shore", "nature", "kasbah (old quarters)", "building", "seashore", "fortress", "waterside", "slope", "natural elevation", "light brown color", "blue color" ],
+      "colors" : {
+        "vibrant" : "#b56d44",
+        "muted" : "#947352",
+        "darkVibrant" : "#2c545c",
+        "darkMuted" : "#544230",
+        "lightVibrant" : "#dec298",
+        "lightMuted" : "#c5af92"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 677551,
+    "name" : "Croatia-Lead-Image.png",
+    "lastModified" : "2020-03-19T19:54:53.818Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png",
+  "thumbnail" : "/delivery/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:53.847Z",
+  "dominantColor_0_d" : 0.2685852,
+  "dominantColor_1_d" : 0.21591187,
+  "dominantColor_2_d" : 0.06253052,
+  "dominantColor" : "0.2685852,0.21591187,0.06253052"
+},{
+  "id" : "6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+  "name" : "Italy-Article-Image",
+  "lastModified" : "2020-03-19T19:54:54.412Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:53.482Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "pinnacle (tower of building)" ],
+  "systemTags" : [ "rev:5-26f4a6e7a9e25a9965f897a85b5a4f51", "rpi:b3d88025-4b15-479d-8690-eb293f210fd3" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c/image.png",
+  "fileSize" : 634779,
+  "location" : "/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c",
+  "locationPaths" : "/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c",
+  "assetType" : "image",
+  "resource" : "359c3953-46fd-44be-8331-bf7098f38772",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c/image.png",
+  "height" : 687,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 687
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "b3d88025-4b15-479d-8690-eb293f210fd3",
+    "path" : "/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c/image.png",
+    "digest" : "2A2J95QEObm3i9FE2ozQDg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=359c3953-46fd-44be-8331-bf7098f38772&a=6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+        "source" : "/delivery/v1/resources/359c3953-46fd-44be-8331-bf7098f38772"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/359c3953-46fd-44be-8331-bf7098f38772.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/359c3953-46fd-44be-8331-bf7098f38772?fit=inside%7C220:145"
+      }
+    },
+    "id" : "6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:54.433Z",
+    "rev" : "5-26f4a6e7a9e25a9965f897a85b5a4f51",
+    "altText" : "Florence Cathedral with Brunelleschi Dome in Italy.",
+    "resource" : "359c3953-46fd-44be-8331-bf7098f38772",
+    "created" : "2020-03-19T19:54:53.482Z",
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:religious building", "classification:building", "classification:Skyline (day)", "classification:church tower", "classification:tower", "classification:city", "classification:pinnacle (tower of building)", "classification:reddish orange color" ],
+      "declined" : [ "classification:religious building", "classification:building", "classification:Skyline (day)", "classification:city", "classification:church tower", "classification:tower", "classification:reddish orange color" ],
+      "values" : [ "user:travel site sample", "classification:pinnacle (tower of building)" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "religious building", "building", "Skyline (day)", "church tower", "tower", "city", "pinnacle (tower of building)", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#cca494",
+        "muted" : "#6c87a6",
+        "darkVibrant" : "#59382a",
+        "darkMuted" : "#654b50",
+        "lightVibrant" : "#abc3dc",
+        "lightMuted" : "#acbfcf"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 634779,
+    "name" : "Italy-Article-Image",
+    "lastModified" : "2020-03-19T19:54:54.412Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/359c3953-46fd-44be-8331-bf7098f38772.png",
+  "thumbnail" : "/delivery/v1/resources/359c3953-46fd-44be-8331-bf7098f38772?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:54.433Z",
+  "dominantColor_0_d" : 0.44857788,
+  "dominantColor_1_d" : 0.4184265,
+  "dominantColor_2_d" : 0.25585938,
+  "dominantColor" : "0.44857788,0.4184265,0.25585938"
+},{
+  "id" : "198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+  "name" : "Japan-Country-Image.png",
+  "lastModified" : "2020-03-19T19:54:54.423Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:53.608Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "marbleization", "Boston ivy", "vine", "plant", "Japanese barberry plants", "crottle", "lichen", "fungus", "bearberry", "holly", "tree", "nature", "Indian red color", "reddish orange color" ],
+  "systemTags" : [ "rev:5-8b98709e01467a19138c4cf7e1ce64e5", "rpi:3501efd1-2c59-4d95-99c6-a27d501f482b" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/19/198b413e-fc8d-40c9-89f9-e1b12a60a3dc/Japan-Country-Image.png",
+  "fileSize" : 397896,
+  "location" : "/dxdam/19/198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+  "locationPaths" : "/dxdam/19/198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+  "assetType" : "image",
+  "resource" : "02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/19/198b413e-fc8d-40c9-89f9-e1b12a60a3dc/Japan-Country-Image.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "Japan-Country-Image.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "3501efd1-2c59-4d95-99c6-a27d501f482b",
+    "path" : "/dxdam/19/198b413e-fc8d-40c9-89f9-e1b12a60a3dc/Japan-Country-Image.png",
+    "digest" : "K0yM0wCJA+JjIIjVAwTJGQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13&a=198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+        "source" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13?fit=inside%7C220:145"
+      }
+    },
+    "id" : "198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:54.451Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 85,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13?resize=1570px:275px&crop=1570:105;0,85",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/02ea/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C85"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 600,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13?resize=1570px:275px&crop=370:275;600,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/02ea/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13.png?resize=1570px%3A275px&crop=370%3A275%3B600%2C0"
+    } ],
+    "rev" : "5-8b98709e01467a19138c4cf7e1ce64e5",
+    "altText" : "Sakura blossom in Japan.",
+    "resource" : "02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13",
+    "created" : "2020-03-19T19:54:53.608Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:marbleization", "classification:Boston ivy", "classification:vine", "classification:plant", "classification:Japanese barberry plants", "classification:crottle", "classification:lichen", "classification:fungus", "classification:bearberry", "classification:holly", "classification:tree", "classification:nature", "classification:Indian red color", "classification:reddish orange color" ],
+      "declined" : [ ],
+      "values" : [ "user:travel site sample", "classification:marbleization", "classification:Boston ivy", "classification:vine", "classification:plant", "classification:Japanese barberry plants", "classification:crottle", "classification:lichen", "classification:fungus", "classification:bearberry", "classification:holly", "classification:tree", "classification:nature", "classification:Indian red color", "classification:reddish orange color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "marbleization", "Boston ivy", "vine", "plant", "Japanese barberry plants", "crottle", "lichen", "fungus", "bearberry", "holly", "tree", "nature", "Indian red color", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#bf443e",
+        "muted" : "#af6675",
+        "darkVibrant" : "#8c492c",
+        "darkMuted" : "#462a38",
+        "lightVibrant" : "#e16d65",
+        "lightMuted" : "#c6adbc"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 397896,
+    "name" : "Japan-Country-Image.png",
+    "lastModified" : "2020-03-19T19:54:54.423Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13.png",
+  "thumbnail" : "/delivery/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:54.451Z",
+  "dominantColor_0_d" : 0.2562561,
+  "dominantColor_1_d" : 0.16021729,
+  "dominantColor_2_d" : 0.04724121,
+  "dominantColor" : "0.2562561,0.16021729,0.04724121"
+},{
+  "id" : "312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+  "name" : "Peru-Country-Image.png",
+  "lastModified" : "2020-03-19T19:54:55.313Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:54.588Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "ridge", "nature", "alp", "massif", "ridgeline", "mountain", "extremum (peak)", "slope", "natural elevation", "reddish orange color" ],
+  "systemTags" : [ "rev:5-6e0e7b086a9ec8a5f66c137aee5b71dd", "rpi:9b367a89-4844-4e84-9963-b7e34914fd2c" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/31/312cc2de-ae0d-49cb-bada-ff1ad04c6376/Peru-Country-Image.png",
+  "fileSize" : 230616,
+  "location" : "/dxdam/31/312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+  "locationPaths" : "/dxdam/31/312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+  "assetType" : "image",
+  "resource" : "9170048f-195d-4c5d-b91c-4ec9e9d0e9c2",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/31/312cc2de-ae0d-49cb-bada-ff1ad04c6376/Peru-Country-Image.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "Peru-Country-Image.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "9b367a89-4844-4e84-9963-b7e34914fd2c",
+    "path" : "/dxdam/31/312cc2de-ae0d-49cb-bada-ff1ad04c6376/Peru-Country-Image.png",
+    "digest" : "YtDihe9svxRBedv/95QfBA==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=9170048f-195d-4c5d-b91c-4ec9e9d0e9c2&a=312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+        "source" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2?fit=inside%7C220:145"
+      }
+    },
+    "id" : "312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:55.338Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 124,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2?resize=1570px:275px&crop=1570:105;0,124",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9170/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C124"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 626,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2?resize=1570px:275px&crop=370:275;626,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/9170/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2.png?resize=1570px%3A275px&crop=370%3A275%3B626%2C0"
+    } ],
+    "rev" : "5-6e0e7b086a9ec8a5f66c137aee5b71dd",
+    "altText" : "Mountain landscape in Peru.",
+    "resource" : "9170048f-195d-4c5d-b91c-4ec9e9d0e9c2",
+    "created" : "2020-03-19T19:54:54.588Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:ridge", "classification:nature", "classification:alp", "classification:massif", "classification:ridgeline", "classification:mountain", "classification:extremum (peak)", "classification:slope", "classification:natural elevation", "classification:reddish orange color" ],
+      "declined" : [ ],
+      "values" : [ "user:travel site sample", "classification:ridge", "classification:nature", "classification:alp", "classification:massif", "classification:ridgeline", "classification:mountain", "classification:extremum (peak)", "classification:slope", "classification:natural elevation", "classification:reddish orange color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "ridge", "nature", "alp", "massif", "ridgeline", "mountain", "extremum (peak)", "slope", "natural elevation", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#a54d22",
+        "muted" : "#618f99",
+        "darkVibrant" : "#7d3e25",
+        "darkMuted" : "#3d606b",
+        "lightVibrant" : "#e8ad91",
+        "lightMuted" : "#acc4c2"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 230616,
+    "name" : "Peru-Country-Image.png",
+    "lastModified" : "2020-03-19T19:54:55.313Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2.png",
+  "thumbnail" : "/delivery/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:55.338Z",
+  "dominantColor_0_d" : 0.19488525,
+  "dominantColor_1_d" : 0.1378479,
+  "dominantColor_2_d" : 0.023864746,
+  "dominantColor" : "0.19488525,0.1378479,0.023864746"
+},{
+  "id" : "291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+  "name" : "Peru-Gallery.png",
+  "lastModified" : "2020-03-19T19:54:54.618Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:53.584Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "Mountains", "alp", "nature", "ridge", "slope", "natural elevation", "greenishness color", "sea green color" ],
+  "systemTags" : [ "rev:5-3d0c19bf8807a45bfb7980a321bed20a", "rpi:2108103e-d138-4dc7-9fea-8431e922009c" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/29/291c4ab0-8a67-45be-b2c8-f96fedcb4446/Peru-Gallery.png",
+  "fileSize" : 1352315,
+  "location" : "/dxdam/29/291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+  "locationPaths" : "/dxdam/29/291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+  "assetType" : "image",
+  "resource" : "e3495fdc-ebbf-4d54-8205-4c031cbfd3d5",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/29/291c4ab0-8a67-45be-b2c8-f96fedcb4446/Peru-Gallery.png",
+  "height" : 1280,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Peru-Gallery.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1280
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "2108103e-d138-4dc7-9fea-8431e922009c",
+    "path" : "/dxdam/29/291c4ab0-8a67-45be-b2c8-f96fedcb4446/Peru-Gallery.png",
+    "digest" : "vU4vzKB7Yk0aWL09mKdDYg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=e3495fdc-ebbf-4d54-8205-4c031cbfd3d5&a=291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+        "source" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?fit=inside%7C220:145"
+      }
+    },
+    "id" : "291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:54.650Z",
+    "profileRenditions" : [ {
+      "profileId" : "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "profileName" : "Gallery Image Profile",
+      "key" : "squareCard",
+      "label" : "Square Card",
+      "transform" : {
+        "scale" : 0.19531,
+        "crop" : {
+          "x" : 62,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?resize=375px:250px&crop=250:250;62,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e349/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+    }, {
+      "profileId" : "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "profileName" : "Gallery Image Profile",
+      "key" : "rectangleCard",
+      "label" : "Rectangle Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 359,
+          "width" : 1920,
+          "height" : 562
+        }
+      },
+      "uri" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?resize=1920px:1280px&crop=1920:562;0,359",
+      "width" : 1920,
+      "height" : 562,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e349/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+    } ],
+    "rev" : "5-3d0c19bf8807a45bfb7980a321bed20a",
+    "altText" : "A trail in the mountains of Peru.",
+    "resource" : "e3495fdc-ebbf-4d54-8205-4c031cbfd3d5",
+    "created" : "2020-03-19T19:54:53.584Z",
+    "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:Mountains", "classification:alp", "classification:nature", "classification:ridge", "classification:slope", "classification:natural elevation", "classification:greenishness color", "classification:sea green color" ],
+      "declined" : [ ],
+      "values" : [ "user:travel site sample", "classification:Mountains", "classification:alp", "classification:nature", "classification:ridge", "classification:slope", "classification:natural elevation", "classification:greenishness color", "classification:sea green color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "Mountains", "alp", "nature", "ridge", "slope", "natural elevation", "greenishness color", "sea green color" ],
+      "colors" : {
+        "vibrant" : "#10d3ee",
+        "muted" : "#ac8c5c",
+        "darkVibrant" : "#064d57",
+        "darkMuted" : "#2a5256",
+        "lightVibrant" : "#ecfbeb",
+        "lightMuted" : "#b0cbca"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1352315,
+    "name" : "Peru-Gallery.png",
+    "lastModified" : "2020-03-19T19:54:54.618Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5.png",
+  "thumbnail" : "/delivery/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:54.650Z",
+  "dominantColor_0_d" : 0.37554932,
+  "dominantColor_1_d" : 0.52005005,
+  "dominantColor_2_d" : 0.67367554,
+  "dominantColor" : "0.37554932,0.52005005,0.67367554"
+},{
+  "id" : "42a258ed-6031-4c7d-9505-aa8cf63f6c9c",
+  "name" : "Peru-Article-Image",
+  "lastModified" : "2020-03-19T19:54:54.474Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-19T19:54:53.357Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "alp", "nature", "ridge", "hill", "mountain", "mountainside", "slope", "natural elevation", "greenishness color" ],
+  "systemTags" : [ "rev:5-85810aa0c609a57546c025b7e47b3f4c", "rpi:702f50e8-8295-4608-9bc0-dc35b0007eb5" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/1f/1f16791b-938d-4598-ac4a-e766a1e0bf57/image.png",
+  "fileSize" : 894848,
+  "location" : "/dxdam/1f/1f16791b-938d-4598-ac4a-e766a1e0bf57",
+  "locationPaths" : "/dxdam/1f/1f16791b-938d-4598-ac4a-e766a1e0bf57",
+  "assetType" : "image",
+  "resource" : "0c4f82f5-9cf7-4466-a452-391dcafdbaa0",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/1f/1f16791b-938d-4598-ac4a-e766a1e0bf57/image.png",
+  "height" : 1148,
+  "width" : 1400,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1400,
+      "height" : 1148
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "702f50e8-8295-4608-9bc0-dc35b0007eb5",
+    "path" : "/dxdam/1f/1f16791b-938d-4598-ac4a-e766a1e0bf57/image.png",
+    "digest" : "TSylkPOT5dWrPuJuWH79Uw==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=0c4f82f5-9cf7-4466-a452-391dcafdbaa0&a=42a258ed-6031-4c7d-9505-aa8cf63f6c9c",
+        "source" : "/delivery/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0?fit=inside%7C220:145"
+      }
+    },
+    "id" : "42a258ed-6031-4c7d-9505-aa8cf63f6c9c",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-19T19:54:54.503Z",
+    "rev" : "5-85810aa0c609a57546c025b7e47b3f4c",
+    "altText" : "Ancient ruins on a mountain in Peru.",
+    "resource" : "0c4f82f5-9cf7-4466-a452-391dcafdbaa0",
+    "created" : "2020-03-19T19:54:53.357Z",
+    "mediaType" : "image/png",
+    "tags" : {
+      "suggested" : [ "classification:alp", "classification:nature", "classification:ridge", "classification:hill", "classification:mountain", "classification:mountainside", "classification:slope", "classification:natural elevation", "classification:greenishness color" ],
+      "declined" : [ ],
+      "values" : [ "user:travel site sample", "classification:alp", "classification:nature", "classification:ridge", "classification:hill", "classification:mountain", "classification:mountainside", "classification:slope", "classification:natural elevation", "classification:greenishness color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "alp", "nature", "ridge", "hill", "mountain", "mountainside", "slope", "natural elevation", "greenishness color" ],
+      "colors" : {
+        "vibrant" : "#94aacf",
+        "muted" : "#8f8f5e",
+        "darkVibrant" : "#66702c",
+        "darkMuted" : "#54542c",
+        "lightVibrant" : "#acccec",
+        "lightMuted" : "#b5c0d6"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 894848,
+    "name" : "Peru-Article-Image",
+    "lastModified" : "2020-03-19T19:54:54.474Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0.png",
+  "thumbnail" : "/delivery/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-19T19:54:54.503Z",
+  "dominantColor_0_d" : 0.37319946,
+  "dominantColor_1_d" : 0.39190674,
+  "dominantColor_2_d" : 0.48858643,
+  "dominantColor" : "0.37319946,0.39190674,0.48858643"
+}]}

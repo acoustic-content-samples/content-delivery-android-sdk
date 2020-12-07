@@ -1,0 +1,3 @@
+/*
+ * Just empty file required to test behavior of config when pass file reference instead of directory reference.
+ */

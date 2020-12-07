@@ -1,0 +1,30 @@
+{
+  "requestId": "278cb4fb951d37b46d26560b7b8e03ce",
+  "service": "prod-infra-api-dispatcher",
+  "version": "0.0.1575",
+  "description": "IBM Watson Content Hub, API Dispatcher Component",
+  "errors": [
+    {
+      "name": "AccessControlError",
+      "locale": "en",
+      "parameters": {
+        "statusCode": 403,
+        "method": "GET",
+        "path": "/mydelivery/v1/search",
+        "roles": [
+          "anonymous"
+        ],
+        "requiredRoles": [
+          "admin",
+          "manager",
+          "editor",
+          "viewer",
+          "authenticatedvisitor"
+        ],
+        "timestamp": 1584707753183
+      },
+      "timestamp": "Fri, 20 Mar 2020 12:35:53 GMT"
+    }
+  ],
+  "timestamp": "Fri, 20 Mar 2020 12:35:53 GMT"
+}

@@ -1,0 +1,999 @@
+{"numFound":9,"documents":[{
+  "id" : "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+  "name" : "Canada",
+  "classification" : "category",
+  "lastModified" : "2020-02-06T19:39:24.762Z",
+  "created" : "2020-02-06T19:39:24.762Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "isSystem" : false,
+  "document" : {
+    "id" : "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+    "rev" : "1-0231d4f9d428a65fae426b8685a7f7ec",
+    "name" : "Canada",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "classification" : "category",
+    "taxonomy" : "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "parent" : "1a957f82-195d-4d34-8293-87a6de290580",
+    "ancestorIds" : [ "478f06ce-90a4-41df-95c3-2b25285d4791", "1a957f82-195d-4d34-8293-87a6de290580" ],
+    "namePath" : [ "Locations", "North America", "Canada" ],
+    "created" : "2020-02-06T19:39:24.762Z",
+    "lastModified" : "2020-02-06T19:39:24.762Z",
+    "systemModified" : "2020-02-06T19:39:25.066Z"
+  },
+  "systemTags" : [ "rev:1-0231d4f9d428a65fae426b8685a7f7ec" ],
+  "systemModified" : "2020-02-06T19:39:25.066Z",
+  "path" : "/Locations/North America/Canada"
+},{
+  "id" : "8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+  "name" : "Canada-Article-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-02-06T19:39:31.820Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:30.874Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:2-8d76935fdfefaeefec21e305280f227f", "rpi:ab65fbfb-d6bb-45ca-8af7-f08831ae0998" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+  "fileSize" : 1130797,
+  "location" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e",
+  "locationPaths" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e",
+  "assetType" : "image",
+  "resource" : "53b94276-9619-4f7a-bce8-7d663117bd51",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+  "height" : 1280,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1280
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "ab65fbfb-d6bb-45ca-8af7-f08831ae0998",
+    "path" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+    "digest" : "Ty84J7CvEj7rVJbqAhhRzA==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=53b94276-9619-4f7a-bce8-7d663117bd51&a=8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+        "source" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51?fit=inside%7C220:145"
+      }
+    },
+    "id" : "8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-02-06T19:39:31.855Z",
+    "rev" : "2-8d76935fdfefaeefec21e305280f227f",
+    "altText" : "The landscape of Canada with a river, forest, boats, and mountains.",
+    "resource" : "53b94276-9619-4f7a-bce8-7d663117bd51",
+    "created" : "2020-02-06T19:39:30.874Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:canoe", "classification:small boat", "classification:boat", "classification:watercraft", "classification:craft", "classification:vehicle", "classification:kayak", "classification:gorge", "classification:valley", "classification:nature", "classification:Kayaking", "classification:sport", "classification:natural elevation", "classification:sea green color", "classification:reddish orange color" ],
+      "declined" : [ "classification:canoe", "classification:small boat", "classification:boat", "classification:watercraft", "classification:craft", "classification:vehicle", "classification:gorge", "classification:valley", "classification:nature", "classification:kayak", "classification:Kayaking", "classification:sport", "classification:natural elevation", "classification:sea green color", "classification:reddish orange color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "canoe", "small boat", "boat", "watercraft", "craft", "vehicle", "kayak", "gorge", "valley", "nature", "Kayaking", "sport", "natural elevation", "sea green color", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#80807e",
+        "muted" : "#8a685b",
+        "darkVibrant" : "#424241",
+        "darkMuted" : "#404c47",
+        "lightVibrant" : "#bdbdbc",
+        "lightMuted" : "#c3c3c2"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1130797,
+    "name" : "Canada-Article-Image",
+    "lastModified" : "2020-02-06T19:39:31.820Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51.png",
+  "thumbnail" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-02-06T19:39:31.855Z",
+  "dominantColor_0_d" : 0.20709229,
+  "dominantColor_1_d" : 0.21542358,
+  "dominantColor_2_d" : 0.1729126,
+  "dominantColor" : "0.20709229,0.21542358,0.1729126"
+},{
+  "id" : "6132847c-ecc6-41b7-83e0-20c29ace3d17",
+  "name" : "Canada-Article-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-02-06T19:39:36.037Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:34.877Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:2-f4192872e7446f3b9233d62d2c6afaba", "rpi:02154095-e930-4211-8a7a-f15871af2ee2" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+  "fileSize" : 1095065,
+  "location" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1",
+  "locationPaths" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1",
+  "assetType" : "image",
+  "resource" : "126be044-ddaf-4c9c-bb07-156b1c97c592",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+  "height" : 1279,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1279
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "02154095-e930-4211-8a7a-f15871af2ee2",
+    "path" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+    "digest" : "gRMaT+SZ98GR+NVgZhVvPQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=126be044-ddaf-4c9c-bb07-156b1c97c592&a=6132847c-ecc6-41b7-83e0-20c29ace3d17",
+        "source" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592?fit=inside%7C220:145"
+      }
+    },
+    "id" : "6132847c-ecc6-41b7-83e0-20c29ace3d17",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-02-06T19:39:36.084Z",
+    "rev" : "2-f4192872e7446f3b9233d62d2c6afaba",
+    "altText" : "A skier that climbs a mountain with skis on his shouder.",
+    "resource" : "126be044-ddaf-4c9c-bb07-156b1c97c592",
+    "created" : "2020-02-06T19:39:34.877Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:person", "classification:ascent", "classification:slope", "classification:nature", "classification:crest", "classification:natural elevation", "classification:azure color" ],
+      "declined" : [ "classification:person", "classification:ascent", "classification:slope", "classification:nature", "classification:crest", "classification:natural elevation", "classification:azure color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "person", "ascent", "slope", "nature", "crest", "natural elevation", "azure color" ],
+      "colors" : {
+        "vibrant" : "#047bc5",
+        "muted" : "#758386",
+        "darkVibrant" : "#0461a7",
+        "darkMuted" : "#2c345c",
+        "lightVibrant" : "#d9ecfc",
+        "lightMuted" : "#aabbc3"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1095065,
+    "name" : "Canada-Article-Image",
+    "lastModified" : "2020-02-06T19:39:36.037Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592.png",
+  "thumbnail" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-02-06T19:39:36.084Z",
+  "dominantColor_0_d" : 0.15670776,
+  "dominantColor_1_d" : 0.17611694,
+  "dominantColor_2_d" : 0.41781616,
+  "dominantColor" : "0.15670776,0.17611694,0.41781616"
+},{
+  "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+  "name" : "Canada-Country-Image.png",
+  "classification" : "asset",
+  "lastModified" : "2020-02-06T19:39:34.342Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:33.605Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:2-03fa07350716f3a432584f69c037ff7c", "rpi:1518abf8-94c1-49eb-8cdb-f90150a9837d" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55/Canada-Country-Image.png",
+  "fileSize" : 251082,
+  "location" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+  "locationPaths" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+  "assetType" : "image",
+  "resource" : "a6546c5b-be34-4092-b842-9fa914e529bf",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55/Canada-Country-Image.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "Canada-Country-Image.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "1518abf8-94c1-49eb-8cdb-f90150a9837d",
+    "path" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55/Canada-Country-Image.png",
+    "digest" : "LKBAvzdjvm1TW96TugO8uw==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=a6546c5b-be34-4092-b842-9fa914e529bf&a=6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+        "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145"
+      }
+    },
+    "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-02-06T19:39:34.381Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 94,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=1570:105;0,94",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C94"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 370,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=370:275;370,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=370%3A275%3B370%2C0"
+    } ],
+    "rev" : "2-03fa07350716f3a432584f69c037ff7c",
+    "altText" : "The landscape of Canada with a river, boats, forest, and mountains.",
+    "resource" : "a6546c5b-be34-4092-b842-9fa914e529bf",
+    "created" : "2020-02-06T19:39:33.605Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:lakeside", "classification:shore", "classification:nature", "classification:lakefront", "classification:reservoir", "classification:storage tank", "classification:waterside", "classification:slope", "classification:littoral (sands)", "classification:seashore", "classification:sea green color" ],
+      "declined" : [ "classification:lakeside", "classification:shore", "classification:nature", "classification:lakefront", "classification:reservoir", "classification:storage tank", "classification:waterside", "classification:slope", "classification:littoral (sands)", "classification:seashore", "classification:sea green color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "lakeside", "shore", "nature", "lakefront", "reservoir", "storage tank", "waterside", "slope", "littoral (sands)", "seashore", "sea green color" ],
+      "colors" : {
+        "vibrant" : "#cc3316",
+        "muted" : "#7c8e89",
+        "darkVibrant" : "#1c605c",
+        "darkMuted" : "#2f4c47",
+        "lightVibrant" : "#bc9b72",
+        "lightMuted" : "#accccc"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 251082,
+    "name" : "Canada-Country-Image.png",
+    "lastModified" : "2020-02-06T19:39:34.342Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf.png",
+  "thumbnail" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-02-06T19:39:34.381Z",
+  "dominantColor_0_d" : 0.2770996,
+  "dominantColor_1_d" : 0.1585083,
+  "dominantColor_2_d" : 0.017333984,
+  "dominantColor" : "0.2770996,0.1585083,0.017333984"
+},{
+  "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "name" : "Canada-Lead-Image.png",
+  "classification" : "asset",
+  "lastModified" : "2020-02-06T19:39:39.387Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:38.560Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:2-9932d8fcbae5484e5542680f4bf77234", "rpi:df0edcb7-dd36-433a-bd22-7d1baff1423a" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+  "fileSize" : 617185,
+  "location" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "locationPaths" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "assetType" : "image",
+  "resource" : "df1678a1-7ac4-4aab-a590-5e22411a8904",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+  "height" : 578,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Canada-Lead-Image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 578
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "df0edcb7-dd36-433a-bd22-7d1baff1423a",
+    "path" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+    "digest" : "7FdWT6YTV0jyIJQuK5rVTg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=df1678a1-7ac4-4aab-a590-5e22411a8904&a=a7b2cf43-badd-4530-a3b3-0d834883b692",
+        "source" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+      }
+    },
+    "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-02-06T19:39:39.439Z",
+    "profileRenditions" : [ {
+      "profileId" : "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName" : "Travel Article Image Profile",
+      "key" : "card",
+      "label" : "Card",
+      "transform" : {
+        "scale" : 0.43252595155709345,
+        "crop" : {
+          "x" : 529,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?resize=830px:250px&crop=250:250;529,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png?resize=830px%3A250px&crop=250%3A250%3B529%2C0"
+    } ],
+    "rev" : "2-9932d8fcbae5484e5542680f4bf77234",
+    "altText" : "The landscape of Canada with a river, forest, and snowy mountains.",
+    "resource" : "df1678a1-7ac4-4aab-a590-5e22411a8904",
+    "created" : "2020-02-06T19:39:38.560Z",
+    "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:ridge", "classification:nature", "classification:continental glacier", "classification:glacier", "classification:ice mass", "classification:cirque (basin)", "classification:natural elevation", "classification:mountain range", "classification:sea green color", "classification:greenish blue color" ],
+      "declined" : [ "classification:ridge", "classification:nature", "classification:continental glacier", "classification:glacier", "classification:ice mass", "classification:cirque (basin)", "classification:natural elevation", "classification:mountain range", "classification:sea green color", "classification:greenish blue color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "ridge", "nature", "continental glacier", "glacier", "ice mass", "cirque (basin)", "natural elevation", "mountain range", "sea green color", "greenish blue color" ],
+      "colors" : {
+        "vibrant" : "#058e98",
+        "muted" : "#669da0",
+        "darkVibrant" : "#047c88",
+        "darkMuted" : "#4c4739",
+        "lightVibrant" : "#7ef2fa",
+        "lightMuted" : "#b4c6c4"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 617185,
+    "name" : "Canada-Lead-Image.png",
+    "lastModified" : "2020-02-06T19:39:39.387Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904.png",
+  "thumbnail" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-02-06T19:39:39.439Z",
+  "dominantColor_0_d" : 0.14978027,
+  "dominantColor_1_d" : 0.21331787,
+  "dominantColor_2_d" : 0.25042725,
+  "dominantColor" : "0.14978027,0.21331787,0.25042725"
+},{
+  "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+  "name" : "Canada-Gallery.png",
+  "classification" : "asset",
+  "lastModified" : "2020-02-06T19:39:44.085Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:43.177Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:2-9e7e325437192e4fb60c33ce4ad6a25f", "rpi:f3bf6881-279b-43fb-81de-0a73cc2f461e" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+  "fileSize" : 1205919,
+  "location" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c",
+  "locationPaths" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c",
+  "assetType" : "image",
+  "resource" : "09884b0e-a98d-4614-aebf-5388563c8edf",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+  "height" : 1280,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Canada-Gallery.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1280
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "f3bf6881-279b-43fb-81de-0a73cc2f461e",
+    "path" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+    "digest" : "YcVVA0bKxt+A3NtpGM0bxQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=09884b0e-a98d-4614-aebf-5388563c8edf&a=fd3cd111-824b-4414-b803-c5142e60699c",
+        "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145"
+      }
+    },
+    "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-02-06T19:39:44.122Z",
+    "profileRenditions" : [ {
+      "profileId" : "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "profileName" : "Gallery Image Profile",
+      "key" : "squareCard",
+      "label" : "Square Card",
+      "transform" : {
+        "scale" : 0.19531,
+        "crop" : {
+          "x" : 62,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=375px:250px&crop=250:250;62,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+    }, {
+      "profileId" : "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "profileName" : "Gallery Image Profile",
+      "key" : "rectangleCard",
+      "label" : "Rectangle Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 359,
+          "width" : 1920,
+          "height" : 562
+        }
+      },
+      "uri" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=1920px:1280px&crop=1920:562;0,359",
+      "width" : 1920,
+      "height" : 562,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+    } ],
+    "rev" : "2-9e7e325437192e4fb60c33ce4ad6a25f",
+    "altText" : "The building, where the parliament of Canada resides, with the national flag on the top.",
+    "resource" : "09884b0e-a98d-4614-aebf-5388563c8edf",
+    "created" : "2020-02-06T19:39:43.177Z",
+    "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:castle", "classification:fortification", "classification:defensive structure", "classification:chateau", "classification:country house", "classification:building", "classification:palace", "classification:blue color" ],
+      "declined" : [ "classification:castle", "classification:fortification", "classification:defensive structure", "classification:chateau", "classification:country house", "classification:building", "classification:palace", "classification:blue color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "castle", "fortification", "defensive structure", "chateau", "country house", "building", "palace", "blue color" ],
+      "colors" : {
+        "vibrant" : "#84643c",
+        "muted" : "#977d61",
+        "darkVibrant" : "#7c6439",
+        "darkMuted" : "#574c36",
+        "lightVibrant" : "#d5bfa3",
+        "lightMuted" : "#9ca3b3"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1205919,
+    "name" : "Canada-Gallery.png",
+    "lastModified" : "2020-02-06T19:39:44.085Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf.png",
+  "thumbnail" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-02-06T19:39:44.122Z",
+  "dominantColor_0_d" : 0.15612793,
+  "dominantColor_1_d" : 0.14541626,
+  "dominantColor_2_d" : 0.047851562,
+  "dominantColor" : "0.15612793,0.14541626,0.047851562"
+},{
+  "systemModified" : "2020-02-06T19:39:58.458Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "1-8fba02a6ee59d8a0a67af5658a360720",
+    "thumbnail" : {
+      "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-02-06T19:39:58.283Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Gallery Image",
+    "locale" : "en",
+    "tags" : [ "travel site sample", "Sights" ],
+    "elements" : {
+      "ImageTitle" : {
+        "elementType" : "text",
+        "value" : "Parliament Hill"
+      },
+      "galleryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+        "renditions" : {
+          "squareCard" : {
+            "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=375px:250px&crop=250:250;62,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.19531,
+              "crop" : {
+                "x" : 62,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+          },
+          "rectangleCard" : {
+            "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=1920px:1280px&crop=1920:562;0,359",
+            "width" : 1920,
+            "height" : 562,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 359,
+                "width" : 1920,
+                "height" : 562
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf",
+            "height" : 1280,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Canada-Gallery.png",
+          "altText" : "The building, where the parliament of Canada resides, with the national flag on the top.",
+          "fileSize" : 1205919,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+          "resourceUri" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf",
+          "height" : 1280
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png"
+      },
+      "imageDescription" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.</p>\n"
+      },
+      "imageCountryValue" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff" ],
+        "categories" : [ "Locations/North America/Canada" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Canada Gallery Image",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/37e98cc9-dbb5-4e3d-ba4a-ce06b046599f"
+      }
+    },
+    "id" : "ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7",
+    "lastModified" : "2020-02-06T19:39:58.283Z",
+    "systemModified" : "2020-02-06T19:39:58.458Z",
+    "status" : "ready"
+  },
+  "text" : [ "ImageTitle Parliament Hill", "galleryImage", "imageDescription Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.", "imageCountryValue" ],
+  "text_en" : [ "ImageTitle Parliament Hill", "galleryImage", "imageDescription Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.", "imageCountryValue" ],
+  "type" : "Gallery Image",
+  "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "systemTags" : [ "rev:1-8fba02a6ee59d8a0a67af5658a360720" ],
+  "tags" : [ "travel site sample", "Sights" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:58.283Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-02-06T19:39:58.283Z",
+  "classification" : "content",
+  "name" : "Canada Gallery Image",
+  "id" : "ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string3" : [ "Parliament Hill" ],
+  "categories" : [ "Locations/North America/Canada" ],
+  "categoryLeaves" : [ "Canada" ]
+},{
+  "systemModified" : "2020-02-06T19:39:58.547Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "1-21f9ca12204b485609eaf9e760137229",
+    "thumbnail" : {
+      "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-02-06T19:39:58.388Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Country",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryTitle" : {
+        "elementType" : "text",
+        "value" : "Canada"
+      },
+      "countryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+        "renditions" : {
+          "countryCard" : {
+            "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=1570:105;0,94",
+            "width" : 1570,
+            "height" : 105,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 94,
+                "width" : 1570,
+                "height" : 105
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C94"
+          },
+          "destinationsCard" : {
+            "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=370:275;370,0",
+            "width" : 370,
+            "height" : 275,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 370,
+                "y" : 0,
+                "width" : 370,
+                "height" : 275
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=370%3A275%3B370%2C0"
+          },
+          "default" : {
+            "width" : 1570,
+            "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf",
+            "height" : 275,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Canada-Country-Image.png",
+          "altText" : "The landscape of Canada with a river, boats, forest, and mountains.",
+          "fileSize" : 251082,
+          "width" : 1570,
+          "mediaType" : "image/png",
+          "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+          "resourceUri" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf",
+          "height" : 275
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png"
+      },
+      "countryValueForPage" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff" ],
+        "categories" : [ "Locations/North America/Canada" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Canada",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/dec1a97a-941f-479a-b50c-0034c84c8ff8/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/dec1a97a-941f-479a-b50c-0034c84c8ff8/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/dec1a97a-941f-479a-b50c-0034c84c8ff8"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/bf26d16f-461d-408b-b846-4dfb9cc06c8a"
+      }
+    },
+    "id" : "dec1a97a-941f-479a-b50c-0034c84c8ff8",
+    "lastModified" : "2020-02-06T19:39:58.388Z",
+    "systemModified" : "2020-02-06T19:39:58.547Z",
+    "status" : "ready"
+  },
+  "text" : [ "countryTitle Canada", "countryImage", "countryValueForPage" ],
+  "text_en" : [ "countryTitle Canada", "countryImage", "countryValueForPage" ],
+  "type" : "Country",
+  "typeId" : "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "systemTags" : [ "rev:1-21f9ca12204b485609eaf9e760137229" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:58.388Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-02-06T19:39:58.388Z",
+  "classification" : "content",
+  "name" : "Canada",
+  "id" : "dec1a97a-941f-479a-b50c-0034c84c8ff8",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/North America/Canada" ],
+  "categoryLeaves" : [ "Canada" ]
+},{
+  "systemModified" : "2020-02-06T19:39:58.580Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle The 'Must Do' Guide for Canada", "travelArticleImage", "articleAuthor John Smith", "travelArticleText We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world's forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country. Do canoeing One of the best ways to see Canada is by taking a trip on a canoe. There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list: Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn; Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October; Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario.   Visit Niagara Falls Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada. The Falls is not just one wide waterfall, but 3 connected waterfalls: American Falls - named so, since it flows mainly over the border of US; Bridal Veil Falls that resembles - surprise - a bridal veil; Horseshoe Falls, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario.   Go skiing in Whistler Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland to the most famous resorts like Banff, Lake Louise, and Whistler. Whistler is a 'flagship' resort in the country. It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America. The popularity of this place certainly has its drawbacks. In high season, it's getting too crowded, thus lift queues are not unusual, and too expensive, making you consider other resorts." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle The 'Must Do' Guide for Canada", "travelArticleImage", "articleAuthor John Smith", "travelArticleText We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world's forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country. Do canoeing One of the best ways to see Canada is by taking a trip on a canoe. There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list: Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn; Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October; Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario.   Visit Niagara Falls Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada. The Falls is not just one wide waterfall, but 3 connected waterfalls: American Falls - named so, since it flows mainly over the border of US; Bridal Veil Falls that resembles - surprise - a bridal veil; Horseshoe Falls, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario.   Go skiing in Whistler Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland to the most famous resorts like Banff, Lake Louise, and Whistler. Whistler is a 'flagship' resort in the country. It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America. The popularity of this place certainly has its drawbacks. In high season, it's getting too crowded, thus lift queues are not unusual, and too expensive, making you consider other resorts." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:1-0108c7db7e623d25495ec96ec2518c14" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-02-06T19:39:58.416Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-02-06T19:39:58.416Z",
+  "classification" : "content",
+  "name" : "Canada Travel Article",
+  "id" : "f1492227-943b-4f8e-81a6-79bc939e101b",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "The 'Must Do' Guide for Canada" ],
+  "categories" : [ "Locations/North America/Canada" ],
+  "categoryLeaves" : [ "Canada" ],
+  "document" : {
+    "rev" : "1-0108c7db7e623d25495ec96ec2518c14",
+    "thumbnail" : {
+      "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-02-06T19:39:58.416Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff" ],
+        "categories" : [ "Locations/North America/Canada" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "The 'Must Do' Guide for Canada"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?resize=830px:250px&crop=250:250;529,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252595155709345,
+              "crop" : {
+                "x" : 529,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png?resize=830px%3A250px&crop=250%3A250%3B529%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Canada-Lead-Image.png",
+          "altText" : "The landscape of Canada with a river, forest, and snowy mountains.",
+          "fileSize" : 617185,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+          "resourceUri" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world's forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country.</em></p> \n<h2>Do canoeing</h2> \n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\">\n <img data-wch-asset-id=\"8bb42682-08dd-4b1f-8cc0-0deef30bfa0c\" height=\"500\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/53b9/53b94276-9619-4f7a-bce8-7d663117bd51.png\" width=\"750\">\n</div> \n<p>One of the best ways to see Canada is by taking a trip on a canoe.</p> \n<p>There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list:</p> \n<ul>\n <li>Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn;</li>\n <li> <p>Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October;</p> </li>\n <li>Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario.</li>\n</ul> \n<p>&nbsp;</p> \n<h2>Visit Niagara Falls</h2> \n<p><img data-wch-asset-id=\"09a014ea-1018-4b8e-9245-e7a8a0b5b9f0\" height=\"250\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e328/e328e3a0-2c9c-4cfc-8969-2513cbde15f4.png\" style=\"float:right;padding:5px 0px 0px 10px\" width=\"375\">Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada.</p> \n<p>The Falls is not just one wide waterfall, but 3 connected waterfalls:</p> \n<ol>\n <li><strong>American Falls</strong> - named so, since it flows mainly over the border of US;</li>\n <li><strong>Bridal Veil Falls</strong>&nbsp;that resembles&nbsp;- <em>surprise</em> - a bridal veil;</li>\n <li><strong>Horseshoe Falls</strong>, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario.</li>\n</ol> \n<p>&nbsp;</p> \n<h2>Go skiing in Whistler</h2> \n<p><img data-wch-asset-id=\"6132847c-ecc6-41b7-83e0-20c29ace3d17\" height=\"250\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/126b/126be044-ddaf-4c9c-bb07-156b1c97c592.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"375\"></p> \n<p>Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland&nbsp;to the most famous resorts like Banff, Lake Louise, and Whistler.</p> \n<p>Whistler is a 'flagship' resort in the country.&nbsp;It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America.</p> \n<p>The popularity of this place certainly has its drawbacks. In high season, it's getting too crowded, thus lift queues are not unusual,&nbsp;and too expensive, making you consider other resorts.</p>"
+      }
+    },
+    "name" : "Canada Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/f1492227-943b-4f8e-81a6-79bc939e101b/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/f1492227-943b-4f8e-81a6-79bc939e101b/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/f1492227-943b-4f8e-81a6-79bc939e101b"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "f1492227-943b-4f8e-81a6-79bc939e101b",
+    "lastModified" : "2020-02-06T19:39:58.416Z",
+    "systemModified" : "2020-02-06T19:39:58.580Z",
+    "status" : "ready"
+  }
+}]}

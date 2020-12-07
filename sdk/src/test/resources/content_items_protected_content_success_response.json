@@ -1,0 +1,1147 @@
+{"numFound":41,"documents":[{
+  "systemModified" : "2020-03-20T15:15:23.490Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-3151d36dbfee9d275ca8a8aa8415e5a4",
+    "thumbnail" : {
+      "id" : "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:23.342Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "About Information",
+    "locale" : "en",
+    "tags" : [ "Travel Site Sample" ],
+    "elements" : {
+      "pageTitle" : {
+        "elementType" : "text",
+        "value" : "About Us"
+      },
+      "aboutPageImage" : {
+        "mode" : "shared",
+        "renditions" : {
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021",
+            "height" : 1315,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/1a33/1a331db2-1db5-476b-a198-15fea1d62021.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "image.png",
+          "altText" : "A group of people sitting at the working desk.",
+          "fileSize" : 1214876,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+          "resourceUri" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021",
+          "height" : 1315
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/1a33/1a331db2-1db5-476b-a198-15fea1d62021.png"
+      },
+      "aboutPageText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>Started as the travel blog of several friends, the <em>Traveler</em> quickly became popular, attracting thousands of visitors and contributors across the globe.</p>\n\n<p>You can start your acquaintance with the <em>Traveler</em> from the Home page, where the most recent travel articles and gallery image posts are displayed.</p>\n\n<p>Learn more about each country by reading travel articles in the &#34;Destinations&#34; area. Or simply browse through numerous stunning images in the Gallery, taken by our contributors in the far corners of our planet.</p>\n\n<p> </p>\n\n<p>Enjoy the traveling experience,</p>\n\n<p>the <em>Traveler</em> team.</p>\n"
+      }
+    },
+    "name" : "About Information",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "e3a35427-aee9-4787-8f30-0a17d02608d1",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/c9564e57-3847-40ca-bea8-69777ac5737c/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/c9564e57-3847-40ca-bea8-69777ac5737c/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/c9564e57-3847-40ca-bea8-69777ac5737c"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/e3a35427-aee9-4787-8f30-0a17d02608d1"
+      }
+    },
+    "id" : "c9564e57-3847-40ca-bea8-69777ac5737c",
+    "lastModified" : "2020-03-20T15:15:23.342Z",
+    "systemModified" : "2020-03-20T15:15:23.490Z",
+    "status" : "ready"
+  },
+  "text" : [ "pageTitle About Us", "aboutPageImage", "aboutPageText Started as the travel blog of several friends, the Traveler quickly became popular, attracting thousands of visitors and contributors across the globe. You can start your acquaintance with the Traveler from the Home page, where the most recent travel articles and gallery image posts are displayed. Learn more about each country by reading travel articles in the \"Destinations\" area. Or simply browse through numerous stunning images in the Gallery, taken by our contributors in the far corners of our planet.   Enjoy the traveling experience, the Traveler team." ],
+  "text_en" : [ "pageTitle About Us", "aboutPageImage", "aboutPageText Started as the travel blog of several friends, the Traveler quickly became popular, attracting thousands of visitors and contributors across the globe. You can start your acquaintance with the Traveler from the Home page, where the most recent travel articles and gallery image posts are displayed. Learn more about each country by reading travel articles in the \"Destinations\" area. Or simply browse through numerous stunning images in the Gallery, taken by our contributors in the far corners of our planet.   Enjoy the traveling experience, the Traveler team." ],
+  "type" : "About Information",
+  "typeId" : "e3a35427-aee9-4787-8f30-0a17d02608d1",
+  "systemTags" : [ "rev:5-3151d36dbfee9d275ca8a8aa8415e5a4" ],
+  "tags" : [ "Travel Site Sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.342Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.342Z",
+  "classification" : "content",
+  "name" : "About Information",
+  "id" : "c9564e57-3847-40ca-bea8-69777ac5737c",
+  "isSystem" : false,
+  "isRevoked" : false
+},{
+  "systemModified" : "2020-03-20T15:15:21.635Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-699447511186ff00e34592004ea6270f",
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:21.464Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Region",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "regionTitle" : {
+        "elementType" : "text",
+        "value" : "Africa"
+      },
+      "countryList" : {
+        "categoryIds" : [ "f47689e6-66aa-48d9-971a-fc9abdab26ce", "e7585579-d9cd-4837-a089-5a8dd8779a52" ],
+        "categories" : [ "Locations/Africa/Kenya", "Locations/Africa/South Africa" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Africa",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+    "links" : {
+      "createDraft" : {
+        "href" : "/authoring/v1/content/18ae2d66-bebc-4b3b-a071-c9d55f8830ad/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/18ae2d66-bebc-4b3b-a071-c9d55f8830ad/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/18ae2d66-bebc-4b3b-a071-c9d55f8830ad"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/9f077e72-352d-41a3-b2bb-b3857e6bc783"
+      }
+    },
+    "id" : "18ae2d66-bebc-4b3b-a071-c9d55f8830ad",
+    "lastModified" : "2020-03-20T15:15:21.464Z",
+    "systemModified" : "2020-03-20T15:15:21.635Z",
+    "status" : "ready"
+  },
+  "text" : [ "regionTitle Africa", "countryList" ],
+  "text_en" : [ "regionTitle Africa", "countryList" ],
+  "type" : "Region",
+  "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "systemTags" : [ "rev:5-699447511186ff00e34592004ea6270f" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.464Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.464Z",
+  "classification" : "content",
+  "name" : "Africa",
+  "id" : "18ae2d66-bebc-4b3b-a071-c9d55f8830ad",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/Africa/Kenya", "Locations/Africa/South Africa" ],
+  "categoryLeaves" : [ "Kenya", "South Africa" ]
+},{
+  "systemModified" : "2020-03-20T15:15:22.165Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-c67ea2364c9919e98b4d9c8482302262",
+    "thumbnail" : {
+      "id" : "0aabc094-382c-460a-900a-a70d6ba2122e",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:22.005Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Country",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryTitle" : {
+        "elementType" : "text",
+        "value" : "Argentina"
+      },
+      "countryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+        "renditions" : {
+          "countryCard" : {
+            "source" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?resize=1570px:275px&crop=1570:105;0,129",
+            "width" : 1570,
+            "height" : 105,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 129,
+                "width" : 1570,
+                "height" : 105
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C129"
+          },
+          "destinationsCard" : {
+            "source" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?resize=1570px:275px&crop=370:275;243,0",
+            "width" : 370,
+            "height" : 275,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 243,
+                "y" : 0,
+                "width" : 370,
+                "height" : 275
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png?resize=1570px%3A275px&crop=370%3A275%3B243%2C0"
+          },
+          "default" : {
+            "width" : 1570,
+            "source" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7",
+            "height" : 275,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Argentina-Country.png",
+          "altText" : "The landscape of Argentina.",
+          "fileSize" : 141872,
+          "width" : 1570,
+          "mediaType" : "image/png",
+          "id" : "0aabc094-382c-460a-900a-a70d6ba2122e",
+          "resourceUri" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7",
+          "height" : 275
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png"
+      },
+      "countryValueForPage" : {
+        "categoryIds" : [ "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9" ],
+        "categories" : [ "Locations/South America/Argentina" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Argentina",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/42a1f452-0228-4ef5-bd84-4f3357f10223/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/42a1f452-0228-4ef5-bd84-4f3357f10223/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/42a1f452-0228-4ef5-bd84-4f3357f10223"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/bf26d16f-461d-408b-b846-4dfb9cc06c8a"
+      }
+    },
+    "id" : "42a1f452-0228-4ef5-bd84-4f3357f10223",
+    "lastModified" : "2020-03-20T15:15:22.005Z",
+    "systemModified" : "2020-03-20T15:15:22.165Z",
+    "status" : "ready"
+  },
+  "text" : [ "countryTitle Argentina", "countryImage", "countryValueForPage" ],
+  "text_en" : [ "countryTitle Argentina", "countryImage", "countryValueForPage" ],
+  "type" : "Country",
+  "typeId" : "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "systemTags" : [ "rev:5-c67ea2364c9919e98b4d9c8482302262" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.005Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.005Z",
+  "classification" : "content",
+  "name" : "Argentina",
+  "id" : "42a1f452-0228-4ef5-bd84-4f3357f10223",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/South America/Argentina" ],
+  "categoryLeaves" : [ "Argentina" ]
+},{
+  "systemModified" : "2020-03-20T15:15:23.420Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle A Quick Guide to Argentina", "travelArticleImage", "articleAuthor John Smith", "travelArticleText A place of tango origin, famous beef, and dozens of national parks, Argentina – once one of the wealthiest countries in the world – attracts millions of tourists each year, offering a wide range of social and cultural activities. Getting to Know Having the world’s eighth-largest country area and population of around 45 million, Argentina is one of the least densely populated countries on the planet. It is a multicultural country with significant European influences. Present Argentine culture was greatly influenced by Italian, Spanish, French and other European immigration. The country is divided into seven different regions with Buenos Aires, the capital of Argentina, in the Pampas region. Buenos Aires The population of Buenos Aires is around 2.8 million people. Throughout the years, many people have immigrated to Argentina's capital from different countries, creating a unique mix of their cultures with a notably strong European influence. Widely known as the cradle of tango, Buenos Aires is also home to first-class opera and theater, and to restaurants full of Mendoza wine and slices of beef right from the Pampas. Patagonia For those who seek active adventures, Argentina offers Patagonia - a region with marvelous sceneries, famous for its hiking & trekking routes. The region is bordered in the north by the Cuyo and Pampas regions, by Chile's part of Patagonia in the west, by the Atlantic Ocean in the east, and by the archipelago of Tierra del Fuego on the south. The two most popular treks in the Argentinian part of Patagonia are Laguna de los Tres and Laguna Torre, which are of moderate difficulty. Expect seven to ten hours of hiking on a fairly light terrain. The best time for a trip to Patagonia is between the end of November and the beginning of March. Famous Beaches of Argentina All of Argentina’s beaches are located on the Atlantic coast, a few hours’ ride from Buenos Aires. Hands down 3 most popular beaches that each traveler must visit: Mar del Plata – the number-one beach destination in Argentina. On summer vacations, it becomes a bit crowded, so for those seeking relaxation or alone time, it is better to look for other places (more distant from Buenos Aires, but still perfect sandy beaches). Pinamar – famous for its unique architecture, houses in blooming gardens, surrounding pinewoods, and a wide area of sand dunes known as “La Frontera”. Villa Gesell – a popular place for visitors in their 20s. It has a wood plank boardwalk along the beach and is known for its music stages and water sports in the summer." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle A Quick Guide to Argentina", "travelArticleImage", "articleAuthor John Smith", "travelArticleText A place of tango origin, famous beef, and dozens of national parks, Argentina – once one of the wealthiest countries in the world – attracts millions of tourists each year, offering a wide range of social and cultural activities. Getting to Know Having the world’s eighth-largest country area and population of around 45 million, Argentina is one of the least densely populated countries on the planet. It is a multicultural country with significant European influences. Present Argentine culture was greatly influenced by Italian, Spanish, French and other European immigration. The country is divided into seven different regions with Buenos Aires, the capital of Argentina, in the Pampas region. Buenos Aires The population of Buenos Aires is around 2.8 million people. Throughout the years, many people have immigrated to Argentina's capital from different countries, creating a unique mix of their cultures with a notably strong European influence. Widely known as the cradle of tango, Buenos Aires is also home to first-class opera and theater, and to restaurants full of Mendoza wine and slices of beef right from the Pampas. Patagonia For those who seek active adventures, Argentina offers Patagonia - a region with marvelous sceneries, famous for its hiking & trekking routes. The region is bordered in the north by the Cuyo and Pampas regions, by Chile's part of Patagonia in the west, by the Atlantic Ocean in the east, and by the archipelago of Tierra del Fuego on the south. The two most popular treks in the Argentinian part of Patagonia are Laguna de los Tres and Laguna Torre, which are of moderate difficulty. Expect seven to ten hours of hiking on a fairly light terrain. The best time for a trip to Patagonia is between the end of November and the beginning of March. Famous Beaches of Argentina All of Argentina’s beaches are located on the Atlantic coast, a few hours’ ride from Buenos Aires. Hands down 3 most popular beaches that each traveler must visit: Mar del Plata – the number-one beach destination in Argentina. On summer vacations, it becomes a bit crowded, so for those seeking relaxation or alone time, it is better to look for other places (more distant from Buenos Aires, but still perfect sandy beaches). Pinamar – famous for its unique architecture, houses in blooming gardens, surrounding pinewoods, and a wide area of sand dunes known as “La Frontera”. Villa Gesell – a popular place for visitors in their 20s. It has a wood plank boardwalk along the beach and is known for its music stages and water sports in the summer." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-f55670fdcc087f88ae2efc45429df6fd" ],
+  "tags" : [ "Travel Site Sample", "Beach", "Hiking", "City" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.242Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.242Z",
+  "classification" : "content",
+  "name" : "Argentina - Travel Article",
+  "id" : "ac1e14d9-282c-4317-ab5d-5001589fc0e5",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "A Quick Guide to Argentina" ],
+  "categories" : [ "Locations/South America/Argentina" ],
+  "categoryLeaves" : [ "Argentina" ],
+  "document" : {
+    "rev" : "5-f55670fdcc087f88ae2efc45429df6fd",
+    "thumbnail" : {
+      "id" : "526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:23.242Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "Travel Site Sample", "Beach", "Hiking", "City" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9" ],
+        "categories" : [ "Locations/South America/Argentina" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "A Quick Guide to Argentina"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?resize=830px:250px&crop=250:250;309,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252595155709345,
+              "crop" : {
+                "x" : 309,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/05ba/05bad243-5e22-4734-860b-c9416e54fbe3.png?resize=830px%3A250px&crop=250%3A250%3B309%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/05ba/05bad243-5e22-4734-860b-c9416e54fbe3.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Argentina-Lead-Image.png",
+          "altText" : "The landscape of Argentina with a river, forest, and mountains.",
+          "fileSize" : 1625695,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+          "resourceUri" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/05ba/05bad243-5e22-4734-860b-c9416e54fbe3.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>A place of tango origin, famous beef, and dozens of national parks, Argentina – once one of the wealthiest countries in the world – attracts millions of tourists each year, offering a wide range of social and cultural activities.</em></p> \n<h2>Getting to Know</h2> \n<p>Having the world’s eighth-largest country area and population of around 45 million, Argentina is one of the least densely populated countries on the planet. It is a&nbsp;multicultural country&nbsp;with significant European influences. Present Argentine culture was greatly influenced by&nbsp;Italian,&nbsp;Spanish, French and other European immigration. The country is divided into seven different regions with Buenos Aires, the capital of Argentina, in the Pampas region.</p> \n<h2>Buenos Aires</h2> \n<p><img data-wch-asset-id=\"26231a0a-2af1-488d-a41f-a5a51226c156\" height=\"250\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/7194/7194fc63-1e45-4e69-aa10-110dbb88097a.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"375\"></p> \n<p>The population of Buenos Aires is around 2.8 million people.</p> \n<p>Throughout the years, many people have immigrated to Argentina's capital from different countries, creating a unique mix of their cultures with a notably&nbsp;strong European influence.</p> \n<p>Widely known as the cradle&nbsp;of tango, Buenos Aires is also home to first-class opera and theater, and to restaurants full of Mendoza wine and slices of beef right from the Pampas.</p> \n<h2>Patagonia</h2> \n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\">\n <img data-wch-asset-id=\"04a5a3ca-22a6-4fb6-83bb-0adb20e4291e\" height=\"500\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/2d6b/2d6bbcc2-9755-4bbf-87db-3226e9faf171.png\" width=\"750\">\n</div> \n<p>For those who seek active adventures, Argentina offers <em>Patagonia</em>&nbsp;- a&nbsp;region with marvelous sceneries, famous for its hiking &amp; trekking routes.</p> \n<p>The region is bordered in the north by the&nbsp;Cuyo&nbsp;and&nbsp;Pampas&nbsp;regions, by Chile's part of Patagonia in the west, by the Atlantic Ocean in the east, and by&nbsp;the archipelago of&nbsp;Tierra del Fuego on the south. The two most popular treks in the Argentinian part of Patagonia are&nbsp;<em>Laguna de los Tres</em> and <em>Laguna Torre</em>, which are of moderate difficulty. Expect&nbsp;seven to ten hours of hiking&nbsp;on a fairly light terrain.</p> \n<p>The best time for a trip to Patagonia is between the end of November and the beginning of March.</p> \n<h2>Famous Beaches of Argentina</h2> \n<p><img data-wch-asset-id=\"8c2eabce-8ba4-45fb-bd19-41d525c6e2b3\" height=\"300\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/bbd4/bbd47b31-c0fa-46d4-a447-12892ff92a1c.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"400\"></p> \n<p>All of Argentina’s beaches are located on the Atlantic coast, a few hours’ ride from Buenos Aires.</p> \n<p>Hands down 3 most popular beaches that each traveler must visit:</p> \n<p><strong><em>Mar del Plata</em></strong> <em>–</em> the number-one beach destination in Argentina. On summer vacations, it becomes a bit crowded, so for those seeking relaxation or alone time, it is better to look for other places (more distant from Buenos Aires, but still perfect sandy beaches).</p> \n<p><strong><em>Pinamar</em></strong> –&nbsp;famous for its unique architecture, houses&nbsp;in blooming gardens, surrounding pinewoods, and a wide area of sand dunes known as “La Frontera”.</p> \n<p><strong><em>Villa Gesell</em></strong> – a popular place for visitors in their 20s. It has a wood plank boardwalk along the beach and is known for its music stages and water sports in the summer.</p>"
+      }
+    },
+    "name" : "Argentina - Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/ac1e14d9-282c-4317-ab5d-5001589fc0e5/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/ac1e14d9-282c-4317-ab5d-5001589fc0e5/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/ac1e14d9-282c-4317-ab5d-5001589fc0e5"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "ac1e14d9-282c-4317-ab5d-5001589fc0e5",
+    "lastModified" : "2020-03-20T15:15:23.242Z",
+    "systemModified" : "2020-03-20T15:15:23.420Z",
+    "status" : "ready"
+  }
+},{
+  "systemModified" : "2020-03-20T15:15:22.448Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-f069186d573f3a4efe603405f4f1b885",
+    "thumbnail" : {
+      "id" : "7922451d-8c10-4bc7-a196-ad15d0b1c80a",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:22.265Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Gallery Image",
+    "locale" : "en",
+    "tags" : [ "Travel Site Sample", "Nature" ],
+    "elements" : {
+      "ImageTitle" : {
+        "elementType" : "text",
+        "value" : "Iguazu Falls"
+      },
+      "galleryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+        "renditions" : {
+          "squareCard" : {
+            "source" : "/delivery/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599?resize=250px:375px&crop=250:250;0,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.13020833333333334,
+              "crop" : {
+                "x" : 0,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/44bc/44bca08a-4967-4256-b2f7-e4ef2a46e599.png?resize=250px%3A375px&crop=250%3A250%3B0%2C0"
+          },
+          "rectangleCard" : {
+            "source" : "/delivery/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599?resize=1920px:2880px&crop=1920:562;0,1159",
+            "width" : 1920,
+            "height" : 562,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 1159,
+                "width" : 1920,
+                "height" : 562
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/44bc/44bca08a-4967-4256-b2f7-e4ef2a46e599.png?resize=1920px%3A2880px&crop=1920%3A562%3B0%2C1159"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599",
+            "height" : 2880,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/44bc/44bca08a-4967-4256-b2f7-e4ef2a46e599.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Iguazu Falls.png",
+          "altText" : "Iguazu Falls in Argentina",
+          "fileSize" : 3226283,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "7922451d-8c10-4bc7-a196-ad15d0b1c80a",
+          "resourceUri" : "/delivery/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599",
+          "height" : 2880
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/44bc/44bca08a-4967-4256-b2f7-e4ef2a46e599.png"
+      },
+      "imageDescription" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>Iguazu Falls are waterfalls of the Iguazu River, flowing along the border of the Argentine province of Misiones and the Brazilian state of Paraná. The waterfall system comprises 275 falls with the majority of the falls to be about 64 meteres in height. The most impressive one is the Devil’s Throat a U-shaped, 82 meters high, 150 meters wide and 700 meters long waterfall.</p>\n"
+      },
+      "imageCountryValue" : {
+        "categoryIds" : [ "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9" ],
+        "categories" : [ "Locations/South America/Argentina" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Argentina Gallery Image",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/44bca08a-4967-4256-b2f7-e4ef2a46e599?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/649f2dd2-1355-42e7-9a95-84350e3ce1e4/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/649f2dd2-1355-42e7-9a95-84350e3ce1e4/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/649f2dd2-1355-42e7-9a95-84350e3ce1e4"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/37e98cc9-dbb5-4e3d-ba4a-ce06b046599f"
+      }
+    },
+    "id" : "649f2dd2-1355-42e7-9a95-84350e3ce1e4",
+    "lastModified" : "2020-03-20T15:15:22.265Z",
+    "systemModified" : "2020-03-20T15:15:22.448Z",
+    "status" : "ready"
+  },
+  "text" : [ "ImageTitle Iguazu Falls", "galleryImage", "imageDescription Iguazu Falls are waterfalls of the Iguazu River, flowing along the border of the Argentine province of Misiones and the Brazilian state of Paraná. The waterfall system comprises 275 falls with the majority of the falls to be about 64 meteres in height. The most impressive one is the Devil’s Throat a U-shaped, 82 meters high, 150 meters wide and 700 meters long waterfall.", "imageCountryValue" ],
+  "text_en" : [ "ImageTitle Iguazu Falls", "galleryImage", "imageDescription Iguazu Falls are waterfalls of the Iguazu River, flowing along the border of the Argentine province of Misiones and the Brazilian state of Paraná. The waterfall system comprises 275 falls with the majority of the falls to be about 64 meteres in height. The most impressive one is the Devil’s Throat a U-shaped, 82 meters high, 150 meters wide and 700 meters long waterfall.", "imageCountryValue" ],
+  "type" : "Gallery Image",
+  "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "systemTags" : [ "rev:5-f069186d573f3a4efe603405f4f1b885" ],
+  "tags" : [ "Travel Site Sample", "Nature" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.265Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.265Z",
+  "classification" : "content",
+  "name" : "Argentina Gallery Image",
+  "id" : "649f2dd2-1355-42e7-9a95-84350e3ce1e4",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string3" : [ "Iguazu Falls" ],
+  "categories" : [ "Locations/South America/Argentina" ],
+  "categoryLeaves" : [ "Argentina" ]
+},{
+  "systemModified" : "2020-03-20T15:15:22.288Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-0d13d4caf033bd22f86c68f604b743a2",
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:22.079Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Region",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "regionTitle" : {
+        "elementType" : "text",
+        "value" : "Asia"
+      },
+      "countryList" : {
+        "categoryIds" : [ "afff9e99-d059-42c2-84e3-ac59e1ea371a", "62bc29c6-3b62-4820-b322-20072f1d606e" ],
+        "categories" : [ "Locations/Asia/Japan", "Locations/Asia/Singapore" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Asia",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+    "links" : {
+      "createDraft" : {
+        "href" : "/authoring/v1/content/34ce6eb6-dcbe-452d-8996-1d36fdfca307/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/34ce6eb6-dcbe-452d-8996-1d36fdfca307/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/34ce6eb6-dcbe-452d-8996-1d36fdfca307"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/9f077e72-352d-41a3-b2bb-b3857e6bc783"
+      }
+    },
+    "id" : "34ce6eb6-dcbe-452d-8996-1d36fdfca307",
+    "lastModified" : "2020-03-20T15:15:22.079Z",
+    "systemModified" : "2020-03-20T15:15:22.288Z",
+    "status" : "ready"
+  },
+  "text" : [ "regionTitle Asia", "countryList" ],
+  "text_en" : [ "regionTitle Asia", "countryList" ],
+  "type" : "Region",
+  "typeId" : "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "systemTags" : [ "rev:5-0d13d4caf033bd22f86c68f604b743a2" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.079Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.079Z",
+  "classification" : "content",
+  "name" : "Asia",
+  "id" : "34ce6eb6-dcbe-452d-8996-1d36fdfca307",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/Asia/Singapore", "Locations/Asia/Japan" ],
+  "categoryLeaves" : [ "Singapore", "Japan" ]
+},{
+  "systemModified" : "2020-03-20T15:15:24.094Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-36d3316b135b06a95231e01797d5d2c0",
+    "thumbnail" : {
+      "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:23.927Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Country",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryTitle" : {
+        "elementType" : "text",
+        "value" : "Canada"
+      },
+      "countryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+        "renditions" : {
+          "countryCard" : {
+            "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=1570:105;0,94",
+            "width" : 1570,
+            "height" : 105,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 94,
+                "width" : 1570,
+                "height" : 105
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C94"
+          },
+          "destinationsCard" : {
+            "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=370:275;370,0",
+            "width" : 370,
+            "height" : 275,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 370,
+                "y" : 0,
+                "width" : 370,
+                "height" : 275
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=370%3A275%3B370%2C0"
+          },
+          "default" : {
+            "width" : 1570,
+            "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf",
+            "height" : 275,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Canada-Country-Image.png",
+          "altText" : "The landscape of Canada with a river, boats, forest, and mountains.",
+          "fileSize" : 251082,
+          "width" : 1570,
+          "mediaType" : "image/png",
+          "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+          "resourceUri" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf",
+          "height" : 275
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png"
+      },
+      "countryValueForPage" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff" ],
+        "categories" : [ "Locations/North America/Canada" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Canada",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/dec1a97a-941f-479a-b50c-0034c84c8ff8/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/dec1a97a-941f-479a-b50c-0034c84c8ff8/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/dec1a97a-941f-479a-b50c-0034c84c8ff8"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/bf26d16f-461d-408b-b846-4dfb9cc06c8a"
+      }
+    },
+    "id" : "dec1a97a-941f-479a-b50c-0034c84c8ff8",
+    "lastModified" : "2020-03-20T15:15:23.927Z",
+    "systemModified" : "2020-03-20T15:15:24.094Z",
+    "status" : "ready"
+  },
+  "text" : [ "countryTitle Canada", "countryImage", "countryValueForPage" ],
+  "text_en" : [ "countryTitle Canada", "countryImage", "countryValueForPage" ],
+  "type" : "Country",
+  "typeId" : "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "systemTags" : [ "rev:5-36d3316b135b06a95231e01797d5d2c0" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.927Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.927Z",
+  "classification" : "content",
+  "name" : "Canada",
+  "id" : "dec1a97a-941f-479a-b50c-0034c84c8ff8",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "categories" : [ "Locations/North America/Canada" ],
+  "categoryLeaves" : [ "Canada" ]
+},{
+  "systemModified" : "2020-03-20T15:15:24.202Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-3a65fd2a29a284b1d0b47946f2688691",
+    "thumbnail" : {
+      "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:24.060Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Gallery Image",
+    "locale" : "en",
+    "tags" : [ "travel site sample", "Sights" ],
+    "elements" : {
+      "ImageTitle" : {
+        "elementType" : "text",
+        "value" : "Parliament Hill"
+      },
+      "galleryImage" : {
+        "mode" : "shared",
+        "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+        "renditions" : {
+          "squareCard" : {
+            "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=375px:250px&crop=250:250;62,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.19531,
+              "crop" : {
+                "x" : 62,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+          },
+          "rectangleCard" : {
+            "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=1920px:1280px&crop=1920:562;0,359",
+            "width" : 1920,
+            "height" : 562,
+            "transform" : {
+              "scale" : 1,
+              "crop" : {
+                "x" : 0,
+                "y" : 359,
+                "width" : 1920,
+                "height" : 562
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf",
+            "height" : 1280,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Canada-Gallery.png",
+          "altText" : "The building, where the parliament of Canada resides, with the national flag on the top.",
+          "fileSize" : 1205919,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+          "resourceUri" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf",
+          "height" : 1280
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png"
+      },
+      "imageDescription" : {
+        "elementType" : "formattedtext",
+        "value" : "<p>Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.</p>\n"
+      },
+      "imageCountryValue" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff" ],
+        "categories" : [ "Locations/North America/Canada" ],
+        "elementType" : "category"
+      }
+    },
+    "name" : "Canada Gallery Image",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/37e98cc9-dbb5-4e3d-ba4a-ce06b046599f"
+      }
+    },
+    "id" : "ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7",
+    "lastModified" : "2020-03-20T15:15:24.060Z",
+    "systemModified" : "2020-03-20T15:15:24.202Z",
+    "status" : "ready"
+  },
+  "text" : [ "ImageTitle Parliament Hill", "galleryImage", "imageDescription Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.", "imageCountryValue" ],
+  "text_en" : [ "ImageTitle Parliament Hill", "galleryImage", "imageDescription Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.", "imageCountryValue" ],
+  "type" : "Gallery Image",
+  "typeId" : "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "systemTags" : [ "rev:5-3a65fd2a29a284b1d0b47946f2688691" ],
+  "tags" : [ "travel site sample", "Sights" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:24.060Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:24.060Z",
+  "classification" : "content",
+  "name" : "Canada Gallery Image",
+  "id" : "ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string3" : [ "Parliament Hill" ],
+  "categories" : [ "Locations/North America/Canada" ],
+  "categoryLeaves" : [ "Canada" ]
+},{
+  "systemModified" : "2020-03-20T15:15:24.293Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "text" : [ "countryOfTravelArticle", "travelArticleTitle The 'Must Do' Guide for Canada", "travelArticleImage", "articleAuthor John Smith", "travelArticleText We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world's forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country. Do canoeing One of the best ways to see Canada is by taking a trip on a canoe. There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list: Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn; Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October; Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario. Visit Niagara Falls Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada. The Falls is not just one wide waterfall, but 3 connected waterfalls: American Falls - named so, since it flows mainly over the border of US; Bridal Veil Falls that resembles - surprise - a bridal veil; Horseshoe Falls, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario. Go skiing in Whistler Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland to the most famous resorts like Banff, Lake Louise, and Whistler. Whistler is a 'flagship' resort in the country. It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America. The popularity of this place certainly has its drawbacks. In high season, it's getting too crowded, thus lift queues are not unusual, and too expensive, making you consider other resorts." ],
+  "text_en" : [ "countryOfTravelArticle", "travelArticleTitle The 'Must Do' Guide for Canada", "travelArticleImage", "articleAuthor John Smith", "travelArticleText We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world's forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country. Do canoeing One of the best ways to see Canada is by taking a trip on a canoe. There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list: Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn; Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October; Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario. Visit Niagara Falls Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada. The Falls is not just one wide waterfall, but 3 connected waterfalls: American Falls - named so, since it flows mainly over the border of US; Bridal Veil Falls that resembles - surprise - a bridal veil; Horseshoe Falls, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario. Go skiing in Whistler Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland to the most famous resorts like Banff, Lake Louise, and Whistler. Whistler is a 'flagship' resort in the country. It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America. The popularity of this place certainly has its drawbacks. In high season, it's getting too crowded, thus lift queues are not unusual, and too expensive, making you consider other resorts." ],
+  "type" : "Travel Article",
+  "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "systemTags" : [ "rev:5-cd30ab447b354a4d6eaeb7271c680bb8" ],
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:24.078Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:24.078Z",
+  "classification" : "content",
+  "name" : "Canada Travel Article",
+  "id" : "f1492227-943b-4f8e-81a6-79bc939e101b",
+  "isSystem" : false,
+  "isRevoked" : false,
+  "string1" : [ "The 'Must Do' Guide for Canada" ],
+  "categories" : [ "Locations/North America/Canada" ],
+  "categoryLeaves" : [ "Canada" ],
+  "document" : {
+    "rev" : "5-cd30ab447b354a4d6eaeb7271c680bb8",
+    "thumbnail" : {
+      "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:24.078Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Travel Article",
+    "locale" : "en",
+    "tags" : [ "travel site sample" ],
+    "elements" : {
+      "countryOfTravelArticle" : {
+        "categoryIds" : [ "77abce3f-7a13-45ef-b1ce-11dbd11b61ff" ],
+        "categories" : [ "Locations/North America/Canada" ],
+        "elementType" : "category"
+      },
+      "travelArticleTitle" : {
+        "elementType" : "text",
+        "value" : "The 'Must Do' Guide for Canada"
+      },
+      "travelArticleImage" : {
+        "mode" : "shared",
+        "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+        "renditions" : {
+          "card" : {
+            "source" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?resize=830px:250px&crop=250:250;529,0",
+            "width" : 250,
+            "height" : 250,
+            "transform" : {
+              "scale" : 0.43252595155709345,
+              "crop" : {
+                "x" : 529,
+                "y" : 0,
+                "width" : 250,
+                "height" : 250
+              }
+            },
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png?resize=830px%3A250px&crop=250%3A250%3B529%2C0"
+          },
+          "default" : {
+            "width" : 1920,
+            "source" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904",
+            "height" : 578,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+          }
+        },
+        "asset" : {
+          "fileName" : "Canada-Lead-Image.png",
+          "altText" : "The landscape of Canada with a river, forest, and snowy mountains.",
+          "fileSize" : 617185,
+          "width" : 1920,
+          "mediaType" : "image/png",
+          "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+          "resourceUri" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904",
+          "height" : 578
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+      },
+      "articleAuthor" : {
+        "elementType" : "text",
+        "value" : "John Smith"
+      },
+      "travelArticleText" : {
+        "elementType" : "formattedtext",
+        "value" : "<p><em>We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world's forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country.</em></p> \n<h2>Do canoeing</h2> \n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\">\n <img data-wch-asset-id=\"8bb42682-08dd-4b1f-8cc0-0deef30bfa0c\" height=\"500\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/53b9/53b94276-9619-4f7a-bce8-7d663117bd51.png\" width=\"750\">\n</div> \n<p>One of the best ways to see Canada is by taking a trip on a canoe.</p> \n<p>There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list:</p> \n<ul>\n <li>Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn;</li>\n <li> <p>Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October;</p> </li>\n <li>Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario.</li>\n</ul> \n<h2>Visit Niagara Falls</h2> \n<p><img data-wch-asset-id=\"09a014ea-1018-4b8e-9245-e7a8a0b5b9f0\" height=\"250\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/e328/e328e3a0-2c9c-4cfc-8969-2513cbde15f4.png\" style=\"float:right;padding:5px 0px 0px 10px\" width=\"375\">Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada.</p> \n<p>The Falls is not just one wide waterfall, but 3 connected waterfalls:</p> \n<ol>\n <li><strong>American Falls</strong> - named so, since it flows mainly over the border of US;</li>\n <li><strong>Bridal Veil Falls</strong>&nbsp;that resembles&nbsp;- <em>surprise</em> - a bridal veil;</li>\n <li><strong>Horseshoe Falls</strong>, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario.</li>\n</ol> \n<h2>Go skiing in Whistler</h2> \n<p><img data-wch-asset-id=\"6132847c-ecc6-41b7-83e0-20c29ace3d17\" height=\"250\" src=\"/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/126b/126be044-ddaf-4c9c-bb07-156b1c97c592.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"375\"></p> \n<p>Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland&nbsp;to the most famous resorts like Banff, Lake Louise, and Whistler.</p> \n<p>Whistler is a 'flagship' resort in the country.&nbsp;It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America.</p> \n<p>The popularity of this place certainly has its drawbacks. In high season, it's getting too crowded, thus lift queues are not unusual,&nbsp;and too expensive, making you consider other resorts.</p>"
+      }
+    },
+    "name" : "Canada Travel Article",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "020bc107-4d2a-4513-8988-bc0cd455bb98",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/f1492227-943b-4f8e-81a6-79bc939e101b/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/f1492227-943b-4f8e-81a6-79bc939e101b/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/f1492227-943b-4f8e-81a6-79bc939e101b"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+      }
+    },
+    "id" : "f1492227-943b-4f8e-81a6-79bc939e101b",
+    "lastModified" : "2020-03-20T15:15:24.078Z",
+    "systemModified" : "2020-03-20T15:15:24.293Z",
+    "status" : "ready"
+  }
+},{
+  "systemModified" : "2020-03-20T15:15:23.954Z",
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "restricted" : false,
+  "thumbnail" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "document" : {
+    "rev" : "5-83b4448e4e339a5d9b7757c2233ee766",
+    "thumbnail" : {
+      "id" : "504e3b64-9ee3-427e-b9a3-b2a2767497b1",
+      "url" : "/api/ae6a1610-fd30-4b81-8871-0f7f11f95426/delivery/v1/resources/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f?fit=inside%7C220:145"
+    },
+    "keywords" : [ ],
+    "kind" : [ ],
+    "created" : "2020-03-20T15:15:23.764Z",
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "classification" : "content",
+    "type" : "Contact Information",
+    "locale" : "en",
+    "tags" : [ "Travel Site Sample" ],
+    "elements" : {
+      "contactOptions" : {
+        "values" : [ {
+          "contactOptionName" : {
+            "elementType" : "text",
+            "value" : "Address"
+          },
+          "contactOptionValue" : {
+            "elementType" : "formattedtext",
+            "value" : "<p>Traveler, LLC</p>\n\n<p>601 Example Highway</p>\n\n<p>Austin, Texas 73301</p>\n"
+          }
+        }, {
+          "contactOptionName" : {
+            "elementType" : "text",
+            "value" : "Phone"
+          },
+          "contactOptionValue" : {
+            "elementType" : "formattedtext",
+            "value" : "<p>&#43;12 3456 78901</p>\n"
+          }
+        }, {
+          "contactOptionName" : {
+            "elementType" : "text",
+            "value" : "Email"
+          },
+          "contactOptionValue" : {
+            "elementType" : "formattedtext",
+            "value" : "<p>contact-traveler&#64;example.com</p>\n"
+          }
+        } ],
+        "elementType" : "group",
+        "typeRef" : {
+          "id" : "95f8723b-36fb-41e7-8a4d-ecf25cfb6734"
+        }
+      },
+      "contactPageImage" : {
+        "mode" : "shared",
+        "renditions" : {
+          "default" : {
+            "width" : 1950,
+            "source" : "/delivery/v1/resources/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f",
+            "height" : 1300,
+            "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/cde8/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f.jpg"
+          }
+        },
+        "asset" : {
+          "fileName" : "quino-al-8gWEAAXJjtI-unsplash.jpg",
+          "altText" : "A telephone with a rotary dial.",
+          "fileSize" : 178380,
+          "width" : 1950,
+          "mediaType" : "image/jpeg",
+          "id" : "504e3b64-9ee3-427e-b9a3-b2a2767497b1",
+          "resourceUri" : "/delivery/v1/resources/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f",
+          "height" : 1300
+        },
+        "elementType" : "image",
+        "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/cde8/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f.jpg"
+      },
+      "contactInformationTitle" : {
+        "elementType" : "text",
+        "value" : "Contact Us"
+      }
+    },
+    "name" : "Contact Information",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "typeId" : "cc95aaa3-b35f-4da6-b03f-8e43c0c7577a",
+    "links" : {
+      "thumbnail" : {
+        "href" : "/authoring/v1/resources/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f?fit=inside%7C220:145"
+      },
+      "createDraft" : {
+        "href" : "/authoring/v1/content/d1735444-85d9-4b99-8422-97b6e49ed596/create-draft"
+      },
+      "retire" : {
+        "href" : "/authoring/v1/changes/content/d1735444-85d9-4b99-8422-97b6e49ed596/status/retire"
+      },
+      "self" : {
+        "href" : "/authoring/v1/content/d1735444-85d9-4b99-8422-97b6e49ed596"
+      },
+      "type" : {
+        "href" : "/authoring/v1/types/cc95aaa3-b35f-4da6-b03f-8e43c0c7577a"
+      }
+    },
+    "id" : "d1735444-85d9-4b99-8422-97b6e49ed596",
+    "lastModified" : "2020-03-20T15:15:23.764Z",
+    "systemModified" : "2020-03-20T15:15:23.954Z",
+    "status" : "ready"
+  },
+  "text" : [ "contactOptions", "contactOptionName Address", "contactOptionValue Traveler, LLC 601 Example Highway Austin, Texas 73301", "contactOptionName Phone", "contactOptionValue +12 3456 78901", "contactOptionName Email", "contactOptionValue contact-traveler@example.com", "contactPageImage", "contactInformationTitle Contact Us" ],
+  "text_en" : [ "contactOptions", "contactOptionName Address", "contactOptionValue Traveler, LLC 601 Example Highway Austin, Texas 73301", "contactOptionName Phone", "contactOptionValue +12 3456 78901", "contactOptionName Email", "contactOptionValue contact-traveler@example.com", "contactPageImage", "contactInformationTitle Contact Us" ],
+  "type" : "Contact Information",
+  "typeId" : "cc95aaa3-b35f-4da6-b03f-8e43c0c7577a",
+  "systemTags" : [ "rev:5-83b4448e4e339a5d9b7757c2233ee766" ],
+  "tags" : [ "Travel Site Sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.764Z",
+  "locale" : "en",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.764Z",
+  "classification" : "content",
+  "name" : "Contact Information",
+  "id" : "d1735444-85d9-4b99-8422-97b6e49ed596",
+  "isSystem" : false,
+  "isRevoked" : false
+}]}

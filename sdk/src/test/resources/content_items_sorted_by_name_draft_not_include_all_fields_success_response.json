@@ -1,0 +1,109 @@
+{"numFound":41,"documents":[{
+  "type" : "About Information",
+  "tags" : [ "Travel Site Sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.342Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.342Z",
+  "classification" : "content",
+  "name" : "About Information",
+  "id" : "c9564e57-3847-40ca-bea8-69777ac5737c"
+},{
+  "type" : "Region",
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:21.464Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:21.464Z",
+  "classification" : "content",
+  "name" : "Africa",
+  "id" : "18ae2d66-bebc-4b3b-a071-c9d55f8830ad",
+  "categories" : [ "Locations/Africa/Kenya", "Locations/Africa/South Africa" ]
+},{
+  "type" : "Country",
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.005Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.005Z",
+  "classification" : "content",
+  "name" : "Argentina",
+  "id" : "42a1f452-0228-4ef5-bd84-4f3357f10223",
+  "categories" : [ "Locations/South America/Argentina" ]
+},{
+  "type" : "Travel Article",
+  "tags" : [ "Travel Site Sample", "Beach", "Hiking", "City" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.242Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.242Z",
+  "classification" : "content",
+  "name" : "Argentina - Travel Article",
+  "id" : "ac1e14d9-282c-4317-ab5d-5001589fc0e5",
+  "categories" : [ "Locations/South America/Argentina" ]
+},{
+  "type" : "Gallery Image",
+  "tags" : [ "Travel Site Sample", "Nature" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.265Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.265Z",
+  "classification" : "content",
+  "name" : "Argentina Gallery Image",
+  "id" : "649f2dd2-1355-42e7-9a95-84350e3ce1e4",
+  "categories" : [ "Locations/South America/Argentina" ]
+},{
+  "type" : "Region",
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:22.079Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:22.079Z",
+  "classification" : "content",
+  "name" : "Asia",
+  "id" : "34ce6eb6-dcbe-452d-8996-1d36fdfca307",
+  "categories" : [ "Locations/Asia/Singapore", "Locations/Asia/Japan" ]
+},{
+  "type" : "Country",
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.927Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.927Z",
+  "classification" : "content",
+  "name" : "Canada",
+  "id" : "dec1a97a-941f-479a-b50c-0034c84c8ff8",
+  "categories" : [ "Locations/North America/Canada" ]
+},{
+  "type" : "Gallery Image",
+  "tags" : [ "travel site sample", "Sights" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:24.060Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:24.060Z",
+  "classification" : "content",
+  "name" : "Canada Gallery Image",
+  "id" : "ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7",
+  "categories" : [ "Locations/North America/Canada" ]
+},{
+  "type" : "Travel Article",
+  "tags" : [ "travel site sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:24.078Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:24.078Z",
+  "classification" : "content",
+  "name" : "Canada Travel Article",
+  "id" : "f1492227-943b-4f8e-81a6-79bc939e101b",
+  "categories" : [ "Locations/North America/Canada" ]
+},{
+  "type" : "Contact Information",
+  "tags" : [ "Travel Site Sample" ],
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:23.764Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "lastModified" : "2020-03-20T15:15:23.764Z",
+  "classification" : "content",
+  "name" : "Contact Information",
+  "id" : "d1735444-85d9-4b99-8422-97b6e49ed596"
+}]}

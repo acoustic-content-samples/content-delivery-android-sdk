@@ -1,0 +1,1125 @@
+{"numFound":63,"documents":[{
+  "id" : "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+  "name" : "About-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:12.209Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:11.296Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "job candidate" ],
+  "systemTags" : [ "rev:8-c2b4da67ca2be277f11aaf2525557418", "rpi:c84ed7af-5773-42cd-9a16-4a78cb1b2f04" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/4a/4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b/image.png",
+  "fileSize" : 1214876,
+  "location" : "/dxdam/4a/4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+  "locationPaths" : "/dxdam/4a/4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+  "assetType" : "image",
+  "resource" : "1a331db2-1db5-476b-a198-15fea1d62021",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/4a/4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b/image.png",
+  "height" : 1315,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1315
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "c84ed7af-5773-42cd-9a16-4a78cb1b2f04",
+    "path" : "/dxdam/4a/4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b/image.png",
+    "digest" : "auU0RN7vWDW8t2rn8j6rlg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=1a331db2-1db5-476b-a198-15fea1d62021&a=4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+        "source" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021?fit=inside%7C220:145"
+      }
+    },
+    "id" : "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:12.252Z",
+    "rev" : "8-c2b4da67ca2be277f11aaf2525557418",
+    "altText" : "A group of people sitting at the working desk.",
+    "resource" : "1a331db2-1db5-476b-a198-15fea1d62021",
+    "created" : "2020-03-20T15:15:11.296Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:people", "classification:person", "classification:office", "classification:building", "classification:computer user", "classification:job candidate", "classification:cybercafe", "classification:restaurant", "classification:indoors", "classification:coal black color" ],
+      "declined" : [ "classification:people", "classification:person", "classification:office", "classification:building", "classification:computer user", "classification:cybercafe", "classification:restaurant", "classification:study hall", "classification:indoors", "classification:coal black color" ],
+      "values" : [ "user:travel site sample", "classification:job candidate" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "people", "person", "office", "building", "computer user", "job candidate", "cybercafe", "restaurant", "indoors", "coal black color" ],
+      "colors" : {
+        "vibrant" : "#698695",
+        "muted" : "#94715d",
+        "darkVibrant" : "#37464d",
+        "darkMuted" : "#634536",
+        "lightVibrant" : "#b1c0c7",
+        "lightMuted" : "#acbcc4"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1214876,
+    "name" : "About-Image",
+    "lastModified" : "2020-03-20T15:15:12.209Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021.png",
+  "thumbnail" : "/delivery/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:12.252Z",
+  "dominantColor_0_d" : 0.19641113,
+  "dominantColor_1_d" : 0.22055054,
+  "dominantColor_2_d" : 0.23965454,
+  "dominantColor" : "0.19641113,0.22055054,0.23965454"
+},{
+  "id" : "8c2eabce-8ba4-45fb-bd19-41d525c6e2b3",
+  "name" : "Argentina-Article-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:11.117Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:09.931Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "seashore", "shore", "nature", "beach", "littoral (sands)", "sandbank", "ridge", "outfall (outlet of river)", "natural elevation", "blue color", "azure color" ],
+  "systemTags" : [ "rev:8-993a78dd171f9e826d56c9495f619097", "rpi:02f9c4f7-755d-4c7f-8adb-379e579a9010" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/3d/3dadaadc-88f9-4442-8c92-c1c5e55e9b30/image.png",
+  "fileSize" : 1105692,
+  "location" : "/dxdam/3d/3dadaadc-88f9-4442-8c92-c1c5e55e9b30",
+  "locationPaths" : "/dxdam/3d/3dadaadc-88f9-4442-8c92-c1c5e55e9b30",
+  "assetType" : "image",
+  "resource" : "bbd47b31-c0fa-46d4-a447-12892ff92a1c",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/3d/3dadaadc-88f9-4442-8c92-c1c5e55e9b30/image.png",
+  "height" : 1441,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1441
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "02f9c4f7-755d-4c7f-8adb-379e579a9010",
+    "path" : "/dxdam/3d/3dadaadc-88f9-4442-8c92-c1c5e55e9b30/image.png",
+    "digest" : "KChY3WBvpBj4pKpzUkAAIQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=bbd47b31-c0fa-46d4-a447-12892ff92a1c&a=8c2eabce-8ba4-45fb-bd19-41d525c6e2b3",
+        "source" : "/delivery/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c?fit=inside%7C220:145"
+      }
+    },
+    "id" : "8c2eabce-8ba4-45fb-bd19-41d525c6e2b3",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:11.163Z",
+    "rev" : "8-993a78dd171f9e826d56c9495f619097",
+    "altText" : "A coastline near Buenos Aires.",
+    "resource" : "bbd47b31-c0fa-46d4-a447-12892ff92a1c",
+    "created" : "2020-03-20T15:15:09.931Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:seashore", "classification:shore", "classification:nature", "classification:beach", "classification:littoral (sands)", "classification:sandbank", "classification:ridge", "classification:outfall (outlet of river)", "classification:slope", "classification:natural elevation", "classification:blue color", "classification:azure color" ],
+      "declined" : [ "classification:slope" ],
+      "values" : [ "user:travel site sample", "classification:seashore", "classification:shore", "classification:nature", "classification:beach", "classification:littoral (sands)", "classification:sandbank", "classification:ridge", "classification:outfall (outlet of river)", "classification:natural elevation", "classification:blue color", "classification:azure color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "seashore", "shore", "nature", "beach", "littoral (sands)", "sandbank", "ridge", "outfall (outlet of river)", "slope", "natural elevation", "blue color", "azure color" ],
+      "colors" : {
+        "vibrant" : "#609bbc",
+        "muted" : "#6890a9",
+        "darkVibrant" : "#27495d",
+        "darkMuted" : "#314c57",
+        "lightVibrant" : "#f7ca81",
+        "lightMuted" : "#95b4ba"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1105692,
+    "name" : "Argentina-Article-Image",
+    "lastModified" : "2020-03-20T15:15:11.117Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c.png",
+  "thumbnail" : "/delivery/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:11.163Z",
+  "dominantColor_0_d" : 0.24920654,
+  "dominantColor_1_d" : 0.2915039,
+  "dominantColor_2_d" : 0.39245605,
+  "dominantColor" : "0.24920654,0.2915039,0.39245605"
+},{
+  "id" : "26231a0a-2af1-488d-a41f-a5a51226c156",
+  "name" : "Argentina-Article-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:13.238Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:12.299Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "shop", "retail store" ],
+  "systemTags" : [ "rev:8-bdfe004b38fa8cd0f25cb6fd826ca616", "rpi:576e4843-ad2d-4233-bcae-baa2b2769753" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd/image.png",
+  "fileSize" : 962255,
+  "location" : "/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd",
+  "locationPaths" : "/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd",
+  "assetType" : "image",
+  "resource" : "7194fc63-1e45-4e69-aa10-110dbb88097a",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd/image.png",
+  "height" : 1280,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1280
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "576e4843-ad2d-4233-bcae-baa2b2769753",
+    "path" : "/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd/image.png",
+    "digest" : "8Q6mCY/mO10aLwjPK5gMeA==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=7194fc63-1e45-4e69-aa10-110dbb88097a&a=26231a0a-2af1-488d-a41f-a5a51226c156",
+        "source" : "/delivery/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a?fit=inside%7C220:145"
+      }
+    },
+    "id" : "26231a0a-2af1-488d-a41f-a5a51226c156",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:13.274Z",
+    "rev" : "8-bdfe004b38fa8cd0f25cb6fd826ca616",
+    "altText" : "A group of people sitting in a cafe in Buenos Aires.",
+    "resource" : "7194fc63-1e45-4e69-aa10-110dbb88097a",
+    "created" : "2020-03-20T15:15:12.299Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:cafe", "classification:restaurant", "classification:building", "classification:estaminet (cafe)", "classification:shop", "classification:retail store", "classification:brasserie", "classification:reddish brown color" ],
+      "declined" : [ "classification:cafe", "classification:restaurant", "classification:building", "classification:estaminet (cafe)", "classification:brasserie", "classification:reddish brown color" ],
+      "values" : [ "user:travel site sample", "classification:shop", "classification:retail store" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "cafe", "restaurant", "building", "estaminet (cafe)", "shop", "retail store", "brasserie", "reddish brown color" ],
+      "colors" : {
+        "vibrant" : "#9c4e49",
+        "muted" : "#998164",
+        "darkVibrant" : "#4c4096",
+        "darkMuted" : "#4e3e34",
+        "lightVibrant" : "#d4a7a4",
+        "lightMuted" : "#b19a80"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 962255,
+    "name" : "Argentina-Article-Image",
+    "lastModified" : "2020-03-20T15:15:13.238Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a.png",
+  "thumbnail" : "/delivery/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:13.274Z",
+  "dominantColor_0_d" : 0.18377686,
+  "dominantColor_1_d" : 0.13259888,
+  "dominantColor_2_d" : 0.05960083,
+  "dominantColor" : "0.18377686,0.13259888,0.05960083"
+},{
+  "id" : "0aabc094-382c-460a-900a-a70d6ba2122e",
+  "name" : "Argentina-Country.png",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:09.152Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:08.219Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample", "Wildfire", "Sunset", "dust storm", "nature", "toetoe", "herb", "plant", "desert plant", "tree", "Indian red color", "reddish orange color" ],
+  "systemTags" : [ "rev:8-5afbe1418b26bead0d96461784150076", "rpi:a744d490-9e73-408b-9c54-780e16c59b92" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e/Argentina-Country.png",
+  "fileSize" : 141872,
+  "location" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e",
+  "locationPaths" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e",
+  "assetType" : "image",
+  "resource" : "43fd30f5-73e2-41ad-80e1-d1c32f28d6e7",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e/Argentina-Country.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "Argentina-Country.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "a744d490-9e73-408b-9c54-780e16c59b92",
+    "path" : "/dxdam/0a/0aabc094-382c-460a-900a-a70d6ba2122e/Argentina-Country.png",
+    "digest" : "YaZva1famm4YBFxaTt7PQg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=43fd30f5-73e2-41ad-80e1-d1c32f28d6e7&a=0aabc094-382c-460a-900a-a70d6ba2122e",
+        "source" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145"
+      }
+    },
+    "id" : "0aabc094-382c-460a-900a-a70d6ba2122e",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:09.180Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 129,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?resize=1570px:275px&crop=1570:105;0,129",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C129"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 243,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?resize=1570px:275px&crop=370:275;243,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/43fd/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png?resize=1570px%3A275px&crop=370%3A275%3B243%2C0"
+    } ],
+    "rev" : "8-5afbe1418b26bead0d96461784150076",
+    "altText" : "The landscape of Argentina.",
+    "resource" : "43fd30f5-73e2-41ad-80e1-d1c32f28d6e7",
+    "created" : "2020-03-20T15:15:08.219Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:Wildfire", "classification:Sunset", "classification:dust storm", "classification:nature", "classification:toetoe", "classification:herb", "classification:plant", "classification:desert plant", "classification:tree", "classification:Indian red color", "classification:reddish orange color" ],
+      "declined" : [ ],
+      "values" : [ "user:travel site sample", "classification:Wildfire", "classification:Sunset", "classification:dust storm", "classification:nature", "classification:toetoe", "classification:herb", "classification:plant", "classification:desert plant", "classification:tree", "classification:Indian red color", "classification:reddish orange color" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "Wildfire", "Sunset", "dust storm", "nature", "toetoe", "herb", "plant", "desert plant", "tree", "Indian red color", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#fa6f04",
+        "muted" : "#964202",
+        "darkVibrant" : "#7e260c",
+        "darkMuted" : "#1e1214",
+        "lightVibrant" : "#f4942c",
+        "lightMuted" : "#914f07"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 141872,
+    "name" : "Argentina-Country.png",
+    "lastModified" : "2020-03-20T15:15:09.152Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7.png",
+  "thumbnail" : "/delivery/v1/resources/43fd30f5-73e2-41ad-80e1-d1c32f28d6e7?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:09.180Z",
+  "dominantColor_0_d" : 0.47808838,
+  "dominantColor_1_d" : 0.32662964,
+  "dominantColor_2_d" : 0.02960205,
+  "dominantColor" : "0.47808838,0.32662964,0.02960205"
+},{
+  "id" : "526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+  "name" : "Argentina-Lead-Image.png",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:12.707Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:11.581Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "Travel Site Sample" ],
+  "systemTags" : [ "rev:8-0013395df047be0f79327b03fa6938c1", "rpi:adf21a99-5618-4a2c-b858-fd7141636750" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/52/526807e5-9ae6-4593-8ca4-84ef05f5a90a/Argentina-Lead-Image.png",
+  "fileSize" : 1625695,
+  "location" : "/dxdam/52/526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+  "locationPaths" : "/dxdam/52/526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+  "assetType" : "image",
+  "resource" : "05bad243-5e22-4734-860b-c9416e54fbe3",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/52/526807e5-9ae6-4593-8ca4-84ef05f5a90a/Argentina-Lead-Image.png",
+  "height" : 578,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Argentina-Lead-Image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 578
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "adf21a99-5618-4a2c-b858-fd7141636750",
+    "path" : "/dxdam/52/526807e5-9ae6-4593-8ca4-84ef05f5a90a/Argentina-Lead-Image.png",
+    "digest" : "OzsBUTeZA/fvqEo01uZ0CA==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=05bad243-5e22-4734-860b-c9416e54fbe3&a=526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+        "source" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?fit=inside%7C220:145"
+      }
+    },
+    "id" : "526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:12.747Z",
+    "profileRenditions" : [ {
+      "profileId" : "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName" : "Travel Article Image Profile",
+      "key" : "card",
+      "label" : "Card",
+      "transform" : {
+        "scale" : 0.43252595155709345,
+        "crop" : {
+          "x" : 309,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?resize=830px:250px&crop=250:250;309,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/05ba/05bad243-5e22-4734-860b-c9416e54fbe3.png?resize=830px%3A250px&crop=250%3A250%3B309%2C0"
+    } ],
+    "rev" : "8-0013395df047be0f79327b03fa6938c1",
+    "altText" : "The landscape of Argentina with a river, forest, and mountains.",
+    "resource" : "05bad243-5e22-4734-860b-c9416e54fbe3",
+    "created" : "2020-03-20T15:15:11.581Z",
+    "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:gorge", "classification:valley", "classification:nature", "classification:bluff (steep sliff/bank)", "classification:ridge", "classification:sky", "classification:slope", "classification:natural elevation", "classification:shore", "classification:blue color", "classification:sea green color" ],
+      "declined" : [ "classification:gorge", "classification:valley", "classification:nature", "classification:bluff (steep sliff/bank)", "classification:ridge", "classification:sky", "classification:slope", "classification:natural elevation", "classification:shore", "classification:blue color", "classification:sea green color" ],
+      "values" : [ "user:Travel Site Sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "gorge", "valley", "nature", "bluff (steep sliff/bank)", "ridge", "sky", "slope", "natural elevation", "shore", "blue color", "sea green color" ],
+      "colors" : {
+        "vibrant" : "#0d98aa",
+        "muted" : "#5998a1",
+        "darkVibrant" : "#05879c",
+        "darkMuted" : "#23393d",
+        "lightVibrant" : "#84c4cc",
+        "lightMuted" : "#c2cdcf"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1625695,
+    "name" : "Argentina-Lead-Image.png",
+    "lastModified" : "2020-03-20T15:15:12.707Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3.png",
+  "thumbnail" : "/delivery/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:12.747Z",
+  "dominantColor_0_d" : 0.18023682,
+  "dominantColor_1_d" : 0.25039673,
+  "dominantColor_2_d" : 0.31750488,
+  "dominantColor" : "0.18023682,0.25039673,0.31750488"
+},{
+  "id" : "8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+  "name" : "Canada-Article-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:11.547Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:10.579Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:8-5f47245814d92f44cadbbfd630373d05", "rpi:ab65fbfb-d6bb-45ca-8af7-f08831ae0998" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+  "fileSize" : 1130797,
+  "location" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e",
+  "locationPaths" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e",
+  "assetType" : "image",
+  "resource" : "53b94276-9619-4f7a-bce8-7d663117bd51",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+  "height" : 1280,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1280
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "ab65fbfb-d6bb-45ca-8af7-f08831ae0998",
+    "path" : "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+    "digest" : "Ty84J7CvEj7rVJbqAhhRzA==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=53b94276-9619-4f7a-bce8-7d663117bd51&a=8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+        "source" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51?fit=inside%7C220:145"
+      }
+    },
+    "id" : "8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:11.595Z",
+    "rev" : "8-5f47245814d92f44cadbbfd630373d05",
+    "altText" : "The landscape of Canada with a river, forest, boats, and mountains.",
+    "resource" : "53b94276-9619-4f7a-bce8-7d663117bd51",
+    "created" : "2020-03-20T15:15:10.579Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:canoe", "classification:small boat", "classification:boat", "classification:watercraft", "classification:craft", "classification:vehicle", "classification:kayak", "classification:gorge", "classification:valley", "classification:nature", "classification:Kayaking", "classification:sport", "classification:natural elevation", "classification:sea green color", "classification:reddish orange color" ],
+      "declined" : [ "classification:canoe", "classification:small boat", "classification:boat", "classification:watercraft", "classification:craft", "classification:vehicle", "classification:gorge", "classification:valley", "classification:nature", "classification:kayak", "classification:Kayaking", "classification:sport", "classification:natural elevation", "classification:sea green color", "classification:reddish orange color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "canoe", "small boat", "boat", "watercraft", "craft", "vehicle", "kayak", "gorge", "valley", "nature", "Kayaking", "sport", "natural elevation", "sea green color", "reddish orange color" ],
+      "colors" : {
+        "vibrant" : "#80807e",
+        "muted" : "#8a685b",
+        "darkVibrant" : "#424241",
+        "darkMuted" : "#404c47",
+        "lightVibrant" : "#bdbdbc",
+        "lightMuted" : "#c3c3c2"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1130797,
+    "name" : "Canada-Article-Image",
+    "lastModified" : "2020-03-20T15:15:11.547Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51.png",
+  "thumbnail" : "/delivery/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:11.595Z",
+  "dominantColor_0_d" : 0.20709229,
+  "dominantColor_1_d" : 0.21542358,
+  "dominantColor_2_d" : 0.1729126,
+  "dominantColor" : "0.20709229,0.21542358,0.1729126"
+},{
+  "id" : "6132847c-ecc6-41b7-83e0-20c29ace3d17",
+  "name" : "Canada-Article-Image",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:13.092Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:12.151Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:8-ecccdd7363153077bd16d26879ad670f", "rpi:02154095-e930-4211-8a7a-f15871af2ee2" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+  "fileSize" : 1095065,
+  "location" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1",
+  "locationPaths" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1",
+  "assetType" : "image",
+  "resource" : "126be044-ddaf-4c9c-bb07-156b1c97c592",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+  "height" : 1279,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1279
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "02154095-e930-4211-8a7a-f15871af2ee2",
+    "path" : "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+    "digest" : "gRMaT+SZ98GR+NVgZhVvPQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=126be044-ddaf-4c9c-bb07-156b1c97c592&a=6132847c-ecc6-41b7-83e0-20c29ace3d17",
+        "source" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592?fit=inside%7C220:145"
+      }
+    },
+    "id" : "6132847c-ecc6-41b7-83e0-20c29ace3d17",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:13.120Z",
+    "rev" : "8-ecccdd7363153077bd16d26879ad670f",
+    "altText" : "A skier that climbs a mountain with skis on his shouder.",
+    "resource" : "126be044-ddaf-4c9c-bb07-156b1c97c592",
+    "created" : "2020-03-20T15:15:12.151Z",
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:person", "classification:ascent", "classification:slope", "classification:nature", "classification:crest", "classification:natural elevation", "classification:azure color" ],
+      "declined" : [ "classification:person", "classification:ascent", "classification:slope", "classification:nature", "classification:crest", "classification:natural elevation", "classification:azure color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "person", "ascent", "slope", "nature", "crest", "natural elevation", "azure color" ],
+      "colors" : {
+        "vibrant" : "#047bc5",
+        "muted" : "#758386",
+        "darkVibrant" : "#0461a7",
+        "darkMuted" : "#2c345c",
+        "lightVibrant" : "#d9ecfc",
+        "lightMuted" : "#aabbc3"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1095065,
+    "name" : "Canada-Article-Image",
+    "lastModified" : "2020-03-20T15:15:13.092Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592.png",
+  "thumbnail" : "/delivery/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:13.120Z",
+  "dominantColor_0_d" : 0.15670776,
+  "dominantColor_1_d" : 0.17611694,
+  "dominantColor_2_d" : 0.41781616,
+  "dominantColor" : "0.15670776,0.17611694,0.41781616"
+},{
+  "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+  "name" : "Canada-Country-Image.png",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:13.143Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:12.388Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:8-ff4b3d89529c0fe04a851f0ad3363ab1", "rpi:1518abf8-94c1-49eb-8cdb-f90150a9837d" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55/Canada-Country-Image.png",
+  "fileSize" : 251082,
+  "location" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+  "locationPaths" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+  "assetType" : "image",
+  "resource" : "a6546c5b-be34-4092-b842-9fa914e529bf",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55/Canada-Country-Image.png",
+  "height" : 275,
+  "width" : 1570,
+  "document" : {
+    "fileName" : "Canada-Country-Image.png",
+    "metadata" : {
+      "width" : 1570,
+      "height" : 275
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "1518abf8-94c1-49eb-8cdb-f90150a9837d",
+    "path" : "/dxdam/6b/6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55/Canada-Country-Image.png",
+    "digest" : "LKBAvzdjvm1TW96TugO8uw==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=a6546c5b-be34-4092-b842-9fa914e529bf&a=6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+        "source" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145"
+      }
+    },
+    "id" : "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:13.181Z",
+    "profileRenditions" : [ {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "countryCard",
+      "label" : "Country Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 94,
+          "width" : 1570,
+          "height" : 105
+        }
+      },
+      "uri" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=1570:105;0,94",
+      "width" : 1570,
+      "height" : 105,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=1570%3A105%3B0%2C94"
+    }, {
+      "profileId" : "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "profileName" : "Country Image Profile",
+      "key" : "destinationsCard",
+      "label" : "Destinations Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 370,
+          "y" : 0,
+          "width" : 370,
+          "height" : 275
+        }
+      },
+      "uri" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?resize=1570px:275px&crop=370:275;370,0",
+      "width" : 370,
+      "height" : 275,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/a654/a6546c5b-be34-4092-b842-9fa914e529bf.png?resize=1570px%3A275px&crop=370%3A275%3B370%2C0"
+    } ],
+    "rev" : "8-ff4b3d89529c0fe04a851f0ad3363ab1",
+    "altText" : "The landscape of Canada with a river, boats, forest, and mountains.",
+    "resource" : "a6546c5b-be34-4092-b842-9fa914e529bf",
+    "created" : "2020-03-20T15:15:12.388Z",
+    "profiles" : [ "f55fa25b-f48a-4629-9f8e-3adf84d95a29" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:lakeside", "classification:shore", "classification:nature", "classification:lakefront", "classification:reservoir", "classification:storage tank", "classification:waterside", "classification:slope", "classification:littoral (sands)", "classification:seashore", "classification:sea green color" ],
+      "declined" : [ "classification:lakeside", "classification:shore", "classification:nature", "classification:lakefront", "classification:reservoir", "classification:storage tank", "classification:waterside", "classification:slope", "classification:littoral (sands)", "classification:seashore", "classification:sea green color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "lakeside", "shore", "nature", "lakefront", "reservoir", "storage tank", "waterside", "slope", "littoral (sands)", "seashore", "sea green color" ],
+      "colors" : {
+        "vibrant" : "#cc3316",
+        "muted" : "#7c8e89",
+        "darkVibrant" : "#1c605c",
+        "darkMuted" : "#2f4c47",
+        "lightVibrant" : "#bc9b72",
+        "lightMuted" : "#accccc"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 251082,
+    "name" : "Canada-Country-Image.png",
+    "lastModified" : "2020-03-20T15:15:13.143Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf.png",
+  "thumbnail" : "/delivery/v1/resources/a6546c5b-be34-4092-b842-9fa914e529bf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:13.181Z",
+  "dominantColor_0_d" : 0.2770996,
+  "dominantColor_1_d" : 0.1585083,
+  "dominantColor_2_d" : 0.017333984,
+  "dominantColor" : "0.2770996,0.1585083,0.017333984"
+},{
+  "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+  "name" : "Canada-Gallery.png",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:18.487Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:17.523Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:8-8f0f2e47cbb8a345b61cccfe452513d2", "rpi:f3bf6881-279b-43fb-81de-0a73cc2f461e" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+  "fileSize" : 1205919,
+  "location" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c",
+  "locationPaths" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c",
+  "assetType" : "image",
+  "resource" : "09884b0e-a98d-4614-aebf-5388563c8edf",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+  "height" : 1280,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Canada-Gallery.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 1280
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "f3bf6881-279b-43fb-81de-0a73cc2f461e",
+    "path" : "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+    "digest" : "YcVVA0bKxt+A3NtpGM0bxQ==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=09884b0e-a98d-4614-aebf-5388563c8edf&a=fd3cd111-824b-4414-b803-c5142e60699c",
+        "source" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145"
+      }
+    },
+    "id" : "fd3cd111-824b-4414-b803-c5142e60699c",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:18.525Z",
+    "profileRenditions" : [ {
+      "profileId" : "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "profileName" : "Gallery Image Profile",
+      "key" : "squareCard",
+      "label" : "Square Card",
+      "transform" : {
+        "scale" : 0.19531,
+        "crop" : {
+          "x" : 62,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=375px:250px&crop=250:250;62,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=375px%3A250px&crop=250%3A250%3B62%2C0"
+    }, {
+      "profileId" : "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "profileName" : "Gallery Image Profile",
+      "key" : "rectangleCard",
+      "label" : "Rectangle Card",
+      "transform" : {
+        "scale" : 1,
+        "crop" : {
+          "x" : 0,
+          "y" : 359,
+          "width" : 1920,
+          "height" : 562
+        }
+      },
+      "uri" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=1920px:1280px&crop=1920:562;0,359",
+      "width" : 1920,
+      "height" : 562,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/0988/09884b0e-a98d-4614-aebf-5388563c8edf.png?resize=1920px%3A1280px&crop=1920%3A562%3B0%2C359"
+    } ],
+    "rev" : "8-8f0f2e47cbb8a345b61cccfe452513d2",
+    "altText" : "The building, where the parliament of Canada resides, with the national flag on the top.",
+    "resource" : "09884b0e-a98d-4614-aebf-5388563c8edf",
+    "created" : "2020-03-20T15:15:17.523Z",
+    "profiles" : [ "a03c07db-709e-48f4-a3a1-4feb3ff2540e" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:castle", "classification:fortification", "classification:defensive structure", "classification:chateau", "classification:country house", "classification:building", "classification:palace", "classification:blue color" ],
+      "declined" : [ "classification:castle", "classification:fortification", "classification:defensive structure", "classification:chateau", "classification:country house", "classification:building", "classification:palace", "classification:blue color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "castle", "fortification", "defensive structure", "chateau", "country house", "building", "palace", "blue color" ],
+      "colors" : {
+        "vibrant" : "#84643c",
+        "muted" : "#977d61",
+        "darkVibrant" : "#7c6439",
+        "darkMuted" : "#574c36",
+        "lightVibrant" : "#d5bfa3",
+        "lightMuted" : "#9ca3b3"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 1205919,
+    "name" : "Canada-Gallery.png",
+    "lastModified" : "2020-03-20T15:15:18.487Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf.png",
+  "thumbnail" : "/delivery/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:18.525Z",
+  "dominantColor_0_d" : 0.15612793,
+  "dominantColor_1_d" : 0.14541626,
+  "dominantColor_2_d" : 0.047851562,
+  "dominantColor" : "0.15612793,0.14541626,0.047851562"
+},{
+  "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "name" : "Canada-Lead-Image.png",
+  "classification" : "asset",
+  "lastModified" : "2020-03-20T15:15:15.146Z",
+  "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "created" : "2020-03-20T15:15:14.316Z",
+  "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+  "tags" : [ "travel site sample" ],
+  "systemTags" : [ "rev:8-8c1eeaef6a29459e6242fedc92a9be9d", "rpi:df0edcb7-dd36-433a-bd22-7d1baff1423a" ],
+  "mediaType" : "image/png",
+  "path" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+  "fileSize" : 617185,
+  "location" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "locationPaths" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "assetType" : "image",
+  "resource" : "df1678a1-7ac4-4aab-a590-5e22411a8904",
+  "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+  "height" : 578,
+  "width" : 1920,
+  "document" : {
+    "fileName" : "Canada-Lead-Image.png",
+    "metadata" : {
+      "width" : 1920,
+      "height" : 578
+    },
+    "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+    "creatorId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "description" : "",
+    "caption" : "",
+    "mediaId" : "df0edcb7-dd36-433a-bd22-7d1baff1423a",
+    "path" : "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+    "digest" : "7FdWT6YTV0jyIJQuK5rVTg==",
+    "lastModifierId" : "30834b6f-0a47-4ef1-ac68-61ee5a2b7fbc",
+    "renditions" : {
+      "default" : {
+        "id" : "r=df1678a1-7ac4-4aab-a590-5e22411a8904&a=a7b2cf43-badd-4530-a3b3-0d834883b692",
+        "source" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904"
+      }
+    },
+    "links" : {
+      "media" : {
+        "href" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+      },
+      "thumbnail" : {
+        "href" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+      }
+    },
+    "id" : "a7b2cf43-badd-4530-a3b3-0d834883b692",
+    "categories" : [ ],
+    "usageRights" : {
+      "categories" : [ ]
+    },
+    "systemModified" : "2020-03-20T15:15:15.179Z",
+    "profileRenditions" : [ {
+      "profileId" : "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName" : "Travel Article Image Profile",
+      "key" : "card",
+      "label" : "Card",
+      "transform" : {
+        "scale" : 0.43252595155709345,
+        "crop" : {
+          "x" : 529,
+          "y" : 0,
+          "width" : 250,
+          "height" : 250
+        }
+      },
+      "uri" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?resize=830px:250px&crop=250:250;529,0",
+      "width" : 250,
+      "height" : 250,
+      "url" : "/ae6a1610-fd30-4b81-8871-0f7f11f95426/dxresources/df16/df1678a1-7ac4-4aab-a590-5e22411a8904.png?resize=830px%3A250px&crop=250%3A250%3B529%2C0"
+    } ],
+    "rev" : "8-8c1eeaef6a29459e6242fedc92a9be9d",
+    "altText" : "The landscape of Canada with a river, forest, and snowy mountains.",
+    "resource" : "df1678a1-7ac4-4aab-a590-5e22411a8904",
+    "created" : "2020-03-20T15:15:14.316Z",
+    "profiles" : [ "59414bcf-8ccb-4809-9117-47b7a64864a0" ],
+    "mediaType" : "image/png",
+    "classification" : "asset",
+    "tags" : {
+      "suggested" : [ "classification:ridge", "classification:nature", "classification:continental glacier", "classification:glacier", "classification:ice mass", "classification:cirque (basin)", "classification:natural elevation", "classification:mountain range", "classification:sea green color", "classification:greenish blue color" ],
+      "declined" : [ "classification:ridge", "classification:nature", "classification:continental glacier", "classification:glacier", "classification:ice mass", "classification:cirque (basin)", "classification:natural elevation", "classification:mountain range", "classification:sea green color", "classification:greenish blue color" ],
+      "values" : [ "user:travel site sample" ],
+      "analysis" : "complete"
+    },
+    "assetType" : "image",
+    "isManaged" : true,
+    "categoryIds" : [ ],
+    "cognitive" : {
+      "classifications" : [ "ridge", "nature", "continental glacier", "glacier", "ice mass", "cirque (basin)", "natural elevation", "mountain range", "sea green color", "greenish blue color" ],
+      "colors" : {
+        "vibrant" : "#058e98",
+        "muted" : "#669da0",
+        "darkVibrant" : "#047c88",
+        "darkMuted" : "#4c4739",
+        "lightVibrant" : "#7ef2fa",
+        "lightMuted" : "#b4c6c4"
+      },
+      "status" : "complete"
+    },
+    "fileSize" : 617185,
+    "name" : "Canada-Lead-Image.png",
+    "lastModified" : "2020-03-20T15:15:15.146Z",
+    "status" : "ready"
+  },
+  "media" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904.png",
+  "thumbnail" : "/delivery/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145",
+  "isManaged" : true,
+  "status" : "ready",
+  "restricted" : false,
+  "libraryId" : "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "systemModified" : "2020-03-20T15:15:15.179Z",
+  "dominantColor_0_d" : 0.14978027,
+  "dominantColor_1_d" : 0.21331787,
+  "dominantColor_2_d" : 0.25042725,
+  "dominantColor" : "0.14978027,0.21331787,0.25042725"
+}]}
