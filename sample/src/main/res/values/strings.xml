@@ -1,0 +1,64 @@
+<!--
+  ~ Copyright 2020 Acoustic, L.P.
+  ~ Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Apache License, Version 2.0
+  ~ www.apache.org
+  ~ Home page of The Apache Software Foundation
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an
+  ~ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">AcousticContentDeliverySDK</string>
+    <string name="delivery_search_label">Delivery Search</string>
+
+
+    <string name="action_update_query">Update Query</string>
+    <string name="action_save">Save</string>
+    <string name="action_close">Close</string>
+    <string name="action_defaults">Defaults</string>
+    <string name="action_login_title">LogIn</string>
+    <string name="action_logout_title">LogOut</string>
+    <string name="action_account_title">Account</string>
+    <string name="action_filter_title">Filter</string>
+    <string name="action_filter_settings_title">Setup Filter</string>
+    <string name="action_filter_query_title">Launch Query</string>
+
+    <!-- Sample screens -->
+    <string name="error_title">Error</string>
+    <string name="activity_sample_make_query_label">Make Call</string>
+    <string name="activity_sample_query_details_label">Query Details</string>
+    <string name="activity_sample_content_types">Content Types Sample</string>
+    <string name="activity_sample_content_items">Content Items Sample</string>
+    <string name="activity_sample_assets">Assets Sample</string>
+    <string name="activity_sample_categories">Categories Sample</string>
+
+    <!-- Query Filter screen -->
+    <string name="activity_query_builder_update_label">Update</string>
+    <string name="activity_query_builder_add_label">Add</string>
+    <string name="activity_query_builder_remove_label">Remove</string>
+    <string name="activity_query_builder_start_template">Start: %s</string>
+    <string name="activity_query_builder_rows_template">Rows: %s</string>
+    <string name="activity_query_builder_sort_template">Sort By: %s</string>
+    <string name="activity_query_builder_sort_hint">Field name</string>
+    <string name="activity_query_builder_condition_hint">Query condition</string>
+    <string name="activity_query_builder_sort_asc_label">ASC</string>
+    <string name="activity_query_builder_sort_desc_label">DESC</string>
+    <string name="activity_query_builder_filter_by_label">Filter By</string>
+    <string name="activity_query_builder_filter_query_label">Filter Query</string>
+    <string name="activity_query_builder_filter_by_template">Filter By: %s</string>
+    <string name="activity_query_builder_filter_query_template">Filter Query: %s</string>
+    <string name="activity_query_builder_include_draft_label">Include Draft</string>
+    <string name="activity_query_builder_include_retired_label">Include Retired</string>
+    <string name="activity_query_builder_protected_content_label">Protected Content</string>
+
+    <string-array name="sort_orders_array">
+        <item>@string/activity_query_builder_sort_asc_label</item>
+        <item>@string/activity_query_builder_sort_desc_label</item>
+    </string-array>
+
+</resources>

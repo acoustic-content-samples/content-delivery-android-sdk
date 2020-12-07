@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AlwaysShowAction"
+    tools:context=".HomeActivity">
+
+    <item
+        android:id="@+id/action_login"
+        android:orderInCategory="100"
+        android:title="@string/action_login_title"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_account"
+        android:orderInCategory="200"
+        android:title="@string/action_account_title"
+        app:showAsAction="always" >
+
+        <!-- "file" submenu -->
+        <menu>
+            <item android:id="@+id/action_logout"
+                android:title="@string/action_logout_title" />
+        </menu>
+    </item>
+
+</menu>

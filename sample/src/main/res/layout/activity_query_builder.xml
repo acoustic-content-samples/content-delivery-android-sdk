@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2020 Acoustic, L.P.
+  ~ Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Apache License, Version 2.0
+  ~ www.apache.org
+  ~ Home page of The Apache Software Foundation
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an
+  ~ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and limitations under the License.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/start_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Start: 10"/>
+
+            <Button
+                android:id="@+id/btn_start_update"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_update_label" />
+
+            <TextView
+                android:id="@+id/rows_label"
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Rows: 20"/>
+
+            <Button
+                android:id="@+id/btn_rows_update"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_update_label" />
+
+            <TextView
+                android:id="@+id/sort_label"
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Sort By: \nname: ASC\ncategory: DESC"/>
+
+            <Button
+                android:id="@+id/btn_sort_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_add_label" />
+
+            <Button
+                android:id="@+id/btn_sort_remove"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_remove_label" />
+
+            <TextView
+                android:id="@+id/filter_by_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Filter By: \nclassification: asset"/>
+
+            <Button
+                android:id="@+id/btn_filter_by_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_add_label" />
+
+            <Button
+                android:id="@+id/btn_filter_by_remove"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_remove_label" />
+
+            <TextView
+                android:id="@+id/filter_query_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Sort Query: \nlastModified:[NOW-2DAYS/DAY TO NOW]"/>
+
+            <Button
+                android:id="@+id/btn_filter_query_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_add_label" />
+
+            <Button
+                android:id="@+id/btn_filter_query_remove"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_remove_label" />
+
+            <CheckBox
+                android:id="@+id/include_draft"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_include_draft_label" />
+
+            <CheckBox
+                android:id="@+id/include_retired"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_include_retired_label" />
+
+            <CheckBox
+                android:id="@+id/protected_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_query_builder_protected_content_label" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
