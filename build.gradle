@@ -1,35 +1,78 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply plugin: 'com.android.library'
+//apply plugin: "org.sonarqube"
 
-buildscript {
-    repositories {
-        google()
-        jcenter()
-//        maven {
-//            url "https://plugins.gradle.org/m2/"
-//        }
-//        mavenCentral()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.3'
-        
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
 
-//        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.8"
-//        classpath "com.vanniktech:gradle-android-junit-jacoco-plugin:0.16.0"
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles 'consumer-rules.pro'
     }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
+    }
+
+    testOptions {
+        unitTests.all {
+            systemProperty "scheme", findProperty("scheme") //Possible value AcousticMockTests or AcousticLiveTests
+            systemProperty "API_URL", findProperty("API_URL")
+            systemProperty "USERNAME", findProperty("USERNAME")
+            systemProperty "PASSWORD", findProperty("PASSWORD")
+            //Available schemes (defaults to AcousticMockTests):
+            //- AcousticLiveTests
+            //- AcousticMockTests
+            //Available environment variables for Live tests:
+            //- API_URL
+            //- USERNAME
+            //- PASSWORD
+            //To run UnitTests with mock data use:
+            //terminal command (for Windows): gradlew test -Pscheme=AcousticMockTests
+            //terminal command for Mac OS (from the AcousticContentDeliverySDK root folder): ./gradlew test -Pscheme=AcousticMockTests
+            //without any environment variables
+            //
+            //
+            //To run UnitTests with live data use:
+            //terminal command (for Windows): gradlew test -Pscheme=AcousticLiveTests  -PAPI_URL=https://test.com/ -PUSERNAME=test_user -PPASSWORD=test_pass
+            //terminal command for Mac OS (from the AcousticContentDeliverySDK root folder): ./gradlew test -Pscheme=AcousticLiveTests  -PAPI_URL=https://test.com/ -PUSERNAME=test_user -PPASSWORD=test_pass
+        }
+    }
+
 }
 
-//apply plugin: "com.vanniktech.android.junit.jacoco"
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        
-    }
-}
+    api 'com.squareup.retrofit2:retrofit:2.6.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation 'com.squareup.okhttp3:okhttp-urlconnection:3.14.2'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.14.2'
+    implementation 'com.google.code.gson:gson:2.8.6'
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    testImplementation 'junit:junit:4.13'
+    testImplementation 'org.mockito:mockito-core:3.2.4'
+    testImplementation 'com.squareup.okhttp3:mockwebserver:3.14.2'
+    testImplementation 'org.mockito:mockito-core:3.2.4'
+
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    testImplementation 'org.json:json:20171018'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+
+    implementation group: 'commons-codec', name: 'commons-codec', version: '1.10'
 }
